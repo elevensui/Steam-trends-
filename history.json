@@ -1,0 +1,2922 @@
+{
+ "alerted": {
+  "1867240": {
+   "date": "2026-11-07",
+   "players": 96867
+  },
+  "3393110": {
+   "date": "2026-11-07",
+   "players": 186111
+  },
+  "4115450": {
+   "date": "2026-11-07",
+   "players": 100654
+  },
+  "4262460": {
+   "date": "2026-11-07",
+   "players": 94943
+  },
+  "892970": {
+   "date": "2026-11-07",
+   "players": 76045
+  }
+ },
+ "details": {
+  "10": {
+   "checked": "2026-11-07",
+   "desc": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Counter-Strike",
+   "price": "£8.19",
+   "released": "2000-11-01",
+   "type": "game"
+  },
+  "100": {
+   "checked": "2026-11-07",
+   "desc": "With its extensive Tour of Duty campaign, a near-limitless number of skirmish modes, updates and new content for Counter-Strike's award-winning multiplayer game play, plus over 12 bonus single player missions, Counter-Strike: Condition Zero is a tremendous offering of single and multiplayer content.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Counter-Strike: Condition Zero",
+   "price": "£8.19",
+   "released": "2004-03-01",
+   "type": "game"
+  },
+  "105600": {
+   "checked": "2026-11-07",
+   "desc": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Terraria",
+   "price": "£8.50",
+   "released": "2011-05-16",
+   "type": "game"
+  },
+  "1063730": {
+   "checked": "2026-11-07",
+   "desc": "Experience a thrilling action RPG set on the supernatural island of Aeternum. Forge your destiny on an adventure filled with danger and opportunity.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "RPG"
+   ],
+   "name": "New World: Aeternum",
+   "price": "",
+   "released": "2021-09-28",
+   "type": "game"
+  },
+  "107410": {
+   "checked": "2026-11-07",
+   "desc": "Experience true combat gameplay in a massive military sandbox. Deploy with a wide variety of single- and multiplayer content, a massive arsenal of modern weapons and vehicles, and limitless opportunities for content creation. Authentic, diverse, open - Arma 3 sends you to war.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Arma 3",
+   "price": "£24.99",
+   "released": "2013-09-12",
+   "type": "game"
+  },
+  "1085660": {
+   "checked": "2026-11-07",
+   "desc": "Explore the mysteries of Sol and experience exhilirating first-person shooter combat in Destiny 2. Unlock powerful abilities and collect unique gear across story missions, co-op, and PvP modes.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Free To Play"
+   ],
+   "name": "Destiny 2",
+   "price": "",
+   "released": "2019-10-01",
+   "type": "game"
+  },
+  "108600": {
+   "checked": "2026-11-07",
+   "desc": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+   "free": false,
+   "genres": [
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Early Access"
+   ],
+   "name": "Project Zomboid",
+   "price": "£22.49",
+   "released": "2013-11-08",
+   "type": "game"
+  },
+  "1086940": {
+   "checked": "2026-11-07",
+   "desc": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+   "free": false,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "name": "Baldur's Gate 3",
+   "price": "£49.99",
+   "released": "2023-08-03",
+   "type": "game"
+  },
+  "1089350": {
+   "checked": "2026-11-07",
+   "desc": "NOTE: All multiplayer servers for NBA 2K20 will be shutdown as of 12/31/2021. After that time, all game functions requiring online servers will no longer function.",
+   "free": false,
+   "genres": [
+    "Simulation",
+    "Sports"
+   ],
+   "name": "NBA 2K20",
+   "price": "",
+   "released": "2019-09-06",
+   "type": "game"
+  },
+  "1091500": {
+   "checked": "2026-11-07",
+   "desc": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+   "free": false,
+   "genres": [
+    "RPG"
+   ],
+   "name": "Cyberpunk 2077",
+   "price": "£49.99",
+   "released": "2020-12-09",
+   "type": "game"
+  },
+  "1097150": {
+   "checked": "2026-11-07",
+   "desc": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Massively Multiplayer"
+   ],
+   "name": "Fall Guys",
+   "price": "",
+   "released": "2020-08-03",
+   "type": "game"
+  },
+  "1103140": {
+   "checked": "2026-11-07",
+   "desc": "Reverie is a music player and visualizer. Play your own songs or visualize anything playing on your PC, tweak the visuals with lots of controls and presets, and record the result as a small, smooth video with one key.",
+   "free": false,
+   "genres": [
+    "Audio Production",
+    "Utilities",
+    "Video Production"
+   ],
+   "name": "Reverie",
+   "price": "£8.19",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "1116170": {
+   "checked": "2026-11-07",
+   "desc": "Brutal fast-paced isometric Co-op Loot Shooter in Cyberpunk world. Equipment-based combos. Exotic Weapons and Armor. Easy to start, hard to master. Play solo or with friends.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "CyberCorp",
+   "price": "£12.79",
+   "released": "2025-04-22",
+   "type": "game"
+  },
+  "1142710": {
+   "checked": "2026-11-07",
+   "desc": "The cataclysmic conclusion to the Total War: WARHAMMER trilogy is here. Rally your forces and step into the Realm of Chaos, a dimension of mind-bending horror where the very fate of the world will be decided. Will you conquer your Daemons… or command them?",
+   "free": false,
+   "genres": [
+    "Action",
+    "Strategy"
+   ],
+   "name": "Total War: WARHAMMER III",
+   "price": "£49.99",
+   "released": "2022-02-16",
+   "type": "game"
+  },
+  "1172470": {
+   "checked": "2026-11-07",
+   "desc": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Free To Play"
+   ],
+   "name": "Apex Legends™",
+   "price": "",
+   "released": "2020-11-04",
+   "type": "game"
+  },
+  "1174180": {
+   "checked": "2026-11-07",
+   "desc": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Red Dead Redemption 2",
+   "price": "£59.99",
+   "released": "2019-12-05",
+   "type": "game"
+  },
+  "1203220": {
+   "checked": "2026-11-07",
+   "desc": "Dive into the legends of the Far East in NARAKA: BLADEPOINT; team up with friends in fast-paced melee fights for a Battle Royale experience unlike any other. Find your playstyle with a varied cast of heroes with unique skills. More than 40 million players have already joined the fray, play free now!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "Free To Play"
+   ],
+   "name": "NARAKA: BLADEPOINT",
+   "price": "",
+   "released": "2021-08-11",
+   "type": "game"
+  },
+  "1203620": {
+   "checked": "2026-11-07",
+   "desc": "Enshrouded is a solo and co-op survival action RPG where your freedom and creativity come first. Conquer the Shroud, a corrupting fog devouring the kingdom of Embervale: explore a handcrafted world full of secrets, forge your hero your way, and build anything, anywhere in a fully terraformable land.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Enshrouded",
+   "price": "£34.99",
+   "released": "2026-10-15",
+   "type": "game"
+  },
+  "1222670": {
+   "checked": "2026-11-07",
+   "desc": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more.",
+   "free": true,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Simulation",
+    "Free To Play"
+   ],
+   "name": "The Sims™ 4",
+   "price": "",
+   "released": "2020-06-18",
+   "type": "game"
+  },
+  "1238810": {
+   "checked": "2026-11-07",
+   "desc": "This is the ultimate Battlefield V experience. Enter mankind’s greatest conflict with the complete arsenal of weapons, vehicles, and gadgets plus the best customization content of Year 1 and 2.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Battlefield™ V",
+   "price": "£44.99",
+   "released": "2020-10-22",
+   "type": "game"
+  },
+  "1240440": {
+   "checked": "2026-11-07",
+   "desc": "From one of gaming's most iconic sagas, Halo is bigger than ever. Featuring an expansive open-world campaign and a dynamic free to play multiplayer experience. ",
+   "free": true,
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "Halo Infinite",
+   "price": "",
+   "released": "2021-11-15",
+   "type": "game"
+  },
+  "1245620": {
+   "checked": "2026-11-07",
+   "desc": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+   "free": false,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "name": "ELDEN RING",
+   "price": "£49.99",
+   "released": "2022-02-24",
+   "type": "game"
+  },
+  "1281930": {
+   "checked": "2026-11-07",
+   "desc": "Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "tModLoader",
+   "price": "",
+   "released": "2020-05-16",
+   "skip": true,
+   "type": "mod"
+  },
+  "1304930": {
+   "checked": "2026-11-07",
+   "desc": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "name": "The Outlast Trials",
+   "price": "£33.50",
+   "released": "2024-03-05",
+   "type": "game"
+  },
+  "1326470": {
+   "checked": "2026-11-07",
+   "desc": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Sons Of The Forest",
+   "price": "£24.99",
+   "released": "2024-02-22",
+   "type": "game"
+  },
+  "1364780": {
+   "checked": "2026-11-07",
+   "desc": "Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Street Fighter™ 6",
+   "price": "£34.99",
+   "released": "2023-06-01",
+   "type": "game"
+  },
+  "1366800": {
+   "checked": "2026-11-07",
+   "desc": "Improve your aim and accuracy in every shooter you play. Crosshair X overlays a custom crosshair on top of any game, even games that do not include one. Choose from thousands of community designs or build your own with the designer.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Software Training"
+   ],
+   "name": "Crosshair X",
+   "price": "£6.29",
+   "released": "2020-08-17",
+   "type": "game"
+  },
+  "1422450": {
+   "checked": "2026-11-07",
+   "desc": "Deadlock is a multiplayer game in early development.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Deadlock",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "1449850": {
+   "checked": "2026-11-07",
+   "desc": "Yu-Gi-Oh! MASTER DUEL is the ultimate free-to-play cross-platform strategy card game with fast-paced Duels, stunning HD graphics and a new, dynamic soundtrack! Get ready to challenge Duelists around the world!",
+   "free": true,
+   "genres": [
+    "Simulation",
+    "Strategy",
+    "Free To Play"
+   ],
+   "name": "Yu-Gi-Oh! Master Duel",
+   "price": "",
+   "released": "2022-01-18",
+   "type": "game"
+  },
+  "1491000": {
+   "checked": "2026-11-07",
+   "desc": "Gear up for tactical mech action in War Robots: Frontiers, a free-to-play multiplayer mech shooter. Construct and customize, squad up with Pilots online, and fire up your engines in massive intergalactic battles.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Simulation",
+    "Free To Play"
+   ],
+   "name": "War Robots: Frontiers",
+   "price": "",
+   "released": "2025-03-04",
+   "type": "game"
+  },
+  "1517290": {
+   "checked": "2026-11-07",
+   "desc": "Battlefield™ 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual"
+   ],
+   "name": "Battlefield™ 2042",
+   "price": "£49.99",
+   "released": "2021-11-19",
+   "type": "game"
+  },
+  "1599340": {
+   "checked": "2026-11-07",
+   "desc": "Embark on an odyssey for the Lost Ark in a vast, vibrant world: explore new lands, seek out lost treasures, and test yourself in thrilling action combat in this action-packed free-to-play RPG.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "RPG"
+   ],
+   "name": "Lost Ark",
+   "price": "",
+   "released": "2022-02-11",
+   "type": "game"
+  },
+  "1623730": {
+   "checked": "2026-11-07",
+   "desc": "Fight, farm, build and work alongside mysterious creatures called &quot;Pals&quot; in this completely new multiplayer, open world survival and crafting game!",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Palworld",
+   "price": "£24.99",
+   "released": "2026-07-09",
+   "type": "game"
+  },
+  "1665460": {
+   "checked": "2026-11-07",
+   "desc": "Step up and experience the exhilarating soccer game that has now surpassed 1 billion downloads! Play eFootball™ with users around the world!",
+   "free": true,
+   "genres": [
+    "Simulation",
+    "Sports",
+    "Free To Play"
+   ],
+   "name": "eFootball™",
+   "price": "",
+   "released": "2021-09-29",
+   "type": "game"
+  },
+  "1808500": {
+   "checked": "2026-11-07",
+   "desc": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "ARC Raiders",
+   "price": "£34.99",
+   "released": "2025-10-30",
+   "type": "game"
+  },
+  "1811260": {
+   "checked": "2026-11-07",
+   "desc": "FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology, men’s and women’s FIFA World Cup™, women’s club teams, cross-play features**, and more.",
+   "free": false,
+   "genres": [
+    "Simulation",
+    "Sports"
+   ],
+   "name": "EA SPORTS™ FIFA 23",
+   "price": "",
+   "released": "2022-09-30",
+   "type": "game"
+  },
+  "1867240": {
+   "checked": "2026-11-07",
+   "desc": "WARDOGS is a TACTICAL ALL OUT WARFARE FPS where one hundred players split across three teams fight over the control zone. Set in the derelict industrial mountains of Eastern Europe on a destructible battlefield where teamwork pays and cash is king.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie",
+    "Massively Multiplayer",
+    "Simulation"
+   ],
+   "name": "WARDOGS",
+   "price": "£36.99",
+   "released": "2026-09-10",
+   "type": "game"
+  },
+  "1905180": {
+   "checked": "2026-11-07",
+   "desc": "Free and open-source software for video recording and live streaming",
+   "free": true,
+   "genres": [
+    "Utilities",
+    "Video Production"
+   ],
+   "name": "OBS Studio",
+   "price": "",
+   "released": "2022-03-21",
+   "type": "game"
+  },
+  "1938090": {
+   "checked": "2026-11-07",
+   "desc": "The Call of Duty® experience supports Modern Warfare® 4, Black Ops 7 and Call of Duty®: Warzone™.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Call of Duty®",
+   "price": "",
+   "released": "2022-10-27",
+   "type": "game"
+  },
+  "1942280": {
+   "checked": "2026-11-07",
+   "desc": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Brotato",
+   "price": "£1.99",
+   "released": "2023-06-23",
+   "type": "game"
+  },
+  "1966720": {
+   "checked": "2026-11-07",
+   "desc": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Early Access"
+   ],
+   "name": "Lethal Company",
+   "price": "£8.50",
+   "released": "2023-10-23",
+   "type": "game"
+  },
+  "1973530": {
+   "checked": "2026-11-07",
+   "desc": "As the Executive Manager of Limbus Company, lead your group of twelve Sinners, venture into the buried facilities of Lobotomy Corporation, and lay claim on the Golden Boughs.",
+   "free": true,
+   "genres": [
+    "Free To Play"
+   ],
+   "name": "Limbus Company",
+   "price": "",
+   "released": "2023-02-26",
+   "type": "game"
+  },
+  "1990250": {
+   "checked": "2026-11-07",
+   "desc": "Four animals and a robot have been given racing cars. This was a mistake. SG Racing is a fast, ridiculous pixel-art arcade racer about tight corners, power-ups and deeply irresponsible use of eggs. 1-PLAYER CHAMPIONSHIP • 2–4 PLAYER LOCAL MULTIPLAYER • PLAY ONLINE VIA STEAM REMOTE PLAY TOGETHER",
+   "free": false,
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Racing"
+   ],
+   "name": "SG Racing",
+   "price": "£5.59",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "2050650": {
+   "checked": "2026-11-07",
+   "desc": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Resident Evil 4",
+   "price": "£34.99",
+   "released": "2023-03-23",
+   "type": "game"
+  },
+  "2073620": {
+   "checked": "2026-11-07",
+   "desc": "Arena Breakout: Infinite is a high-stakes tactical extraction shooter where every decision matters. Fight, loot, and extract—or lose it all. With stunningly realistic visuals, lifelike sound, and unforgiving PvPvE combat, every raid is a gamble between glory and ruin.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "RPG"
+   ],
+   "name": "Arena Breakout: Infinite",
+   "price": "",
+   "released": "2025-09-15",
+   "type": "game"
+  },
+  "2073850": {
+   "checked": "2026-11-07",
+   "desc": "THE FINALS is the ultimate free-to-play FPS Game Show. Compete across fast-paced Modes and stunning Arenas, with unparalleled, unscripted destruction that turns the environment into your greatest Weapon. Steal the Show!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS",
+   "price": "",
+   "released": "2023-12-07",
+   "type": "game"
+  },
+  "2139460": {
+   "checked": "2026-11-07",
+   "desc": "Once Human is a Strange Worlds Survival Game set in a strange, post-apocalyptic future. Unite with friends to fight monstrous enemies, uncover secret plots, compete for resources, and build your own territory. Once, you were merely human. Now, you have the power to remake the world.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Massively Multiplayer"
+   ],
+   "name": "Once Human",
+   "price": "",
+   "released": "2024-07-09",
+   "type": "game"
+  },
+  "2183900": {
+   "checked": "2026-11-07",
+   "desc": "Embody the superhuman skill and brutality of a Space Marine. Unleash deadly abilities and devastating weaponry to obliterate the relentless Tyranid swarms. Defend the Imperium in spectacular third-person action in solo or multiplayer modes.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "name": "Warhammer 40,000: Space Marine 2",
+   "price": "£54.99",
+   "released": "2024-09-09",
+   "type": "game"
+  },
+  "218620": {
+   "checked": "2026-11-07",
+   "desc": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+   "free": false,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "name": "PAYDAY 2",
+   "price": "£7.99",
+   "released": "2013-08-13",
+   "type": "game"
+  },
+  "2186680": {
+   "checked": "2026-11-07",
+   "desc": "Made in a close partnership with Games Workshop, Warhammer 40,000: Rogue Trader is a story-rich classical RPG from Owlcat Games, developers of the critically acclaimed game, Pathfinder: Wrath of the Righteous.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Warhammer 40,000: Rogue Trader",
+   "price": "£42.99",
+   "released": "2023-12-07",
+   "type": "game"
+  },
+  "219990": {
+   "checked": "2026-11-07",
+   "desc": "Enter an apocalyptic fantasy world where humanity is on the brink of extinction, iron is valued above gold and trust is hard earned. This ARPG features complex character development, hundreds of unique items, crafting and quests with choice &amp; consequence.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Grim Dawn",
+   "price": "£22.99",
+   "released": "2016-02-25",
+   "type": "game"
+  },
+  "220": {
+   "checked": "2026-11-07",
+   "desc": "Reawakened from stasis in the occupied metropolis of City 17, Gordon Freeman is joined by Alyx Vance as he leads a desperate human resistance. Experience the landmark first-person shooter packed with immersive world-building, boundary-pushing physics, and exhilarating combat.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Half-Life 2",
+   "price": "£8.19",
+   "released": "2004-11-16",
+   "type": "game"
+  },
+  "221100": {
+   "checked": "2026-11-07",
+   "desc": "How long can you survive a post-apocalyptic world? A land overrun with an infected &quot;zombie&quot; population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer"
+   ],
+   "name": "DayZ",
+   "price": "£39.99",
+   "released": "2018-12-13",
+   "type": "game"
+  },
+  "2246340": {
+   "checked": "2026-11-07",
+   "desc": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "name": "Monster Hunter Wilds",
+   "price": "£34.99",
+   "released": "2025-02-27",
+   "type": "game"
+  },
+  "227300": {
+   "checked": "2026-11-07",
+   "desc": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+   "free": false,
+   "genres": [
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Euro Truck Simulator 2",
+   "price": "£16.99",
+   "released": "2012-10-12",
+   "type": "game"
+  },
+  "227940": {
+   "checked": "2026-11-07",
+   "desc": "Shoot, blow sh!t up, fly or bark orders in the ultimate Free-to-Play, large scale, multiplayer, shooter experience. Thousands of players in multiple battles fighting one massive war of nations. The first to capture 15 cities takes the glory.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Free To Play",
+    "Indie",
+    "Massively Multiplayer"
+   ],
+   "name": "Heroes & Generals",
+   "price": "",
+   "released": "2016-10-18",
+   "type": "game"
+  },
+  "2300320": {
+   "checked": "2026-11-07",
+   "desc": "Farming Simulator 25 invites you to join the rewarding farm life, single-handedly or cooperatively in multiplayer. This Farm is Your Farm!",
+   "free": false,
+   "genres": [
+    "Simulation"
+   ],
+   "name": "Farming Simulator 25",
+   "price": "£25.99",
+   "released": "2024-11-12",
+   "type": "game"
+  },
+  "230410": {
+   "checked": "2026-11-07",
+   "desc": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game",
+   "free": true,
+   "genres": [
+    "Action",
+    "RPG",
+    "Free To Play"
+   ],
+   "name": "Warframe",
+   "price": "",
+   "released": "2013-03-25",
+   "type": "game"
+  },
+  "2357570": {
+   "checked": "2026-11-07",
+   "desc": "Overwatch®, A FUTURE WORTH FIGHTING FOR! Overwatch® is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 or 6v6 battlefield brawl.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "Overwatch®",
+   "price": "",
+   "released": "2023-08-10",
+   "type": "game"
+  },
+  "2358720": {
+   "checked": "2026-11-07",
+   "desc": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "name": "Black Myth: Wukong",
+   "price": "£49.99",
+   "released": "2024-08-19",
+   "type": "game"
+  },
+  "236390": {
+   "checked": "2026-11-07",
+   "desc": "War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, and naval craft, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "Simulation",
+    "Free To Play"
+   ],
+   "name": "War Thunder",
+   "price": "",
+   "released": "2013-08-15",
+   "type": "game"
+  },
+  "2379780": {
+   "checked": "2026-11-07",
+   "desc": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Balatro",
+   "price": "£12.79",
+   "released": "2024-02-20",
+   "type": "game"
+  },
+  "238960": {
+   "checked": "2026-11-07",
+   "desc": "You are an Exile, struggling to survive on the dark continent of Wraeclast, as you fight to earn power that will allow you to exact your revenge against those who wronged you. Path of Exile is an online Action RPG set in a dark fantasy world. The game is completely free and will never be pay-to-win.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Massively Multiplayer"
+   ],
+   "name": "Path of Exile",
+   "price": "",
+   "released": "2013-10-23",
+   "type": "game"
+  },
+  "239140": {
+   "checked": "2026-11-07",
+   "desc": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "name": "Dying Light",
+   "price": "£1.99",
+   "released": "2015-01-27",
+   "type": "game"
+  },
+  "2399830": {
+   "checked": "2026-11-07",
+   "desc": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame &amp; breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Massively Multiplayer"
+   ],
+   "name": "ARK: Survival Ascended",
+   "price": "£9.49",
+   "released": "2023-10-25",
+   "type": "game"
+  },
+  "240": {
+   "checked": "2026-11-07",
+   "desc": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Counter-Strike: Source",
+   "price": "£8.19",
+   "released": "2004-11-01",
+   "type": "game"
+  },
+  "2406770": {
+   "checked": "2026-11-07",
+   "desc": "Bodycam is the first tactical multiplayer FPS with a true body-camera view in Unreal Engine 5. Close-quarters combats feel raw and loud. Every angle, callout, and bullet matters. Play Deathmatch, Team Deathmatch, and Wingman on photoreal maps where teamplay, tactics, and clutch skill are key.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie",
+    "Massively Multiplayer",
+    "Simulation"
+   ],
+   "name": "Bodycam",
+   "price": "£29.50",
+   "released": "2024-06-07",
+   "type": "game"
+  },
+  "242760": {
+   "checked": "2026-11-07",
+   "desc": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "The Forest",
+   "price": "£15.49",
+   "released": "2018-04-30",
+   "type": "game"
+  },
+  "244210": {
+   "checked": "2026-11-07",
+   "desc": "Assetto Corsa v1.16 introduces the new &quot;Laguna Seca&quot; laser-scanned track, 7 new cars among which the eagerly awaited Alfa Romeo Giulia Quadrifoglio! Check the changelog for further info!",
+   "free": false,
+   "genres": [
+    "Indie",
+    "Racing",
+    "Simulation",
+    "Sports"
+   ],
+   "name": "Assetto Corsa",
+   "price": "£15.49",
+   "released": "2014-12-19",
+   "type": "game"
+  },
+  "2483190": {
+   "checked": "2026-11-07",
+   "desc": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+   "free": false,
+   "genres": [
+    "Racing",
+    "Simulation",
+    "Sports"
+   ],
+   "name": "Forza Horizon 6",
+   "price": "£59.99",
+   "released": "2026-05-18",
+   "type": "game"
+  },
+  "2507950": {
+   "checked": "2026-11-07",
+   "desc": "Play for free in operator-based extraction and full-scale combined arms warfare. Become elite Operators, customize an ever-expanding arsenal of weapons, and deploy into thrill-packed missions across multiple modes.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "Free To Play"
+   ],
+   "name": "Delta Force",
+   "price": "",
+   "released": "2024-12-04",
+   "type": "game"
+  },
+  "250900": {
+   "checked": "2026-11-07",
+   "desc": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "The Binding of Isaac: Rebirth",
+   "price": "£10.99",
+   "released": "2014-11-04",
+   "type": "game"
+  },
+  "251570": {
+   "checked": "2026-11-07",
+   "desc": "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "7 Days to Die",
+   "price": "£37.99",
+   "released": "2024-07-25",
+   "type": "game"
+  },
+  "252490": {
+   "checked": "2026-11-07",
+   "desc": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Massively Multiplayer"
+   ],
+   "name": "Rust",
+   "price": "£17.49",
+   "released": "2018-02-08",
+   "type": "game"
+  },
+  "252950": {
+   "checked": "2026-11-07",
+   "desc": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode, special “Mutators” that let you change the rules entirely, hockey and...",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie",
+    "Racing",
+    "Sports"
+   ],
+   "name": "Rocket League®",
+   "price": "",
+   "released": "2015-07-06",
+   "type": "game"
+  },
+  "2540670": {
+   "checked": "2026-11-07",
+   "desc": "In the vibrant realm of Terralysia lurk relentless enemies. Brace yourself for grueling missions, endless onslaughts, and formidable bosses in this third-person roguelike. Use the right strategy and spells to survive a bit longer, but be warned, as you grow in strength, so do your enemies.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Terralysia",
+   "price": "£4.99",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "255710": {
+   "checked": "2026-11-07",
+   "desc": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
+   "free": false,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Cities: Skylines",
+   "price": "£24.99",
+   "released": "2015-03-10",
+   "type": "game"
+  },
+  "261550": {
+   "checked": "2026-11-07",
+   "desc": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG",
+    "Simulation"
+   ],
+   "name": "Mount & Blade II: Bannerlord",
+   "price": "£42.99",
+   "released": "2022-10-25",
+   "type": "game"
+  },
+  "2694490": {
+   "checked": "2026-11-07",
+   "desc": "Path of Exile 2 is a next generation Action RPG from Grinding Gear Games, featuring co-op for up to six players. Set years after the original Path of Exile, you will return to the dark world of Wraeclast and seek to end the corruption that is spreading.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "RPG"
+   ],
+   "name": "Path of Exile 2",
+   "price": "",
+   "released": "2024-12-06",
+   "type": "game"
+  },
+  "271590": {
+   "checked": "2026-11-07",
+   "desc": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Grand Theft Auto V Legacy",
+   "price": "",
+   "released": "2015-04-13",
+   "type": "game"
+  },
+  "2767030": {
+   "checked": "2026-11-07",
+   "desc": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Massively Multiplayer"
+   ],
+   "name": "Marvel Rivals",
+   "price": "",
+   "released": "2024-12-05",
+   "type": "game"
+  },
+  "2807960": {
+   "checked": "2026-11-07",
+   "desc": "The ultimate all-out warfare experience. In a war of tanks, fighter jets, and massive combat arsenals, your squad is the deadliest weapon.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Battlefield™ 6",
+   "price": "£59.99",
+   "released": "2025-10-10",
+   "type": "game"
+  },
+  "284160": {
+   "checked": "2026-11-07",
+   "desc": "A dynamic soft-body physics vehicle simulator capable of doing just about anything.",
+   "free": false,
+   "genres": [
+    "Racing",
+    "Simulation",
+    "Early Access"
+   ],
+   "name": "BeamNG.drive",
+   "price": "£19.20",
+   "released": "2015-05-29",
+   "type": "game"
+  },
+  "2868840": {
+   "checked": "2026-11-07",
+   "desc": "The iconic roguelike deckbuilder returns. Craft a unique deck, encounter bizarre creatures, and discover relics of immense power in Slay the Spire 2!",
+   "free": false,
+   "genres": [
+    "Indie",
+    "Strategy",
+    "Early Access"
+   ],
+   "name": "Slay the Spire 2",
+   "price": "£19.99",
+   "released": "2026-03-05",
+   "type": "game"
+  },
+  "289070": {
+   "checked": "2026-11-07",
+   "desc": "Expand your empire, advance your culture and go head-to-head against history’s greatest leaders. Will your civilization stand the test of time?",
+   "free": false,
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Sid Meier’s Civilization® VI",
+   "price": "£49.99",
+   "released": "2016-10-20",
+   "type": "game"
+  },
+  "291480": {
+   "checked": "2026-11-07",
+   "desc": "𝗪𝗮𝗿𝗳𝗮𝗰𝗲: 𝗖𝗹𝘂𝘁𝗰𝗵 𝗶𝘀 𝗮 𝗰𝗼𝗻𝘁𝗲𝗺𝗽𝗼𝗿𝗮𝗿𝘆 𝗠𝗠𝗢 𝗳𝗶𝗿𝘀𝘁 𝗽𝗲𝗿𝘀𝗼𝗻 𝘀𝗵𝗼𝗼𝘁𝗲𝗿 𝘄𝗶𝘁𝗵 𝗺𝗶𝗹𝗹𝗶𝗼𝗻𝘀 𝗼𝗳 𝗳𝗮𝗻𝘀 𝗮𝗿𝗼𝘂𝗻𝗱 𝘁𝗵𝗲 𝘄𝗼𝗿𝗹𝗱. 𝗜𝘁 𝗼𝗳𝗳𝗲𝗿𝘀 𝗶𝗻𝘁𝗲𝗻𝘀𝗲 𝗣𝘃𝗣 𝗺𝗼𝗱𝗲𝘀, 𝗰𝗼𝗺𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗣𝘃𝗘 𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗿𝗮𝗶𝗱𝘀 𝘁𝗵𝗮𝘁 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝘄𝗶𝘁𝗵 𝗳𝗶𝘃𝗲 𝗱𝗶𝘃𝗲𝗿𝘀𝗲 𝗰𝗹𝗮𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗮 𝗰𝗼𝗹𝗼𝘀𝘀𝗮𝗹 𝗰𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗮𝗯𝗹𝗲 𝗮𝗿𝘀𝗲𝗻𝗮𝗹.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "Free To Play"
+   ],
+   "name": "Warface: Clutch",
+   "price": "",
+   "released": "2014-07-01",
+   "type": "game"
+  },
+  "291550": {
+   "checked": "2026-11-07",
+   "desc": "An epic platform fighter for up to 8 players online or local. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android &amp; Steam! Frequent updates. Over sixty Legends.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Indie",
+    "Free To Play"
+   ],
+   "name": "Brawlhalla",
+   "price": "",
+   "released": "2017-10-17",
+   "type": "game"
+  },
+  "292030": {
+   "checked": "2026-11-07",
+   "desc": "The Witcher 3: Wild Hunt — Remastered modernizes the acclaimed role-playing game with a range of upgrades and enhancements. Become monster slayer for hire Geralt of Rivia and journey across a dark fantasy open world in an epic quest to find your adopted daughter Ciri.",
+   "free": false,
+   "genres": [
+    "RPG"
+   ],
+   "name": "The Witcher 3: Wild Hunt — Remastered",
+   "price": "£39.99",
+   "released": "2015-05-18",
+   "type": "game"
+  },
+  "294100": {
+   "checked": "2026-11-07",
+   "desc": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
+   "free": false,
+   "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "RimWorld",
+   "price": "£28.49",
+   "released": "2018-10-17",
+   "type": "game"
+  },
+  "2967590": {
+   "checked": "2026-11-07",
+   "desc": "A surreal story-driven game that uses puzzle-solving, Guitar Hero-esque battles, and open world navigation to help Van Cat track down his evil uncle and put an end to his nefarious plans!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Free To Play"
+   ],
+   "name": "Vanakatu",
+   "price": "",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "304050": {
+   "checked": "2026-11-07",
+   "desc": "Grab your friends, hone your blades, and set off for an epic procedurally generated adventure in Trove! Battle the Shadow in realms filled with dungeons and items created by your fellow players. Whether hunting treasure or building realms of your own, it’s never been this good to be square!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Massively Multiplayer"
+   ],
+   "name": "Trove",
+   "price": "",
+   "released": "2015-07-09",
+   "type": "game"
+  },
+  "304930": {
+   "checked": "2026-11-07",
+   "desc": "Unturned is an open-world zombie survival sandbox game. As one of the few not yet turned, you must fight to remain among the living.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Unturned",
+   "price": "",
+   "released": "2017-07-07",
+   "type": "game"
+  },
+  "3164500": {
+   "checked": "2026-11-07",
+   "desc": "From small-time dope pusher to kingpin - manufacture and distribute a range of drugs throughout the grungy city of Hyland Point. Expand your empire with properties, businesses, employees and more.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Schedule I",
+   "price": "£16.75",
+   "released": "2025-03-24",
+   "type": "game"
+  },
+  "320": {
+   "checked": "2026-11-07",
+   "desc": "Fast multiplayer action set in the Half-Life 2 universe! HL2's physics adds a new dimension to deathmatch play. Play straight deathmatch or try Combine vs. Resistance teamplay. Toss a toilet at your friend today!",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Half-Life 2: Deathmatch",
+   "price": "",
+   "released": "2004-11-01",
+   "type": "game"
+  },
+  "322170": {
+   "checked": "2026-11-07",
+   "desc": "Jump and fly your way through danger in this rhythm-based action platformer!",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "name": "Geometry Dash",
+   "price": "£4.29",
+   "released": "2014-12-22",
+   "type": "game"
+  },
+  "322330": {
+   "checked": "2026-11-07",
+   "desc": "Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Don't Starve Together",
+   "price": "£10.99",
+   "released": "2016-04-21",
+   "type": "game"
+  },
+  "3224770": {
+   "checked": "2026-11-07",
+   "desc": "Umamusume: Pretty Derby, winner of Best Mobile Game at The Game Awards 2025, is ready to race! Scout featured trainees and supporters as you navigate the immersive sports life simulation through the game's in-depth training system and top-of-the-line 3D graphics!",
+   "free": true,
+   "genres": [
+    "Simulation",
+    "Sports",
+    "Free To Play"
+   ],
+   "name": "Umamusume: Pretty Derby",
+   "price": "",
+   "released": "2025-06-24",
+   "type": "game"
+  },
+  "3240220": {
+   "checked": "2026-11-07",
+   "desc": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Racing"
+   ],
+   "name": "Grand Theft Auto V Enhanced",
+   "price": "£29.99",
+   "released": "2025-03-04",
+   "type": "game"
+  },
+  "3241660": {
+   "checked": "2026-11-07",
+   "desc": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Early Access"
+   ],
+   "name": "R.E.P.O.",
+   "price": "£5.19",
+   "released": "2025-02-26",
+   "type": "game"
+  },
+  "3321460": {
+   "checked": "2026-11-07",
+   "desc": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Crimson Desert Enhanced",
+   "price": "£54.99",
+   "released": "2026-03-19",
+   "type": "game"
+  },
+  "3393110": {
+   "checked": "2026-11-07",
+   "desc": "AION 2 is the only MMORPG built around a world where the sky is the battlefield. Choose your faction, ascend as a Daeva, and fight a faction war across a world 36 times larger than the original. PC only, on Unreal Engine 5.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "RPG"
+   ],
+   "name": "AION 2",
+   "price": "",
+   "released": "2026-10-05",
+   "type": "game"
+  },
+  "340": {
+   "checked": "2026-11-07",
+   "desc": "Originally planned as a section of the Highway 17 chapter of Half-Life 2, Lost Coast is a playable technology showcase that introduces High Dynamic Range lighting to the Source engine.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Half-Life 2: Lost Coast",
+   "price": "",
+   "released": "2005-10-27",
+   "type": "game"
+  },
+  "3405690": {
+   "checked": "2026-11-07",
+   "desc": "Experience The World's Game like never before in EA SPORTS FC™ 26. Go for glory in a 48-team international tournament mode, take on themed Manager Live Challenges, and step into Player Career with new international ICONs and Heroes.",
+   "free": false,
+   "genres": [
+    "Simulation",
+    "Sports"
+   ],
+   "name": "EA SPORTS FC™ 26",
+   "price": "£59.99",
+   "released": "2025-09-25",
+   "type": "game"
+  },
+  "3419430": {
+   "checked": "2026-11-07",
+   "desc": "Bongo cat needs your help. Bongo cat needz more hatz!!! Every time you press a key, Bongo cat will punch your taskbar. Type, click, play, work to collect more points. Which hats will you find?",
+   "free": true,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Massively Multiplayer",
+    "Simulation"
+   ],
+   "name": "Bongo Cat",
+   "price": "",
+   "released": "2025-03-05",
+   "type": "game"
+  },
+  "3435580": {
+   "checked": "2026-11-07",
+   "desc": "Noir Total is a 2D local multiplayer PvP shooter set in darkened arenas. Sneak through total darkness using your controller’s vibrations, track down your enemies, collect bonuses and set traps to stay one step ahead of your opponents in fast-paced, competitive matches for up to 4 players.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Noir Total : Deadly Party",
+   "price": "£6.47",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "346110": {
+   "checked": "2026-11-07",
+   "desc": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Massively Multiplayer"
+   ],
+   "name": "ARK: Survival Evolved",
+   "price": "£8.44",
+   "released": "2017-08-27",
+   "type": "game"
+  },
+  "3513350": {
+   "checked": "2026-11-07",
+   "desc": "Wuthering Waves is a story-rich open-world action RPG with a high degree of freedom. You wake from your slumber as Rover, joined by a vibrant cast of Resonators on a journey to reclaim your lost memories and change the world.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Free To Play"
+   ],
+   "name": "Wuthering Waves",
+   "price": "",
+   "released": "2025-04-28",
+   "type": "game"
+  },
+  "3527290": {
+   "checked": "2026-11-07",
+   "desc": "PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "name": "PEAK",
+   "price": "£3.96",
+   "released": "2025-06-16",
+   "type": "game"
+  },
+  "359550": {
+   "checked": "2026-11-07",
+   "desc": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "Tom Clancy's Rainbow Six Siege",
+   "price": "",
+   "released": "2015-12-01",
+   "type": "game"
+  },
+  "3678970": {
+   "checked": "2026-11-07",
+   "desc": "The ultimate tiny idle RPG! Adorable pixel heroes are waiting to join your adventure — from your taskbar. Fight off the boredom of work and daily life with diverse classes, skills, items, and builds!",
+   "free": true,
+   "genres": [
+    "Casual",
+    "Indie",
+    "RPG",
+    "Free To Play"
+   ],
+   "name": "TBH: Task Bar Hero",
+   "price": "",
+   "released": "2026-05-27",
+   "type": "game"
+  },
+  "377160": {
+   "checked": "2026-11-07",
+   "desc": "From Bethesda Game Studios, the award-winning creators of Starfield and The Elder Scrolls V: Skyrim, comes Fallout 4. A landmark in open-world RPG design and winner of over 200 ‘Best Of’ honors, including the DICE and BAFTA Game of the Year.",
+   "free": false,
+   "genres": [
+    "RPG"
+   ],
+   "name": "Fallout 4",
+   "price": "£15.99",
+   "released": "2015-11-09",
+   "type": "game"
+  },
+  "381210": {
+   "checked": "2026-11-07",
+   "desc": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Dead by Daylight",
+   "price": "£17.19",
+   "released": "2016-06-14",
+   "type": "game"
+  },
+  "386360": {
+   "checked": "2026-11-07",
+   "desc": "Join 40+ million players in SMITE, the Battleground of the Gods! Wield Thor’s hammer, turn your foes to stone as Medusa, or flex your divine power as one of 100+ other mythological icons. Become a God and play FREE today!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+   ],
+   "name": "SMITE®",
+   "price": "",
+   "released": "2015-09-08",
+   "type": "game"
+  },
+  "3932890": {
+   "checked": "2026-11-07",
+   "desc": "Escape from Tarkov is the original extraction FPS where every raid is a gamble with death. Prep your raid, bleed, endure and fight through ruthless PMC players and Scavs, gain tactical advantage and cling to your loot — only extraction decides if you live or lose it all.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "RPG",
+    "Simulation"
+   ],
+   "name": "Escape from Tarkov",
+   "price": "£43.99",
+   "released": "2025-11-15",
+   "type": "game"
+  },
+  "394360": {
+   "checked": "2026-11-07",
+   "desc": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+   "free": false,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Hearts of Iron IV",
+   "price": "£41.99",
+   "released": "2016-06-06",
+   "type": "game"
+  },
+  "3981890": {
+   "checked": "2026-11-07",
+   "desc": "Try to get as high as possible before one of the blocks falls out of the construction zone.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Infinite Game Cartridge Collection - Unstable Towers",
+   "price": "",
+   "released": "2026-11-07",
+   "skip": true,
+   "type": "dlc"
+  },
+  "400": {
+   "checked": "2026-11-07",
+   "desc": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Portal",
+   "price": "£8.19",
+   "released": "2007-10-10",
+   "type": "game"
+  },
+  "4000": {
+   "checked": "2026-11-07",
+   "desc": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Garry's Mod",
+   "price": "£6.99",
+   "released": "2006-11-29",
+   "type": "game"
+  },
+  "4019220": {
+   "checked": "2026-11-07",
+   "desc": "Become a dressmaker! Choose fabric, cut out pattern pieces and sew them all together to make the dresses of your dreams - in this cozy crafting game, inspired by real dressmaking.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Simulation"
+   ],
+   "name": "Dressmaker",
+   "price": "£13.60",
+   "released": "2026-09-21",
+   "type": "game"
+  },
+  "4080220": {
+   "checked": "2026-11-07",
+   "desc": "Welcome to The World’s Game in EA SPORTS FC™ 27. Step into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay.",
+   "free": false,
+   "genres": [
+    "Simulation",
+    "Sports"
+   ],
+   "name": "EA SPORTS FC™ 27",
+   "price": "£59.99",
+   "released": "2026-09-24",
+   "type": "game"
+  },
+  "4115450": {
+   "checked": "2026-11-07",
+   "desc": "S-GAME presents Phantom Blade Zero, a fusion of classic Wuxia storytelling and exhilarating action powered by Unreal Engine 5. You play as Soul, a warrior with only sixty-six days left to live. Fend off assassins, unravel world-ending conspiracies, and defend your values with your life.",
+   "free": false,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "name": "Phantom Blade Zero",
+   "price": "£49.99",
+   "released": "2026-10-28",
+   "type": "game"
+  },
+  "4126040": {
+   "checked": "2026-11-07",
+   "desc": "Aniimo is a free-to-play, next-gen creature-catching open-world RPG. Explore the vast continent of Idyll, Twine with unique Aniimo, unlock new abilities. Travel to a sky-floating metropolis, meet other Pathfinders, and battle in exciting competitions. Choose your Aniimo and begin your epic journey!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "RPG"
+   ],
+   "name": "Aniimo",
+   "price": "",
+   "released": "2026-09-15",
+   "type": "game"
+  },
+  "413150": {
+   "checked": "2026-11-07",
+   "desc": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+   "free": false,
+   "genres": [
+    "Indie",
+    "RPG",
+    "Simulation"
+   ],
+   "name": "Stardew Valley",
+   "price": "£10.99",
+   "released": "2016-02-26",
+   "type": "game"
+  },
+  "4162040": {
+   "checked": "2026-11-07",
+   "desc": "Zenless Zone Zero is HoYoverse’s brand-new urban fantasy ARPG. Players act as &quot;Proxies&quot; who explore Hollows alongside a wide range of unique Agents, fighting enemies, and completing commissions on their journey to unveil the mysteries behind New Eridu.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Free To Play"
+   ],
+   "name": "Zenless Zone Zero",
+   "price": "",
+   "released": "2026-06-16",
+   "type": "game"
+  },
+  "4165890": {
+   "checked": "2026-11-07",
+   "desc": "Your games in every dimension Wireless, comfortable, lightweight VR for your Steam library",
+   "free": false,
+   "genres": [],
+   "name": "Steam Frame",
+   "price": "£889.00",
+   "released": "2026-09-14",
+   "skip": true,
+   "type": "hardware"
+  },
+  "4165910": {
+   "checked": "2026-11-07",
+   "desc": "Your games on the big screen Powerful PC gaming made easy, in a small and mighty package",
+   "free": false,
+   "genres": [],
+   "name": "Steam Machine",
+   "price": "£879.00",
+   "released": "2026-06-22",
+   "skip": true,
+   "type": "hardware"
+  },
+  "417910": {
+   "checked": "2026-11-07",
+   "desc": "First, realistic PvP brawling game for up to 8 vs 8 players with original, dynamic combat system and fast, round based battles. Create and develop Your character. Earn new skills and items that helps You beat Your opponents. Gather Your friends and fight together in a clan.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "Simulation",
+    "Sports"
+   ],
+   "name": "Street Warriors Online",
+   "price": "£0.65",
+   "released": "2016-12-16",
+   "type": "game"
+  },
+  "4262460": {
+   "checked": "2026-11-07",
+   "desc": "ROB RUN is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "RPG",
+    "Simulation"
+   ],
+   "name": "ROB RUN",
+   "price": "",
+   "released": "2026-11-04",
+   "type": "game"
+  },
+  "431960": {
+   "checked": "2026-11-07",
+   "desc": "Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on the Steam Workshop!",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Animation & Modeling",
+    "Design & Illustration"
+   ],
+   "name": "Wallpaper Engine",
+   "price": "£4.49",
+   "released": "2018-11-16",
+   "type": "game"
+  },
+  "433850": {
+   "checked": "2026-11-07",
+   "desc": "Z1 Battle Royale is a Free to Play, fast-paced, action arcade, competitive Battle Royale. Staying true to its &quot;King of the Kill&quot; roots, the game has been revamped and restored to the classic feel, look, and gameplay everyone fell in love with. Play solo, duos, or fives and be the last ones standing.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Free To Play",
+    "Massively Multiplayer"
+   ],
+   "name": "Z1 Battle Royale",
+   "price": "",
+   "released": "2018-02-28",
+   "type": "game"
+  },
+  "4348910": {
+   "checked": "2026-11-07",
+   "desc": "Probably Stolen is a cyberpunk shopkeeping simulator set in a dystopian space station. Craft, trade, and smuggle goods of questionable origin, navigate faction loyalties, and decide how far you’re willing to go to stay afloat. Earn enough to buy out your shop before rising rent forces your hand.",
+   "free": false,
+   "genres": [
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+   "price": "£15.29",
+   "released": "2026-10-28",
+   "type": "game"
+  },
+  "438100": {
+   "checked": "2026-11-07",
+   "desc": "Join our growing community as you explore, play, and help craft the future of social VR. Create worlds and custom avatars. Welcome to VRChat.",
+   "free": true,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Massively Multiplayer",
+    "Simulation"
+   ],
+   "name": "VRChat",
+   "price": "",
+   "released": "2017-02-01",
+   "type": "game"
+  },
+  "4391570": {
+   "checked": "2026-11-07",
+   "desc": "VOiD: Reshaped is a gravity-bending 2D puzzle platformer. Flip gravity to solve tricky puzzles, dodge deadly traps and survive enigmatic bosses as you guide a tiny cube through a relaxed yet challenging adventure for all ages.",
+   "free": false,
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "name": "VOiD:Reshaped",
+   "price": "£4.19",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "440": {
+   "checked": "2026-11-07",
+   "desc": "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "Team Fortress 2",
+   "price": "",
+   "released": "2007-10-10",
+   "type": "game"
+  },
+  "4435490": {
+   "checked": "2026-11-07",
+   "desc": "War erupts on the Korean Peninsula as North Korea launches an invasion that threatens to destabilize the world in Call of Duty®: Modern Warfare® 4.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Call of Duty®: Modern Warfare® 4",
+   "price": "£59.99",
+   "released": "2026-10-22",
+   "type": "game"
+  },
+  "4435640": {
+   "checked": "2026-11-07",
+   "skip": true
+  },
+  "444090": {
+   "checked": "2026-11-07",
+   "desc": "Paladins is the ultimate fantasy team-based shooter experience, with over 50 customizable Champions fighting in 5v5 action across a diverse Realm of modes and maps!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "Strategy"
+   ],
+   "name": "Paladins®",
+   "price": "",
+   "released": "2018-05-08",
+   "type": "game"
+  },
+  "444200": {
+   "checked": "2026-11-07",
+   "desc": "Blow off steam and tank turrets in a free-to-play online 7v7 tank shooter! Drive hundreds of tanks, from museum classics to &quot;did-that-ever-exist?&quot; specials, in quick 5 to 7-minute brawls packed with metal mayhem. Play solo or team up with a friend and enjoy smooth action even on modest hardware!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "World of Tanks Blitz",
+   "price": "",
+   "released": "2016-11-09",
+   "type": "game"
+  },
+  "4453700": {
+   "checked": "2026-11-07",
+   "desc": "Explore an abandoned and decaying village in this immersive first-person psychological horror experience, search forgotten houses and shadowed paths, piece together disturbing clues, and uncover the truth that waits within the suffocating darkness.",
+   "free": false,
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "name": "The Beckoning",
+   "price": "£3.67",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "4530370": {
+   "checked": "2026-11-07",
+   "desc": "Choose the club. Shape the squad. Set the tactics. Chase the future only you can see. FM27 is where your footballing beliefs become a reality. Make The Call.",
+   "free": false,
+   "genres": [
+    "Simulation",
+    "Sports",
+    "Strategy"
+   ],
+   "name": "Football Manager 27",
+   "price": "£44.99",
+   "released": null,
+   "type": "game"
+  },
+  "4541310": {
+   "checked": "2026-11-07",
+   "desc": "Forget pre-written options; let your words drive the game! In this first-person dating sim, say whatever you want to AI characters with real memories and get natural responses, and experience a completely unique story every time.",
+   "free": false,
+   "genres": [
+    "RPG",
+    "Simulation"
+   ],
+   "name": "Flirt Simulator",
+   "price": "£5.83",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "4596170": {
+   "checked": "2026-11-07",
+   "desc": "Immerse yourself in a world of magic, SEXY HEROINES, and epic battles in Raid of Lust: Match &amp; Magic! ✨ Assemble your team of hot anime babes and set off on a quest in a match-3 fantasy RPG! Then BATTLE OTHER ADVENTURERS in multiplayer with PvP and co-op! Will you be able to climb to the top?",
+   "free": true,
+   "genres": [
+    "Casual",
+    "Free To Play"
+   ],
+   "name": "Raid of Lust: Match & Magic",
+   "price": "",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "4626180": {
+   "checked": "2026-11-07",
+   "desc": "Life simulator set among medical interns - make friends, get enemies, get caught up in dangerous intrigues, and dont lose yourself in a world where boundaries blur. Charismatic characters, a tense yet comedic plot, lively dialogue, and a raw atmosphere full of temptation.",
+   "free": false,
+   "genres": [
+    "Adventure",
+    "Casual"
+   ],
+   "name": "INTERNS",
+   "price": "£8.72",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "4640760": {
+   "checked": "2026-11-07",
+   "desc": "Run your own property rental business with friends! Renovate and furnish rundown homes, take photos, and list them for rent. Welcome unpredictable guests, earn five-star reviews, and deal with the chaos when they wreck the place. From tiny studios to seaside villas, explore 500+ homes!",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Rent Out Together",
+   "price": "£6.55",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "4688280": {
+   "checked": "2026-11-07",
+   "desc": "Grow a little oasis on your desktop. Earn Inspiration as you type, work or study, and discover plants, boats, creatures and rare collectibles. Let it grow quietly while you’re busy; return to collect, check on your plants or play with floating objects and real-time water physics.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Desktop Oasis",
+   "price": "£4.76",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "477160": {
+   "checked": "2026-11-07",
+   "desc": "Human Fall Flat is a hilarious, light-hearted platformer set in floating dreamscapes that can be played solo or with up to 8 players online. Free new levels keep its vibrant community rewarded.",
+   "free": false,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Human Fall Flat",
+   "price": "£4.79",
+   "released": "2016-07-22",
+   "type": "game"
+  },
+  "4873800": {
+   "checked": "2026-11-07",
+   "desc": "Solve rotating puzzles with cute cat girls. Cozy, soft-incremental gameplay. Chat With Cat Girls. Somehow Get Better at Puzzles. Make Questionable Choices. Unlock Surprisingly Useful Stuff.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Mosaique Neko Waifus 6",
+   "price": "£3.44",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "489830": {
+   "checked": "2026-11-07",
+   "desc": "Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features.",
+   "free": false,
+   "genres": [
+    "RPG"
+   ],
+   "name": "The Elder Scrolls V: Skyrim Special Edition",
+   "price": "£34.99",
+   "released": "2016-10-27",
+   "type": "game"
+  },
+  "4900110": {
+   "checked": "2026-11-07",
+   "desc": "Well, nice catch! You caught a mermaid with a tempting smile and she isn’t going to let you go that easily. Reel her closer, uncover the secrets of the deep and chase six endings: from sweet romance to something much darker.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Oops… I Hooked Up with a Mermaid 🎣😳",
+   "price": "£8.66",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "4907430": {
+   "checked": "2026-11-07",
+   "desc": "A thrilling Co-op Action Roguelite for 1-4 players! Play as mischievous ghosts, create insane weapon synergies, catch humans, and turn them into pumpkins. Deliver your harvest to the crypt, expand the map, and unleash vibrant chaos in this Bullet Heaven!",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "GrindFall",
+   "price": "£4.49",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "49520": {
+   "checked": "2026-11-07",
+   "desc": "The Ultimate Vault Hunter’s Upgrade lets you get the most out of the Borderlands 2 experience.",
+   "free": false,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "name": "Borderlands 2",
+   "price": "£1.99",
+   "released": "2012-09-20",
+   "type": "game"
+  },
+  "4976270": {
+   "checked": "2026-11-07",
+   "desc": "Someone Seems to Be in “My” Room! The renowned writer Koi wakes up in the middle of the night, but finds himself unable to fall back asleep…",
+   "free": true,
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Free To Play"
+   ],
+   "name": "A Warm Story",
+   "price": "",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5105000": {
+   "checked": "2026-11-07",
+   "desc": "Lead a Norse colony in Vinland across 50 years of survival, politics, relationships, and faith. Make difficult choices to manage food, shelter, defense, popularity, and the colony’s shifting allegiance between the old gods, Rome, and Constantinople.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Vinland: 1000",
+   "price": "£4.13",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5150150": {
+   "checked": "2026-11-07",
+   "desc": "Top-down arcade box lacrosse inspired by an all-time childhood favorite. Pick skinny, medium, or heavy body types - each with radically different speed, power, and checking. Versus, Co-Op, Multiplayer. Global leaderboard. GET IN EARLY. Lowest price during inaugural version.",
+   "free": false,
+   "genres": [
+    "Indie",
+    "Sports"
+   ],
+   "name": "Arcade Lacrosse",
+   "price": "£2.75",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5218890": {
+   "checked": "2026-11-07",
+   "desc": "Forget boring construction work! Take the dual-stick controls of a real physics excavator to scoop goldfish, make bento boxes, whack tanukis, and demolish houses. Earn your license, customize your rig, or let loose in the Sandbox!",
+   "free": false,
+   "genres": [
+    "Simulation"
+   ],
+   "name": "Go! Go! Shovelcar!",
+   "price": "£4.49",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5231690": {
+   "checked": "2026-11-07",
+   "desc": "Losers Club is a multiplayer trivia game for you and your friends. Pick a question pack, test your knowledge, race to answer first, and compete for the top spot. Create your own quizzes, customize the rules, and turn any game night into a battle of brains.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Losers Club",
+   "price": "£4.19",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5259730": {
+   "checked": "2026-11-07",
+   "desc": "A voice acting party game: dub any video clip with your friends. Claim the roles, record every line in the booth, then watch the premiere together. On the couch, friends join from their phones while one mic goes round. Online, up to 16 players and five party games.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Dub Party",
+   "price": "£3.67",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "526870": {
+   "checked": "2026-11-07",
+   "desc": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+   "free": false,
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Satisfactory",
+   "price": "£33.50",
+   "released": "2024-09-10",
+   "type": "game"
+  },
+  "5273050": {
+   "checked": "2026-11-07",
+   "desc": "💕 Your new desktop companion is the mom of one of your Steam friends! Chat with her, spark a romance, and customize her look. Play mini-games, solve jigsaw puzzles to unlock photos, invite friends for online co-op, choose pets, and explore tons of handy tools! 🥵",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Your Friend's Mom 2",
+   "price": "£2.09",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "532210": {
+   "checked": "2026-11-07",
+   "desc": "After a tragic incident, brothers Sean and Daniel Diaz run away from home. Fearing the police, and dealing with Daniel's new telekinetic power, the boys head to Mexico. Each stop on their journey brings new friends and new challenges.",
+   "free": true,
+   "genres": [
+    "Adventure"
+   ],
+   "name": "Life is Strange 2",
+   "price": "",
+   "released": "2018-09-26",
+   "type": "game"
+  },
+  "5325220": {
+   "checked": "2026-11-07",
+   "desc": "Create a human or animal avatar that lives on your desktop. Dress them up, let them keep you company while you work or listen to music, use them as a VTube Avatar or send them to a friend’s screen with a wave, a hug or a little gift. Free to play forever to spread the warmth.",
+   "free": true,
+   "genres": [
+    "Indie",
+    "Simulation",
+    "Free To Play"
+   ],
+   "name": "DeskHugs: Desktop Friends",
+   "price": "",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5335510": {
+   "checked": "2026-11-07",
+   "desc": "An entire Moon to clean. One toothbrush to start. Team up with up to 16 players, collect and sell lunar dust, upgrade your tools, and unlock cleaning vehicles. Turn a ridiculous job into a thriving operation, if your friends actually help.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Moon Sweepers",
+   "price": "£7.99",
+   "released": "2026-10-23",
+   "type": "game"
+  },
+  "5399970": {
+   "checked": "2026-11-07",
+   "desc": "Air Support is a top-down arcade helicopter shooter in a world of plastic toy soldiers. Fly a Green Army gunship over backyard battlefields, blast the Tan Army, winch up cargo, and bring a friend in co-op.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Plastic Soldiers: Air Support",
+   "price": "£4.42",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5411310": {
+   "checked": "2026-11-07",
+   "desc": "Smash crates as Tin, a tiny salvage robot with a hammer, and free the memories locked inside ten vaults. A handful of crates grows into total havoc of lightning, saw blades and drones in this 5–7 hour incremental game with a real ending.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Tiny Havoc",
+   "price": "£4.19",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5435190": {
+   "checked": "2026-11-07",
+   "desc": "A five-in-a-row board game with an engine that explains itself: every move comes with the shape it built, the threat it answered and the alternatives it weighed. Learn from ten lessons and 1,680 proven puzzles, review your games move by move, and play ranked online or entirely offline.",
+   "free": true,
+   "genres": [
+    "Sports",
+    "Strategy",
+    "Free To Play"
+   ],
+   "name": "GomokuZero",
+   "price": "",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5437570": {
+   "checked": "2026-11-07",
+   "desc": "Create your character, pick your starting gear, and settle into a rented cabin in this immersive, relaxing life simulator. Forage, work odd jobs, sell junk at the thrift store, and keep yourself fed and clean as you save up for the cabin of your dreams.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "RPG",
+    "Simulation"
+   ],
+   "name": "Cabin Life",
+   "price": "£6.02",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5444410": {
+   "checked": "2026-11-07",
+   "desc": "Battle enemy hordes, build powerful ability combinations, and defeat challenging bosses in this single-player bullet heaven roguelike. Choose distinct characters, unlock evolutions, and earn permanent upgrades—all with offline gameplay.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Dungeon Survivor",
+   "price": "£0.53",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5477320": {
+   "checked": "2026-11-07",
+   "desc": "Break the support. Drop the slab. Smash the rock below. Rockburst is an incremental mining game about setting off collapses, collecting ore and buying upgrades to dig deeper before your lamp runs out.",
+   "free": false,
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Rockburst",
+   "price": "£5.19",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "550": {
+   "checked": "2026-11-07",
+   "desc": "Set in the zombie apocalypse, Left 4 Dead 2 is a co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Left 4 Dead 2",
+   "price": "£8.19",
+   "released": "2009-11-19",
+   "type": "game"
+  },
+  "550650": {
+   "checked": "2026-11-07",
+   "desc": "Black Squad is a free-to-play military first-person-shooter. Players can master their skills and show off their strategies with a wide range of game maps, modes, and weapons to choose from. Join thousands of FPS players worldwide in one of the most played games on Steam!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "Black Squad",
+   "price": "",
+   "released": "2019-06-26",
+   "type": "game"
+  },
+  "552990": {
+   "checked": "2026-11-07",
+   "desc": "Immerse yourself in thrilling naval battles and assemble an armada of over 800 ships from the first half of the 20th century — from stealthy destroyers to gigantic battleships. Change the look of your ship, choose upgrades to suit your play style, and go into battle with other players!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "World of Warships",
+   "price": "",
+   "released": "2017-11-15",
+   "type": "game"
+  },
+  "553850": {
+   "checked": "2026-11-07",
+   "desc": "The Galaxy’s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "HELLDIVERS™ 2",
+   "price": "£34.99",
+   "released": "2024-02-08",
+   "type": "game"
+  },
+  "570": {
+   "checked": "2026-11-07",
+   "desc": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Strategy",
+    "Free To Play"
+   ],
+   "name": "Dota 2",
+   "price": "",
+   "released": "2013-07-09",
+   "type": "game"
+  },
+  "578080": {
+   "checked": "2026-11-07",
+   "desc": "PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "Free To Play"
+   ],
+   "name": "PUBG: BATTLEGROUNDS",
+   "price": "",
+   "released": "2017-12-21",
+   "type": "game"
+  },
+  "582010": {
+   "checked": "2026-11-07",
+   "desc": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Monster Hunter: World",
+   "price": "£24.98",
+   "released": "2018-08-08",
+   "type": "game"
+  },
+  "594650": {
+   "checked": "2026-11-07",
+   "desc": "Hunt: Showdown 1896 is the brutally rewarding extraction shooter. Track twisted monsters and overcome ruthless PvP. Take bounties in corrupted backwaters lost to history. With a team, you might survive. Die with nothing or get out with everything.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Hunt: Showdown 1896",
+   "price": "£25.99",
+   "released": "2019-08-27",
+   "type": "game"
+  },
+  "629520": {
+   "checked": "2026-11-07",
+   "desc": "Play sounds in voice chats in high digital quality. Add sounds or music to your microphone signal so others will hear it, too.",
+   "free": false,
+   "genres": [
+    "Audio Production",
+    "Utilities"
+   ],
+   "name": "Soundpad",
+   "price": "£4.29",
+   "released": "2017-09-30",
+   "type": "game"
+  },
+  "632360": {
+   "checked": "2026-11-07",
+   "desc": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "name": "Risk of Rain 2",
+   "price": "£19.99",
+   "released": "2020-08-11",
+   "type": "game"
+  },
+  "648800": {
+   "checked": "2026-11-07",
+   "desc": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
+   "free": false,
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Raft",
+   "price": "£17.75",
+   "released": "2022-06-20",
+   "type": "game"
+  },
+  "70": {
+   "checked": "2026-11-07",
+   "desc": "Named Game of the Year by over 50 publications, Valve's debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. Also includes an exciting multiplayer mode that allows you to play against friends and enemies around the world.",
+   "free": false,
+   "genres": [
+    "Action"
+   ],
+   "name": "Half-Life",
+   "price": "£8.19",
+   "released": "1998-11-19",
+   "type": "game"
+  },
+  "714010": {
+   "checked": "2026-11-07",
+   "desc": "Aimlabs is the aim trainer of choice for over 50 Million players, from beginners to esports pros. Our unique aim analysis optimizes your gameplay, targets your weaknesses &amp; builds key skills for any FPS game! Time to warm up with our unlimited scenarios &amp; rank up in-game!",
+   "free": true,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Aimlabs",
+   "price": "",
+   "released": "2023-06-16",
+   "type": "game"
+  },
+  "730": {
+   "checked": "2026-11-07",
+   "desc": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+   "free": true,
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "Counter-Strike 2",
+   "price": "",
+   "released": "2012-08-21",
+   "type": "game"
+  },
+  "739630": {
+   "checked": "2026-11-07",
+   "desc": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Indie",
+    "Early Access"
+   ],
+   "name": "Phasmophobia",
+   "price": "£15.99",
+   "released": "2020-09-18",
+   "type": "game"
+  },
+  "755790": {
+   "checked": "2026-11-07",
+   "desc": "Escape an astonishing disaster in Ring of Elysium, a battle royale shooter developed by Aurora Studio.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Free To Play",
+    "Massively Multiplayer"
+   ],
+   "name": "Ring of Elysium",
+   "price": "",
+   "released": "2019-06-24",
+   "type": "game"
+  },
+  "813780": {
+   "checked": "2026-11-07",
+   "desc": "42 Civilizations, 229 Campaign Missions, Singleplayer, Co-Op, Multiplayer, In-Game Editor, Mods, Cross-play...It is good to be the king.",
+   "free": false,
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Age of Empires II: Definitive Edition",
+   "price": "£25.99",
+   "released": "2019-11-14",
+   "type": "game"
+  },
+  "814380": {
+   "checked": "2026-11-07",
+   "desc": "Game of the Year - The Game Awards 2019 Best Action Game of 2019 - IGN Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore Your Honor. Kill Ingeniously.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+   "price": "£49.90",
+   "released": "2019-03-21",
+   "type": "game"
+  },
+  "892970": {
+   "checked": "2026-11-07",
+   "desc": "A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Valheim",
+   "price": "£23.49",
+   "released": "2026-09-09",
+   "type": "game"
+  },
+  "8930": {
+   "checked": "2026-11-07",
+   "desc": "Create, discover, and download new player-created maps, scenarios, interfaces, and more!",
+   "free": false,
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Sid Meier's Civilization® V",
+   "price": "£4.99",
+   "released": "2010-09-23",
+   "type": "game"
+  },
+  "899770": {
+   "checked": "2026-11-07",
+   "desc": "Uncover the Past, Reforge the Future. Ascend into one of 15 mastery classes and explore dangerous dungeons, hunt epic loot, craft legendary weapons, and wield the power of over a hundred transformative skill trees. Last Epoch is being developed by a team of passionate Action RPG enthusiasts.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Last Epoch",
+   "price": "£29.50",
+   "released": "2024-02-21",
+   "type": "game"
+  },
+  "901583": {
+   "checked": "2026-11-07",
+   "desc": "PLEASE NOTE: Microsoft no longer supports creating Games for Windows-LIVE accounts within Grand Theft Auto IV. You can create an account through and then log into your account in game. This standalone retail title spans three distinct stories, interwoven to create one of the most unique and engaging single-player experiences of this...",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Grand Theft Auto IV: Complete Edition",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "945360": {
+   "checked": "2026-11-07",
+   "desc": "An online and local party game of teamwork and betrayal for 4-15 players...in space!",
+   "free": false,
+   "genres": [
+    "Casual"
+   ],
+   "name": "Among Us",
+   "price": "£3.99",
+   "released": "2018-11-16",
+   "type": "game"
+  },
+  "960090": {
+   "checked": "2026-11-07",
+   "desc": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
+   "free": false,
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Bloons TD 6",
+   "price": "£11.79",
+   "released": "2018-12-17",
+   "type": "game"
+  },
+  "990080": {
+   "checked": "2026-11-07",
+   "desc": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+   "free": false,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "name": "Hogwarts Legacy",
+   "price": "£49.99",
+   "released": "2023-02-10",
+   "type": "game"
+  }
+ },
+ "players": {
+  "1103140": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "1203620": [
+   [
+    "2026-11-07",
+    69007
+   ]
+  ],
+  "1867240": [
+   [
+    "2026-11-07",
+    96867
+   ]
+  ],
+  "1990250": [
+   [
+    "2026-11-07",
+    1
+   ]
+  ],
+  "2540670": [
+   [
+    "2026-11-07",
+    3
+   ]
+  ],
+  "2967590": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "3393110": [
+   [
+    "2026-11-07",
+    186111
+   ]
+  ],
+  "3435580": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "4019220": [
+   [
+    "2026-11-07",
+    18348
+   ]
+  ],
+  "4080220": [
+   [
+    "2026-11-07",
+    48997
+   ]
+  ],
+  "4115450": [
+   [
+    "2026-11-07",
+    100654
+   ]
+  ],
+  "4126040": [
+   [
+    "2026-11-07",
+    36391
+   ]
+  ],
+  "4262460": [
+   [
+    "2026-11-07",
+    94943
+   ]
+  ],
+  "4348910": [
+   [
+    "2026-11-07",
+    62132
+   ]
+  ],
+  "4391570": [
+   [
+    "2026-11-07",
+    1
+   ]
+  ],
+  "4435490": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "4453700": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "4541310": [
+   [
+    "2026-11-07",
+    2
+   ]
+  ],
+  "4596170": [
+   [
+    "2026-11-07",
+    268
+   ]
+  ],
+  "4626180": [
+   [
+    "2026-11-07",
+    153
+   ]
+  ],
+  "4640760": [
+   [
+    "2026-11-07",
+    10
+   ]
+  ],
+  "4688280": [
+   [
+    "2026-11-07",
+    1
+   ]
+  ],
+  "4873800": [
+   [
+    "2026-11-07",
+    27
+   ]
+  ],
+  "4900110": [
+   [
+    "2026-11-07",
+    56
+   ]
+  ],
+  "4907430": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "4976270": [
+   [
+    "2026-11-07",
+    1
+   ]
+  ],
+  "5105000": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "5150150": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "5218890": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "5231690": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "5259730": [
+   [
+    "2026-11-07",
+    36
+   ]
+  ],
+  "5273050": [
+   [
+    "2026-11-07",
+    13
+   ]
+  ],
+  "5325220": [
+   [
+    "2026-11-07",
+    6
+   ]
+  ],
+  "5335510": [
+   [
+    "2026-11-07",
+    46936
+   ]
+  ],
+  "5399970": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "5411310": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "5435190": [
+   [
+    "2026-11-07",
+    4
+   ]
+  ],
+  "5437570": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "5444410": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "5477320": [
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "892970": [
+   [
+    "2026-11-07",
+    76045
+   ]
+  ]
+ }
+}
