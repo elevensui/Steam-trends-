@@ -1,0 +1,46 @@
+name: Steam Trend Alert
+
+on:
+  schedule:
+    # Every 15 minutes (needs a PUBLIC repo to stay free; use "0 * * * *" = hourly for a private repo)
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # lets you click "Run workflow" to test
+
+permissions:
+  contents: write         # needed to save history.json back to the repo
+
+concurrency:
+  group: steam-trends
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check Steam trends
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Optional tweaks: set these under Settings > Secrets and variables > Actions > Variables
+          MIN_PLAYERS: ${{ vars.MIN_PLAYERS }}
+          GROWTH_FACTOR: ${{ vars.GROWTH_FACTOR }}
+          MAX_AGE_DAYS: ${{ vars.MAX_AGE_DAYS }}
+          MAX_ALERTS: ${{ vars.MAX_ALERTS }}
+          NOTIFY_WHEN_EMPTY: ${{ vars.NOTIFY_WHEN_EMPTY }}
+        run: python steam_trends.py
+
+      - name: Save history
+        run: |
+          git config user.name "steam-trend-bot"
+          git config user.email "steam-trend-bot@users.noreply.github.com"
+          git add history.json
+          git diff --cached --quiet || git commit -m "Update history $(date -u +%F)"
+          git push
