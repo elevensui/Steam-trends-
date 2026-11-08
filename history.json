@@ -2541,6 +2541,37 @@
    "released": "2015-03-10",
    "type": "game"
   },
+  "2561460": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Full controller support",
+    "Custom Volume Controls",
+    "Gamepad Recommended",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": true,
+   "demo_ids": [
+    "2824590"
+   ],
+   "desc": "Burning Sword: Death Sun is a wuxia action game set in 12th century China. Play as Zhang Yixiang, cast down by the Elder of the Northern Mountain, and carve a bloody path back to him. Hardcore combat, epic boss battles, roguelite progression, and an arena built for high scores.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Early Access"
+   ],
+   "name": "Burning Sword: Death Sun",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "2582960": {
    "adult": false,
    "categories": [
@@ -4601,6 +4632,37 @@
    "released": null,
    "type": "game"
   },
+  "3681220": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Mouse Only Option",
+    "Stereo Sound",
+    "Stats",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": false,
+   "demo_ids": [
+    "3774880"
+   ],
+   "desc": "The shadow wants to play with you. It moves quickly, and you have to find it. Be patient, but don't wait too long. Light will be your friend. Don't make the shadow angry.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "The Light Switch",
+   "price": "",
+   "released": "2026-11-07",
+   "type": "game"
+  },
   "3687090": {
    "adult": false,
    "categories": [
@@ -5674,6 +5736,39 @@
    "skip": true,
    "type": "hardware"
   },
+  "4171850": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": true,
+   "demo_ids": [
+    "4307190"
+   ],
+   "desc": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Trees Hate You",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "417910": {
    "checked": "2026-11-07",
    "desc": "First, realistic PvP brawling game for up to 8 vs 8 players with original, dynamic combat system and fast, round based battles. Create and develop Your character. Earn new skills and items that helps You beat Your opponents. Gather Your friends and fight together in a clan.",
@@ -5714,6 +5809,42 @@
     "Strategy"
    ],
    "name": "Bullet Meltdown",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "4191110": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Camera Comfort",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": true,
+   "demo_ids": [
+    "4746430"
+   ],
+   "desc": "Two vampires — an ambitious Kindred and a wretched Thinblood. Their fates clash in this Visual Novel set in the World of Darkness, where your arsenal extends beyond just words — from political machinations to forbidden Alchemy. Claw your way to power and leave your bitemarks on Berlin's underworld.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Vampire: The Masquerade - Oaths & Ashes",
    "price": "",
    "released": null,
    "type": "game"
@@ -6776,6 +6907,35 @@
    "released": "2026-11-07",
    "type": "game"
   },
+  "4631810": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Build a thriving fantasy harbor, recruit and equip a growing roster of heroes, and push through increasingly dangerous dungeon expeditions in this progression-focused incremental RPG.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Delveport",
+   "price": "£5.84",
+   "released": "2026-11-07",
+   "type": "game"
+  },
   "4640760": {
    "checked": "2026-11-07",
    "desc": "Run your own property rental business with friends! Renovate and furnish rundown homes, take photos, and list them for rent. Welcome unpredictable guests, earn five-star reviews, and deal with the chaos when they wreck the place. From tiny studios to seaside villas, explore 500+ homes!",
@@ -7530,6 +7690,45 @@
    "released": "2026-11-07",
    "type": "game"
   },
+  "4982580": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": false,
+   "demo_ids": [
+    "5277500"
+   ],
+   "desc": "Top-down arcade football for the whole crew. Up to 6 players on one couch, or online with friends over Steam. Tournaments, football-tennis, penalties, minigames and legendary moments to fire up the match. Easy to pick up, impossible to put down. Grab a controller and score!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Sports"
+   ],
+   "name": "3 Estrellas",
+   "price": "£7.72",
+   "released": "2026-11-07",
+   "type": "game"
+  },
   "4990840": {
    "adult": false,
    "categories": [
@@ -7715,6 +7914,28 @@
     "Indie"
    ],
    "name": "Go Next!",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "5069180": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Hakurei Reimu comes to your desktop. Poke her or pick her up and she reacts just like Reimu would, and she'll keep an eye on your to-dos and alarms too. Blunt, but the type who quietly sticks by your side.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual"
+   ],
+   "name": "Touhou: Your Reimu",
    "price": "",
    "released": null,
    "type": "game"
@@ -8204,6 +8425,34 @@
    "released": "2026-11-07",
    "type": "game"
   },
+  "5289190": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "In-App Purchases",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "VALHALLA ARCHIVE is a tactical fantasy CCG where matches are decided in 5 turns. Deploy a 20-card deck across front and back rows, master 3 unique win conditions, and conquer the roguelite 'Dimensional Corridor'. Harness unpredictable Mana Rifts and claim your place as the ultimate Archivist!",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Strategy",
+    "Free To Play"
+   ],
+   "name": "VALHALLA ARCHIVE: CCG",
+   "price": "",
+   "released": "2026-11-07",
+   "type": "game"
+  },
   "5295330": {
    "adult": false,
    "categories": [
@@ -8342,6 +8591,29 @@
    "released": null,
    "type": "game"
   },
+  "5381260": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Playable without Timed Input",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Terrum DeepDrill is a single-player drilling game in a 2.5D side view. Terrum Corp owns your debt and calls it a contract. Win tenders against rival firms, drill through the rock, and haul enough ore to stay ahead of the bill.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Simulation"
+   ],
+   "name": "Terrum DeepDrill",
+   "price": "£0.85",
+   "released": "2026-11-07",
+   "type": "game"
+  },
   "5399970": {
    "checked": "2026-11-07",
    "desc": "Air Support is a top-down arcade helicopter shooter in a world of plastic toy soldiers. Fly a Green Army gunship over backyard battlefields, blast the Tan Army, winch up cargo, and bring a friend in co-op.",
@@ -8353,6 +8625,56 @@
    ],
    "name": "Plastic Soldiers: Air Support",
    "price": "£4.42",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5402520": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "An exploration platformer!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Methusalah Redemption",
+   "price": "£3.59",
+   "released": "2026-11-07",
+   "type": "game"
+  },
+  "5405270": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Słownikowa Wyspa is a Polish-language educational adventure game. Join Mizuki on a journey across a mysterious island, solve word puzzles, explore unique locations, collect missing book pages, and discover fascinating facts in an illustrated encyclopedia.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure"
+   ],
+   "name": "Słownikowa Wyspa",
+   "price": "£4.20",
    "released": "2026-11-07",
    "type": "game"
   },
@@ -8460,6 +8782,31 @@
    "name": "Rubber Stamp Legend",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "5472270": {
+   "adult": true,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-08",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The most emotionally charged horror game. Find all the pictures before the entities find you.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Backrooms Found Hentai",
+   "price": "£0.62",
+   "released": "2026-11-07",
    "type": "game"
   },
   "5477320": {
@@ -8820,29 +9167,49 @@
    [
     "2026-11-07",
     66323
+   ],
+   [
+    "2026-11-08",
+    48602
    ]
   ],
   "1660770": [
    [
     "2026-11-07",
     7
+   ],
+   [
+    "2026-11-08",
+    12
    ]
   ],
   "1811180": [
    [
     "2026-11-07",
     19
+   ],
+   [
+    "2026-11-08",
+    20
    ]
   ],
   "1867240": [
    [
     "2026-11-07",
     94426
+   ],
+   [
+    "2026-11-08",
+    72483
    ]
   ],
   "1990250": [
    [
     "2026-11-07",
+    0
+   ],
+   [
+    "2026-11-08",
     0
    ]
   ],
@@ -8850,24 +9217,46 @@
    [
     "2026-11-07",
     6
+   ],
+   [
+    "2026-11-08",
+    4
    ]
   ],
   "2443020": [
    [
     "2026-11-07",
     3
+   ],
+   [
+    "2026-11-08",
+    2
    ]
   ],
   "2474130": [
    [
     "2026-11-07",
     5
+   ],
+   [
+    "2026-11-08",
+    10
    ]
   ],
   "2540670": [
    [
     "2026-11-07",
     3
+   ],
+   [
+    "2026-11-08",
+    2
+   ]
+  ],
+  "2824590": [
+   [
+    "2026-11-08",
+    4
    ]
   ],
   "2967590": [
@@ -8886,12 +9275,20 @@
    [
     "2026-11-07",
     50
+   ],
+   [
+    "2026-11-08",
+    79
    ]
   ],
   "3393110": [
    [
     "2026-11-07",
     180037
+   ],
+   [
+    "2026-11-08",
+    155237
    ]
   ],
   "3435580": [
@@ -8904,65 +9301,115 @@
    [
     "2026-11-07",
     5
+   ],
+   [
+    "2026-11-08",
+    4
    ]
   ],
   "3640620": [
    [
     "2026-11-07",
     201
+   ],
+   [
+    "2026-11-08",
+    175
+   ]
+  ],
+  "3681220": [
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "3764960": [
    [
     "2026-11-07",
     6
+   ],
+   [
+    "2026-11-08",
+    14
    ]
   ],
   "3842790": [
    [
     "2026-11-07",
     14
+   ],
+   [
+    "2026-11-08",
+    8
    ]
   ],
   "4019220": [
    [
     "2026-11-07",
     18346
+   ],
+   [
+    "2026-11-08",
+    17058
    ]
   ],
   "4080220": [
    [
     "2026-11-07",
     46636
+   ],
+   [
+    "2026-11-08",
+    34060
    ]
   ],
   "4099940": [
    [
     "2026-11-07",
     34
+   ],
+   [
+    "2026-11-08",
+    39
    ]
   ],
   "4115450": [
    [
     "2026-11-07",
     87108
+   ],
+   [
+    "2026-11-08",
+    89204
    ]
   ],
   "4121720": [
    [
     "2026-11-07",
     93
+   ],
+   [
+    "2026-11-08",
+    87
    ]
   ],
   "4126040": [
    [
     "2026-11-07",
     35470
+   ],
+   [
+    "2026-11-08",
+    30851
    ]
   ],
   "4171280": [
    [
     "2026-11-07",
+    0
+   ],
+   [
+    "2026-11-08",
     0
    ]
   ],
@@ -8970,42 +9417,76 @@
    [
     "2026-11-07",
     94983
+   ],
+   [
+    "2026-11-08",
+    87091
    ]
   ],
   "4289350": [
    [
     "2026-11-07",
     4
+   ],
+   [
+    "2026-11-08",
+    0
+   ]
+  ],
+  "4307190": [
+   [
+    "2026-11-08",
+    43
    ]
   ],
   "4307740": [
    [
     "2026-11-07",
     551
+   ],
+   [
+    "2026-11-08",
+    414
    ]
   ],
   "4315500": [
    [
     "2026-11-07",
     0
+   ],
+   [
+    "2026-11-08",
+    1
    ]
   ],
   "4331760": [
    [
     "2026-11-07",
     727
+   ],
+   [
+    "2026-11-08",
+    699
    ]
   ],
   "4348910": [
    [
     "2026-11-07",
     57446
+   ],
+   [
+    "2026-11-08",
+    56718
    ]
   ],
   "4354480": [
    [
     "2026-11-07",
     6
+   ],
+   [
+    "2026-11-08",
+    8
    ]
   ],
   "4391570": [
@@ -9018,23 +9499,39 @@
    [
     "2026-11-07",
     397
+   ],
+   [
+    "2026-11-08",
+    338
    ]
   ],
   "4425280": [
    [
     "2026-11-07",
     5
+   ],
+   [
+    "2026-11-08",
+    7
    ]
   ],
   "4425970": [
    [
     "2026-11-07",
     960
+   ],
+   [
+    "2026-11-08",
+    825
    ]
   ],
   "4435490": [
    [
     "2026-11-07",
+    0
+   ],
+   [
+    "2026-11-08",
     0
    ]
   ],
@@ -9042,42 +9539,70 @@
    [
     "2026-11-07",
     0
+   ],
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "4476380": [
    [
     "2026-11-07",
     4
+   ],
+   [
+    "2026-11-08",
+    8
    ]
   ],
   "4499200": [
    [
     "2026-11-07",
     332
+   ],
+   [
+    "2026-11-08",
+    304
    ]
   ],
   "4520130": [
    [
     "2026-11-07",
     3
+   ],
+   [
+    "2026-11-08",
+    4
    ]
   ],
   "4541310": [
    [
     "2026-11-07",
     2
+   ],
+   [
+    "2026-11-08",
+    1
    ]
   ],
   "4553860": [
    [
     "2026-11-07",
     59
+   ],
+   [
+    "2026-11-08",
+    57
    ]
   ],
   "4576510": [
    [
     "2026-11-07",
     1193
+   ],
+   [
+    "2026-11-08",
+    1094
    ]
   ],
   "4578780": [
@@ -9090,65 +9615,115 @@
    [
     "2026-11-07",
     3
+   ],
+   [
+    "2026-11-08",
+    3
    ]
   ],
   "4596170": [
    [
     "2026-11-07",
     176
+   ],
+   [
+    "2026-11-08",
+    142
    ]
   ],
   "4597810": [
    [
     "2026-11-07",
     24
+   ],
+   [
+    "2026-11-08",
+    20
    ]
   ],
   "4626180": [
    [
     "2026-11-07",
     167
+   ],
+   [
+    "2026-11-08",
+    162
+   ]
+  ],
+  "4631810": [
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "4635640": [
    [
     "2026-11-07",
     275
+   ],
+   [
+    "2026-11-08",
+    200
    ]
   ],
   "4640760": [
    [
     "2026-11-07",
     10
+   ],
+   [
+    "2026-11-08",
+    7
    ]
   ],
   "4652640": [
    [
     "2026-11-07",
     29
+   ],
+   [
+    "2026-11-08",
+    15
    ]
   ],
   "4659940": [
    [
     "2026-11-07",
     79
+   ],
+   [
+    "2026-11-08",
+    86
    ]
   ],
   "4668060": [
    [
     "2026-11-07",
     50
+   ],
+   [
+    "2026-11-08",
+    44
    ]
   ],
   "4675720": [
    [
     "2026-11-07",
     16
+   ],
+   [
+    "2026-11-08",
+    15
    ]
   ],
   "4688280": [
    [
     "2026-11-07",
+    1
+   ],
+   [
+    "2026-11-08",
     1
    ]
   ],
@@ -9156,29 +9731,55 @@
    [
     "2026-11-07",
     70
+   ],
+   [
+    "2026-11-08",
+    50
    ]
   ],
   "4691750": [
    [
     "2026-11-07",
     21
+   ],
+   [
+    "2026-11-08",
+    18
    ]
   ],
   "4739820": [
    [
     "2026-11-07",
     28
+   ],
+   [
+    "2026-11-08",
+    26
+   ]
+  ],
+  "4746430": [
+   [
+    "2026-11-08",
+    2
    ]
   ],
   "4776100": [
    [
     "2026-11-07",
     127
+   ],
+   [
+    "2026-11-08",
+    123
    ]
   ],
   "4787870": [
    [
     "2026-11-07",
+    3
+   ],
+   [
+    "2026-11-08",
     3
    ]
   ],
@@ -9186,36 +9787,60 @@
    [
     "2026-11-07",
     0
+   ],
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "4826780": [
    [
     "2026-11-07",
     28
+   ],
+   [
+    "2026-11-08",
+    20
    ]
   ],
   "4873800": [
    [
     "2026-11-07",
     27
+   ],
+   [
+    "2026-11-08",
+    25
    ]
   ],
   "4895870": [
    [
     "2026-11-07",
     711
+   ],
+   [
+    "2026-11-08",
+    498
    ]
   ],
   "4900110": [
    [
     "2026-11-07",
     51
+   ],
+   [
+    "2026-11-08",
+    35
    ]
   ],
   "4906570": [
    [
     "2026-11-07",
     163
+   ],
+   [
+    "2026-11-08",
+    165
    ]
   ],
   "4907430": [
@@ -9228,12 +9853,20 @@
    [
     "2026-11-07",
     3
+   ],
+   [
+    "2026-11-08",
+    4
    ]
   ],
   "4962300": [
    [
     "2026-11-07",
     3
+   ],
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "4976270": [
@@ -9242,10 +9875,20 @@
     1
    ]
   ],
+  "4982580": [
+   [
+    "2026-11-08",
+    0
+   ]
+  ],
   "4992280": [
    [
     "2026-11-07",
     80
+   ],
+   [
+    "2026-11-08",
+    75
    ]
   ],
   "5005110": [
@@ -9258,35 +9901,59 @@
    [
     "2026-11-07",
     24
+   ],
+   [
+    "2026-11-08",
+    34
    ]
   ],
   "5012760": [
    [
     "2026-11-07",
     142
+   ],
+   [
+    "2026-11-08",
+    108
    ]
   ],
   "5056340": [
    [
     "2026-11-07",
     99
+   ],
+   [
+    "2026-11-08",
+    74
    ]
   ],
   "5059970": [
    [
     "2026-11-07",
     26
+   ],
+   [
+    "2026-11-08",
+    24
    ]
   ],
   "5066300": [
    [
     "2026-11-07",
     92
+   ],
+   [
+    "2026-11-08",
+    80
    ]
   ],
   "5105000": [
    [
     "2026-11-07",
+    0
+   ],
+   [
+    "2026-11-08",
     0
    ]
   ],
@@ -9294,6 +9961,10 @@
    [
     "2026-11-07",
     2
+   ],
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "5150150": [
@@ -9306,23 +9977,39 @@
    [
     "2026-11-07",
     49
+   ],
+   [
+    "2026-11-08",
+    40
    ]
   ],
   "5181180": [
    [
     "2026-11-07",
     18
+   ],
+   [
+    "2026-11-08",
+    27
    ]
   ],
   "5193870": [
    [
     "2026-11-07",
     29
+   ],
+   [
+    "2026-11-08",
+    26
    ]
   ],
   "5204300": [
    [
     "2026-11-07",
+    0
+   ],
+   [
+    "2026-11-08",
     0
    ]
   ],
@@ -9330,11 +10017,19 @@
    [
     "2026-11-07",
     34
+   ],
+   [
+    "2026-11-08",
+    43
    ]
   ],
   "5218890": [
    [
     "2026-11-07",
+    0
+   ],
+   [
+    "2026-11-08",
     0
    ]
   ],
@@ -9342,24 +10037,40 @@
    [
     "2026-11-07",
     0
+   ],
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "5220900": [
    [
     "2026-11-07",
     26
+   ],
+   [
+    "2026-11-08",
+    29
    ]
   ],
   "5224010": [
    [
     "2026-11-07",
     411
+   ],
+   [
+    "2026-11-08",
+    277
    ]
   ],
   "5230480": [
    [
     "2026-11-07",
     561
+   ],
+   [
+    "2026-11-08",
+    545
    ]
   ],
   "5231690": [
@@ -9372,119 +10083,223 @@
    [
     "2026-11-07",
     6
+   ],
+   [
+    "2026-11-08",
+    7
    ]
   ],
   "5259730": [
    [
     "2026-11-07",
     49
+   ],
+   [
+    "2026-11-08",
+    31
    ]
   ],
   "5271720": [
    [
     "2026-11-07",
     22
+   ],
+   [
+    "2026-11-08",
+    10
    ]
   ],
   "5273050": [
    [
     "2026-11-07",
     6
+   ],
+   [
+    "2026-11-08",
+    11
    ]
   ],
   "5274180": [
    [
     "2026-11-07",
     20
+   ],
+   [
+    "2026-11-08",
+    14
+   ]
+  ],
+  "5289190": [
+   [
+    "2026-11-08",
+    1
    ]
   ],
   "5325220": [
    [
     "2026-11-07",
     5
+   ],
+   [
+    "2026-11-08",
+    4
    ]
   ],
   "5335510": [
    [
     "2026-11-07",
     46068
+   ],
+   [
+    "2026-11-08",
+    37871
    ]
   ],
   "5338390": [
    [
     "2026-11-07",
     11
+   ],
+   [
+    "2026-11-08",
+    15
    ]
   ],
   "5338620": [
    [
     "2026-11-07",
     156
+   ],
+   [
+    "2026-11-08",
+    102
    ]
   ],
   "5355880": [
    [
     "2026-11-07",
     67
+   ],
+   [
+    "2026-11-08",
+    66
    ]
   ],
   "5363350": [
    [
     "2026-11-07",
     809
+   ],
+   [
+    "2026-11-08",
+    626
    ]
   ],
   "5371190": [
    [
     "2026-11-07",
     11
+   ],
+   [
+    "2026-11-08",
+    9
    ]
   ],
   "5373510": [
    [
     "2026-11-07",
     7554
+   ],
+   [
+    "2026-11-08",
+    7226
+   ]
+  ],
+  "5381260": [
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "5399970": [
    [
     "2026-11-07",
     2
+   ],
+   [
+    "2026-11-08",
+    1
+   ]
+  ],
+  "5402520": [
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "5403150": [
    [
     "2026-11-07",
     219
+   ],
+   [
+    "2026-11-08",
+    193
+   ]
+  ],
+  "5405270": [
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "5407640": [
    [
     "2026-11-07",
     189
+   ],
+   [
+    "2026-11-08",
+    169
    ]
   ],
   "5411310": [
    [
     "2026-11-07",
     0
+   ],
+   [
+    "2026-11-08",
+    1
    ]
   ],
   "5422930": [
    [
     "2026-11-07",
     319
+   ],
+   [
+    "2026-11-08",
+    259
    ]
   ],
   "5435190": [
    [
     "2026-11-07",
     2
+   ],
+   [
+    "2026-11-08",
+    3
    ]
   ],
   "5437570": [
    [
     "2026-11-07",
+    0
+   ],
+   [
+    "2026-11-08",
     0
    ]
   ],
@@ -9492,34 +10307,61 @@
    [
     "2026-11-07",
     0
+   ],
+   [
+    "2026-11-08",
+    1
+   ]
+  ],
+  "5472270": [
+   [
+    "2026-11-08",
+    0
    ]
   ],
   "5477320": [
    [
     "2026-11-07",
     0
+   ],
+   [
+    "2026-11-08",
+    1
    ]
   ],
   "5496720": [
    [
     "2026-11-07",
     168
+   ],
+   [
+    "2026-11-08",
+    130
    ]
   ],
   "892970": [
    [
     "2026-11-07",
     72895
+   ],
+   [
+    "2026-11-08",
+    52416
    ]
   ]
  },
  "rank_days": [
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-08"
  ],
  "ranks": {
   "1228610": [
    [
     "2026-11-07",
+    59
+   ],
+   [
+    "2026-11-08",
     59
    ]
   ],
@@ -9527,11 +10369,19 @@
    [
     "2026-11-07",
     86
+   ],
+   [
+    "2026-11-08",
+    86
    ]
   ],
   "1280190": [
    [
     "2026-11-07",
+    36
+   ],
+   [
+    "2026-11-08",
     36
    ]
   ],
@@ -9539,11 +10389,19 @@
    [
     "2026-11-07",
     40
+   ],
+   [
+    "2026-11-08",
+    40
    ]
   ],
   "1340720": [
    [
     "2026-11-07",
+    23
+   ],
+   [
+    "2026-11-08",
     23
    ]
   ],
@@ -9551,11 +10409,19 @@
    [
     "2026-11-07",
     66
+   ],
+   [
+    "2026-11-08",
+    66
    ]
   ],
   "1416070": [
    [
     "2026-11-07",
+    87
+   ],
+   [
+    "2026-11-08",
     87
    ]
   ],
@@ -9563,11 +10429,19 @@
    [
     "2026-11-07",
     96
+   ],
+   [
+    "2026-11-08",
+    96
    ]
   ],
   "1586260": [
    [
     "2026-11-07",
+    68
+   ],
+   [
+    "2026-11-08",
     68
    ]
   ],
@@ -9575,11 +10449,19 @@
    [
     "2026-11-07",
     88
+   ],
+   [
+    "2026-11-08",
+    88
    ]
   ],
   "1685960": [
    [
     "2026-11-07",
+    44
+   ],
+   [
+    "2026-11-08",
     44
    ]
   ],
@@ -9587,11 +10469,19 @@
    [
     "2026-11-07",
     35
+   ],
+   [
+    "2026-11-08",
+    35
    ]
   ],
   "1731290": [
    [
     "2026-11-07",
+    90
+   ],
+   [
+    "2026-11-08",
     90
    ]
   ],
@@ -9599,11 +10489,19 @@
    [
     "2026-11-07",
     47
+   ],
+   [
+    "2026-11-08",
+    47
    ]
   ],
   "1757350": [
    [
     "2026-11-07",
+    10
+   ],
+   [
+    "2026-11-08",
     10
    ]
   ],
@@ -9611,11 +10509,19 @@
    [
     "2026-11-07",
     5
+   ],
+   [
+    "2026-11-08",
+    5
    ]
   ],
   "1818140": [
    [
     "2026-11-07",
+    80
+   ],
+   [
+    "2026-11-08",
     80
    ]
   ],
@@ -9623,11 +10529,19 @@
    [
     "2026-11-07",
     9
+   ],
+   [
+    "2026-11-08",
+    9
    ]
   ],
   "1940080": [
    [
     "2026-11-07",
+    29
+   ],
+   [
+    "2026-11-08",
     29
    ]
   ],
@@ -9635,11 +10549,19 @@
    [
     "2026-11-07",
     61
+   ],
+   [
+    "2026-11-08",
+    61
    ]
   ],
   "2050420": [
    [
     "2026-11-07",
+    11
+   ],
+   [
+    "2026-11-08",
     11
    ]
   ],
@@ -9647,11 +10569,19 @@
    [
     "2026-11-07",
     70
+   ],
+   [
+    "2026-11-08",
+    70
    ]
   ],
   "2109770": [
    [
     "2026-11-07",
+    8
+   ],
+   [
+    "2026-11-08",
     8
    ]
   ],
@@ -9659,11 +10589,19 @@
    [
     "2026-11-07",
     99
+   ],
+   [
+    "2026-11-08",
+    99
    ]
   ],
   "2153760": [
    [
     "2026-11-07",
+    65
+   ],
+   [
+    "2026-11-08",
     65
    ]
   ],
@@ -9671,11 +10609,19 @@
    [
     "2026-11-07",
     42
+   ],
+   [
+    "2026-11-08",
+    42
    ]
   ],
   "2165810": [
    [
     "2026-11-07",
+    85
+   ],
+   [
+    "2026-11-08",
     85
    ]
   ],
@@ -9683,11 +10629,19 @@
    [
     "2026-11-07",
     37
+   ],
+   [
+    "2026-11-08",
+    37
    ]
   ],
   "2208810": [
    [
     "2026-11-07",
+    94
+   ],
+   [
+    "2026-11-08",
     94
    ]
   ],
@@ -9695,11 +10649,19 @@
    [
     "2026-11-07",
     26
+   ],
+   [
+    "2026-11-08",
+    26
    ]
   ],
   "2235430": [
    [
     "2026-11-07",
+    82
+   ],
+   [
+    "2026-11-08",
     82
    ]
   ],
@@ -9707,11 +10669,19 @@
    [
     "2026-11-07",
     67
+   ],
+   [
+    "2026-11-08",
+    67
    ]
   ],
   "2272360": [
    [
     "2026-11-07",
+    17
+   ],
+   [
+    "2026-11-08",
     17
    ]
   ],
@@ -9719,11 +10689,19 @@
    [
     "2026-11-07",
     33
+   ],
+   [
+    "2026-11-08",
+    33
    ]
   ],
   "2318330": [
    [
     "2026-11-07",
+    58
+   ],
+   [
+    "2026-11-08",
     58
    ]
   ],
@@ -9731,11 +10709,19 @@
    [
     "2026-11-07",
     27
+   ],
+   [
+    "2026-11-08",
+    27
    ]
   ],
   "2381520": [
    [
     "2026-11-07",
+    14
+   ],
+   [
+    "2026-11-08",
     14
    ]
   ],
@@ -9743,11 +10729,19 @@
    [
     "2026-11-07",
     98
+   ],
+   [
+    "2026-11-08",
+    98
    ]
   ],
   "2439280": [
    [
     "2026-11-07",
+    54
+   ],
+   [
+    "2026-11-08",
     54
    ]
   ],
@@ -9755,11 +10749,19 @@
    [
     "2026-11-07",
     71
+   ],
+   [
+    "2026-11-08",
+    71
    ]
   ],
   "2582960": [
    [
     "2026-11-07",
+    24
+   ],
+   [
+    "2026-11-08",
     24
    ]
   ],
@@ -9767,11 +10769,19 @@
    [
     "2026-11-07",
     13
+   ],
+   [
+    "2026-11-08",
+    13
    ]
   ],
   "2610770": [
    [
     "2026-11-07",
+    55
+   ],
+   [
+    "2026-11-08",
     55
    ]
   ],
@@ -9779,11 +10789,19 @@
    [
     "2026-11-07",
     32
+   ],
+   [
+    "2026-11-08",
+    32
    ]
   ],
   "2692660": [
    [
     "2026-11-07",
+    56
+   ],
+   [
+    "2026-11-08",
     56
    ]
   ],
@@ -9791,11 +10809,19 @@
    [
     "2026-11-07",
     3
+   ],
+   [
+    "2026-11-08",
+    3
    ]
   ],
   "2724650": [
    [
     "2026-11-07",
+    41
+   ],
+   [
+    "2026-11-08",
     41
    ]
   ],
@@ -9803,11 +10829,19 @@
    [
     "2026-11-07",
     4
+   ],
+   [
+    "2026-11-08",
+    4
    ]
   ],
   "2814860": [
    [
     "2026-11-07",
+    25
+   ],
+   [
+    "2026-11-08",
     25
    ]
   ],
@@ -9815,11 +10849,19 @@
    [
     "2026-11-07",
     97
+   ],
+   [
+    "2026-11-08",
+    97
    ]
   ],
   "2849490": [
    [
     "2026-11-07",
+    75
+   ],
+   [
+    "2026-11-08",
     75
    ]
   ],
@@ -9827,11 +10869,19 @@
    [
     "2026-11-07",
     39
+   ],
+   [
+    "2026-11-08",
+    39
    ]
   ],
   "2873440": [
    [
     "2026-11-07",
+    21
+   ],
+   [
+    "2026-11-08",
     21
    ]
   ],
@@ -9839,11 +10889,19 @@
    [
     "2026-11-07",
     83
+   ],
+   [
+    "2026-11-08",
+    83
    ]
   ],
   "2956040": [
    [
     "2026-11-07",
+    43
+   ],
+   [
+    "2026-11-08",
     43
    ]
   ],
@@ -9851,11 +10909,19 @@
    [
     "2026-11-07",
     16
+   ],
+   [
+    "2026-11-08",
+    16
    ]
   ],
   "3016620": [
    [
     "2026-11-07",
+    30
+   ],
+   [
+    "2026-11-08",
     30
    ]
   ],
@@ -9863,11 +10929,19 @@
    [
     "2026-11-07",
     62
+   ],
+   [
+    "2026-11-08",
+    62
    ]
   ],
   "3078150": [
    [
     "2026-11-07",
+    95
+   ],
+   [
+    "2026-11-08",
     95
    ]
   ],
@@ -9875,11 +10949,19 @@
    [
     "2026-11-07",
     45
+   ],
+   [
+    "2026-11-08",
+    45
    ]
   ],
   "3230960": [
    [
     "2026-11-07",
+    52
+   ],
+   [
+    "2026-11-08",
     52
    ]
   ],
@@ -9887,11 +10969,19 @@
    [
     "2026-11-07",
     46
+   ],
+   [
+    "2026-11-08",
+    46
    ]
   ],
   "3281420": [
    [
     "2026-11-07",
+    74
+   ],
+   [
+    "2026-11-08",
     74
    ]
   ],
@@ -9899,11 +10989,19 @@
    [
     "2026-11-07",
     84
+   ],
+   [
+    "2026-11-08",
+    84
    ]
   ],
   "3292470": [
    [
     "2026-11-07",
+    20
+   ],
+   [
+    "2026-11-08",
     20
    ]
   ],
@@ -9911,11 +11009,19 @@
    [
     "2026-11-07",
     63
+   ],
+   [
+    "2026-11-08",
+    63
    ]
   ],
   "3371050": [
    [
     "2026-11-07",
+    73
+   ],
+   [
+    "2026-11-08",
     73
    ]
   ],
@@ -9923,11 +11029,19 @@
    [
     "2026-11-07",
     60
+   ],
+   [
+    "2026-11-08",
+    60
    ]
   ],
   "3558670": [
    [
     "2026-11-07",
+    19
+   ],
+   [
+    "2026-11-08",
     19
    ]
   ],
@@ -9935,11 +11049,19 @@
    [
     "2026-11-07",
     49
+   ],
+   [
+    "2026-11-08",
+    48
    ]
   ],
   "3642910": [
    [
     "2026-11-07",
+    64
+   ],
+   [
+    "2026-11-08",
     64
    ]
   ],
@@ -9947,11 +11069,19 @@
    [
     "2026-11-07",
     100
+   ],
+   [
+    "2026-11-08",
+    100
    ]
   ],
   "3669620": [
    [
     "2026-11-07",
+    77
+   ],
+   [
+    "2026-11-08",
     77
    ]
   ],
@@ -9959,11 +11089,19 @@
    [
     "2026-11-07",
     22
+   ],
+   [
+    "2026-11-08",
+    22
    ]
   ],
   "3714800": [
    [
     "2026-11-07",
+    89
+   ],
+   [
+    "2026-11-08",
     89
    ]
   ],
@@ -9971,11 +11109,19 @@
    [
     "2026-11-07",
     18
+   ],
+   [
+    "2026-11-08",
+    18
    ]
   ],
   "3788800": [
    [
     "2026-11-07",
+    79
+   ],
+   [
+    "2026-11-08",
     79
    ]
   ],
@@ -9983,11 +11129,19 @@
    [
     "2026-11-07",
     48
+   ],
+   [
+    "2026-11-08",
+    49
    ]
   ],
   "3978820": [
    [
     "2026-11-07",
+    31
+   ],
+   [
+    "2026-11-08",
     31
    ]
   ],
@@ -9995,11 +11149,19 @@
    [
     "2026-11-07",
     78
+   ],
+   [
+    "2026-11-08",
+    78
    ]
   ],
   "4077740": [
    [
     "2026-11-07",
+    28
+   ],
+   [
+    "2026-11-08",
     28
    ]
   ],
@@ -10007,11 +11169,19 @@
    [
     "2026-11-07",
     12
+   ],
+   [
+    "2026-11-08",
+    12
    ]
   ],
   "4150720": [
    [
     "2026-11-07",
+    50
+   ],
+   [
+    "2026-11-08",
     50
    ]
   ],
@@ -10019,11 +11189,19 @@
    [
     "2026-11-07",
     6
+   ],
+   [
+    "2026-11-08",
+    6
    ]
   ],
   "4228810": [
    [
     "2026-11-07",
+    76
+   ],
+   [
+    "2026-11-08",
     76
    ]
   ],
@@ -10031,11 +11209,19 @@
    [
     "2026-11-07",
     92
+   ],
+   [
+    "2026-11-08",
+    92
    ]
   ],
   "4260840": [
    [
     "2026-11-07",
+    57
+   ],
+   [
+    "2026-11-08",
     57
    ]
   ],
@@ -10043,11 +11229,19 @@
    [
     "2026-11-07",
     51
+   ],
+   [
+    "2026-11-08",
+    51
    ]
   ],
   "4534960": [
    [
     "2026-11-07",
+    2
+   ],
+   [
+    "2026-11-08",
     2
    ]
   ],
@@ -10055,11 +11249,19 @@
    [
     "2026-11-07",
     93
+   ],
+   [
+    "2026-11-08",
+    93
    ]
   ],
   "4743930": [
    [
     "2026-11-07",
+    38
+   ],
+   [
+    "2026-11-08",
     38
    ]
   ],
@@ -10067,11 +11269,19 @@
    [
     "2026-11-07",
     81
+   ],
+   [
+    "2026-11-08",
+    81
    ]
   ],
   "4814120": [
    [
     "2026-11-07",
+    91
+   ],
+   [
+    "2026-11-08",
     91
    ]
   ],
@@ -10079,11 +11289,19 @@
    [
     "2026-11-07",
     7
+   ],
+   [
+    "2026-11-08",
+    7
    ]
   ],
   "5072600": [
    [
     "2026-11-07",
+    34
+   ],
+   [
+    "2026-11-08",
     34
    ]
   ]
