@@ -275,6 +275,45 @@
    "released": "2022-02-16",
    "type": "game"
   },
+  "1158310": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Steam Cloud",
+    "Remote Play on Tablet",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Love, fight, scheme, and claim greatness. Determine your noble house’s legacy in the sprawling grand strategy of Crusader Kings III. Death is only the beginning as you guide your dynasty’s bloodline in the rich and larger-than-life simulation of the Middle Ages.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Crusader Kings III",
+   "price": "£41.99",
+   "released": "2020-09-01",
+   "type": "game"
+  },
   "1172470": {
    "checked": "2026-11-07",
    "desc": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
@@ -301,6 +340,36 @@
    "price": "£59.99",
    "released": "2019-12-05",
    "type": "game"
+  },
+  "1202520": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "MMO",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Fallout 1st is a premium membership that enhances the Fallout 76 experience. Members receive access to Private Adventure and Custom Worlds, exclusive utility and cosmetic items, 1650 Atoms per month, plus other bonuses. Become a member and reclaim the wasteland today!",
+   "free": false,
+   "fullgame": "1151340",
+   "fullgame_name": "Fallout 76",
+   "genres": [
+    "RPG"
+   ],
+   "name": "Fallout 1st",
+   "price": "£11.99",
+   "released": "2020-04-14",
+   "skip": true,
+   "type": "dlc"
   },
   "1203220": {
    "checked": "2026-11-07",
@@ -465,6 +534,48 @@
    "released": null,
    "type": "game"
   },
+  "1272080": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Surround Sound",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "PAYDAY 3 is a 1-to-4 player co-op FPS and the ultimate heist fantasy, set in the most iconic city in the world. Gone without a trace or through a hail of bullets. Either way, you're getting out with the prize.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "name": "PAYDAY 3",
+   "price": "£7.19",
+   "released": "2023-09-21",
+   "type": "game"
+  },
   "1280190": {
    "adult": false,
    "categories": [
@@ -503,6 +614,47 @@
    "released": "2020-05-16",
    "skip": true,
    "type": "mod"
+  },
+  "1289670": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Includes level editor",
+    "Remote Play Together",
+    "HDR available"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Unlock a world of thrill. Get unlimited access to a collection of EA’s top titles, trials of select new games, &amp; member discounts and rewards*.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Sports"
+   ],
+   "name": "EA Play",
+   "price": "£5.99",
+   "released": "2020-08-31",
+   "type": "game"
   },
   "1304930": {
    "checked": "2026-11-07",
@@ -1199,6 +1351,32 @@
    "name": "Witchbrook",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "1859550": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Gamepad Recommended",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Rise from the grave in a compact third-person soulslike. Battle undead and bosses, level up your character and master timed arena challenges. Every hit taken costs time; every parry improves your score. Refine your runs and compete on Steam leaderboards.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Raise",
+   "price": "£3.89",
+   "released": "2026-11-08",
    "type": "game"
   },
   "1867240": {
@@ -2789,6 +2967,38 @@
    "released": null,
    "type": "game"
   },
+  "266410": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "MMO",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "VR Support",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "We are the world’s premier motorsports racing game. An iRacing membership provides entry into the newest form of motorsport: internet racing. Internet racing is a fun, easy, and inexpensive way for race fan and gamers alike to enjoy the thrill of the racetrack from the comfort of their home.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Massively Multiplayer",
+    "Racing",
+    "Simulation",
+    "Sports"
+   ],
+   "name": "iRacing",
+   "price": "£9.78",
+   "released": "2015-01-12",
+   "type": "game"
+  },
   "2669450": {
    "adult": false,
    "categories": [
@@ -2994,6 +3204,37 @@
    "name": "Fable",
    "price": "£59.99",
    "released": null,
+   "type": "game"
+  },
+  "2806540": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Touch Only Option",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Sweeten the countdown to Christmas with this fabulous advent calendar full of hidden cats for you to find in this relaxing hidden object game for the whole family by Travellin Cats - the original viral hidden cat game creator!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Travellin Cats Advent Calendar",
+   "price": "£6.07",
+   "released": "2026-11-08",
    "type": "game"
   },
   "2807960": {
@@ -4645,6 +4886,33 @@
    "released": null,
    "type": "game"
   },
+  "3570680": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [
+    "4561950"
+   ],
+   "desc": "Meltdown is a nuclear reactor desk-job simulation where you, as a newly recruited operator, must control the reactor to keep the surrounding city powered up. Maintain the wires in the power grid, regulate the water tank’s flow, and tune the steam ventilation to keep the reactor from overheating.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Meltdown",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "359550": {
    "checked": "2026-11-07",
    "desc": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
@@ -5777,6 +6045,27 @@
    "released": null,
    "type": "game"
   },
+  "4053770": {
+   "adult": false,
+   "categories": [
+    "Game demo",
+    "Full controller support",
+    "DualSense Controller Support",
+    "DualSense Controller Support"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "",
+   "free": true,
+   "fullgame": "3673110",
+   "fullgame_name": "Backrooms: Prop Hunt",
+   "genres": [],
+   "name": "Backrooms: Prop Hunt Demo",
+   "price": "",
+   "released": null,
+   "type": "demo"
+  },
   "4077740": {
    "adult": false,
    "categories": [
@@ -6822,6 +7111,31 @@
    "released": "2016-11-09",
    "type": "game"
   },
+  "4444310": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [
+    "4525960",
+    "4525960"
+   ],
+   "desc": "A shooter primarily focused on constantly aiming at various difficulties.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "name": "Rend",
+   "price": "£5.69",
+   "released": "2026-11-08",
+   "type": "game"
+  },
   "4453700": {
    "checked": "2026-11-07",
    "desc": "Explore an abandoned and decaying village in this immersive first-person psychological horror experience, search forgotten houses and shadowed paths, piece together disturbing clues, and uncover the truth that waits within the suffocating darkness.",
@@ -6867,6 +7181,35 @@
    "name": "Slotbound",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "4459600": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "PICK A BOO is an online co-op roguelike escape action game for up to 6 players. Explore ever-changing stages and haul furniture and cargo with magnetic power. Upgrade your character, evade enemies, or fight back. How greedy will you get? When will you escape? It's up to you!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "PICK A BOO",
+   "price": "£5.83",
+   "released": "2026-11-08",
    "type": "game"
   },
   "4463520": {
@@ -8041,6 +8384,34 @@
    "released": null,
    "type": "game"
   },
+  "4786370": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Narrated Game Menus",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [
+    "4789320"
+   ],
+   "desc": "Yokai Idle is a relaxing idle RPG inspired by Japanese folklore. Collect over 50 Yokai, craft equipment with powerful modifiers, and create unique builds as you progress through the historical Ages of Japan and guide the island of Onigashima into a new era 🎎",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG"
+   ],
+   "name": "Yokai Idle",
+   "price": "£4.59",
+   "released": "2026-11-08",
+   "type": "game"
+  },
   "4795460": {
    "adult": false,
    "categories": [
@@ -8488,6 +8859,39 @@
    "released": null,
    "type": "game"
   },
+  "4920280": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Stats",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [
+    "5049300"
+   ],
+   "desc": "Hang a battlefield on your desktop and let your soldier fight and grow automatically. Plan talents, buy gear, refine builds, and use APM to boost combat speed. Team up with friends for ranked battles, chase higher KDA and scores, and find out who is best at “strategic slacking” during work.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "name": "喵呜风云",
+   "price": "£2.38",
+   "released": "2026-11-08",
+   "type": "game"
+  },
   "4928450": {
    "adult": false,
    "categories": [
@@ -8710,6 +9114,32 @@
    "name": "3 Estrellas",
    "price": "£7.72",
    "released": "2026-11-07",
+   "type": "game"
+  },
+  "4986330": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [
+    "5258110"
+   ],
+   "desc": "Your hands are the controller. Wave at your webcam, pinch to grab blocks, and stack a tower tall enough to carry the key to the lock. Solve physics puzzles across 90+ levels of wood, stone, glass, rope, and hope. Webcam required.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Free To Play"
+   ],
+   "name": "Handsy",
+   "price": "",
+   "released": "2026-11-08",
    "type": "game"
   },
   "4990840": {
@@ -9743,6 +10173,28 @@
    "released": null,
    "type": "game"
   },
+  "5302260": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Game demo"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Lead a militia through a realm in turmoil. Build your settlement, manage resources, recruit troops, and defend your people when night falls. This single-player demo combines settlement management with real-time strategy combat.",
+   "free": true,
+   "fullgame": "3676070",
+   "fullgame_name": "Change Dynasties",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "change dynasties Demo",
+   "price": "",
+   "released": null,
+   "type": "demo"
+  },
   "5308680": {
    "adult": false,
    "categories": [
@@ -10010,6 +10462,38 @@
    "tags_checked": "2026-11-07",
    "type": "game"
   },
+  "5342780": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Workshop",
+    "Adjustable Text Size",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A catgirl who lives in a cardboard box on your taskbar. Leave your PC too long and she pops out, knocks on your screen and nags you back to work. Pet her, pick her up by the scruff, teach her your own lines. Launches with a second character: Naiwa, the belly-laughing frog. Free to play.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Free To Play"
+   ],
+   "name": "喵～该工作啦！ Nya! Back to Work",
+   "price": "",
+   "released": "2026-11-08",
+   "type": "game"
+  },
   "5343400": {
    "adult": false,
    "categories": [
@@ -10041,6 +10525,27 @@
    "name": "Car Flipper",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "5353720": {
+   "adult": false,
+   "categories": [
+    "Single-player"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Customize your mouse cursor with 500 unique styles and give it a trail. 352 trails: comets, dragons, fireflies, a pet that naps by your pointer. Tune genes in the Lab or splice two trails into new ones. Featherweight and click-through, with no hooks or injection, on Windows 10 and 11.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Utilities"
+   ],
+   "name": "MorphTrail",
+   "price": "£3.77",
+   "released": "2026-11-08",
    "type": "game"
   },
   "5371810": {
@@ -10353,6 +10858,33 @@
    "released": "2026-11-07",
    "type": "game"
   },
+  "5451960": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Game demo"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Demo of CHU: The Nightmare of That Day. Long after your discharge, you wake up back in the barracks: live through Day 1 and the first night with “him” still awake, then take on spin-off Chapter 1, The Silent Monastery, in 1-4 player online co-op. The full game launches January 14, 2027.",
+   "free": true,
+   "fullgame": "5366980",
+   "fullgame_name": "추 : 그날의 악몽",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Free To Play"
+   ],
+   "name": "추 : 그날의 악몽 Demo",
+   "price": "",
+   "released": null,
+   "type": "demo"
+  },
   "5455560": {
    "adult": false,
    "categories": [
@@ -10457,6 +10989,31 @@
    "released": "2026-11-08",
    "type": "game"
   },
+  "5466110": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Partial Controller Support",
+    "Commentary available",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Free Issue 00 includes an exclusive special stage of the wild run &amp; gun HIJURA SCARLET GEAR! A disk-magazine-style collection of indie studio HU-GA's work, also with the Final Re:Quest movie trailer in TRUE PIXEL, a special booklet and four Zolge Station talk specials. New issues arrive as DLC.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Free To Play"
+   ],
+   "name": "ZOLGE STATION: HUGA Waiwai Academy",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5471970": {
    "adult": false,
    "categories": [
@@ -10546,6 +11103,32 @@
    "released": "2026-11-07",
    "type": "game"
   },
+  "5476770": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Stats",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Armed Prisoner III is a 2D casual incremental idle electronic cricket small game in which the core gameplay revolves around Bot AI characters using modern firearms to shoot and fight each other. The battles are random, chaotic, and unlimited in duration",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Armed Prisoner III",
+   "price": "£1.69",
+   "released": "2026-11-08",
+   "type": "game"
+  },
   "5477320": {
    "checked": "2026-11-07",
    "desc": "Break the support. Drop the slab. Smash the rock below. Rockburst is an incremental mining game about setting off collapses, collecting ore and buying upgrades to dig deeper before your lamp runs out.",
@@ -10559,6 +11142,33 @@
    "name": "Rockburst",
    "price": "£5.19",
    "released": "2026-11-07",
+   "type": "game"
+  },
+  "5477930": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "Narrated Game Menus",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Your cat borrowed eight million, built a second sun in the bathroom, and named you guarantor. An absurd comedy visual novel with dubious contracts, a bathtub republic, a turn-based solar puzzle, and three ways to survive the evening.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie"
+   ],
+   "name": "Boris & the Second Sun",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "5490870": {
@@ -10688,6 +11298,112 @@
    "price": "£34.99",
    "released": "2024-02-08",
    "type": "game"
+  },
+  "5542670": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Downloadable Content"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Support Safari-TV and give your next questionable expedition a new look. Includes the Reptile Skin, Monkey Costume, Alien Goggles and Hypnotic Glasses. Cosmetic items only.",
+   "free": false,
+   "fullgame": "5118500",
+   "fullgame_name": "Safari-TV",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Safari-TV - Supporter Pack",
+   "price": "",
+   "released": null,
+   "skip": true,
+   "type": "dlc"
+  },
+  "5542680": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Downloadable Content"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Bring a little more nonsense to your next safari with the Lion Costume, Black Robber Mask and Pixel Glasses. Three cosmetic items for the friends who always end up in the footage.",
+   "free": false,
+   "fullgame": "5118500",
+   "fullgame_name": "Safari-TV",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Safari-TV - Community Pack",
+   "price": "",
+   "released": null,
+   "skip": true,
+   "type": "dlc"
+  },
+  "5549700": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Game demo",
+    "Playable without Timed Input",
+    "Save Anytime"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Return to an abandoned psychiatric hospital where your mother vanished twenty years ago. Explore dark corridors, solve environmental puzzles, and survive terrifying encounters in this 25–30 minute first-person psychological horror demo. Room 307 is waiting.",
+   "free": true,
+   "fullgame": "5370490",
+   "fullgame_name": "ROOM 307",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "name": "ROOM 307 Demo",
+   "price": "",
+   "released": null,
+   "type": "demo"
+  },
+  "5550010": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Game demo",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "Touch Only Option"
+   ],
+   "checked": "2026-11-09",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "A dark fantasy roguelike auto-battler where massive armies clash as rival gods shape your campaign with blessings, curses, and impossible demands.",
+   "free": true,
+   "fullgame": "4391630",
+   "fullgame_name": "Bring Me More!",
+   "genres": [
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Bring Me More! Demo",
+   "price": "",
+   "released": null,
+   "type": "demo"
   },
   "570": {
    "checked": "2026-11-07",
@@ -11019,7 +11735,7 @@
    ],
    [
     "2026-11-09",
-    39912
+    19522
    ]
   ],
   "1660770": [
@@ -11033,7 +11749,7 @@
    ],
    [
     "2026-11-09",
-    14
+    7
    ]
   ],
   "1811180": [
@@ -11050,6 +11766,12 @@
     25
    ]
   ],
+  "1859550": [
+   [
+    "2026-11-09",
+    0
+   ]
+  ],
   "1867240": [
    [
     "2026-11-07",
@@ -11061,7 +11783,7 @@
    ],
    [
     "2026-11-09",
-    60406
+    30782
    ]
   ],
   "1990250": [
@@ -11085,7 +11807,7 @@
    ],
    [
     "2026-11-09",
-    3
+    2
    ]
   ],
   "2443020": [
@@ -11099,7 +11821,7 @@
    ],
    [
     "2026-11-09",
-    5
+    1
    ]
   ],
   "2474130": [
@@ -11113,7 +11835,7 @@
    ],
    [
     "2026-11-09",
-    11
+    1
    ]
   ],
   "2540670": [
@@ -11126,6 +11848,12 @@
     2
    ]
   ],
+  "2806540": [
+   [
+    "2026-11-09",
+    5
+   ]
+  ],
   "2824590": [
    [
     "2026-11-08",
@@ -11133,7 +11861,7 @@
    ],
    [
     "2026-11-09",
-    4
+    2
    ]
   ],
   "2842720": [
@@ -11175,7 +11903,7 @@
    ],
    [
     "2026-11-09",
-    167
+    360
    ]
   ],
   "3393110": [
@@ -11189,7 +11917,7 @@
    ],
    [
     "2026-11-09",
-    132480
+    119835
    ]
   ],
   "3435580": [
@@ -11219,7 +11947,7 @@
    ],
    [
     "2026-11-09",
-    26
+    37
    ]
   ],
   "3640620": [
@@ -11233,7 +11961,7 @@
    ],
    [
     "2026-11-09",
-    152
+    94
    ]
   ],
   "3681220": [
@@ -11253,7 +11981,7 @@
    ],
    [
     "2026-11-09",
-    24
+    19
    ]
   ],
   "3842790": [
@@ -11267,7 +11995,7 @@
    ],
    [
     "2026-11-09",
-    10
+    19
    ]
   ],
   "3908970": [
@@ -11291,7 +12019,7 @@
    ],
    [
     "2026-11-09",
-    17075
+    6555
    ]
   ],
   "4080220": [
@@ -11305,7 +12033,7 @@
    ],
    [
     "2026-11-09",
-    22486
+    15064
    ]
   ],
   "4099940": [
@@ -11319,7 +12047,7 @@
    ],
    [
     "2026-11-09",
-    41
+    65
    ]
   ],
   "4115450": [
@@ -11333,7 +12061,7 @@
    ],
    [
     "2026-11-09",
-    76930
+    190814
    ]
   ],
   "4121720": [
@@ -11347,7 +12075,7 @@
    ],
    [
     "2026-11-09",
-    117
+    51
    ]
   ],
   "4126040": [
@@ -11361,7 +12089,7 @@
    ],
    [
     "2026-11-09",
-    26727
+    23043
    ]
   ],
   "4171280": [
@@ -11383,7 +12111,7 @@
   "4258970": [
    [
     "2026-11-09",
-    5
+    11
    ]
   ],
   "4262460": [
@@ -11397,7 +12125,7 @@
    ],
    [
     "2026-11-09",
-    90436
+    52451
    ]
   ],
   "4289350": [
@@ -11411,7 +12139,7 @@
    ],
    [
     "2026-11-09",
-    3
+    2
    ]
   ],
   "4307190": [
@@ -11421,7 +12149,7 @@
    ],
    [
     "2026-11-09",
-    32
+    15
    ]
   ],
   "4307740": [
@@ -11435,7 +12163,7 @@
    ],
    [
     "2026-11-09",
-    396
+    112
    ]
   ],
   "4315500": [
@@ -11449,7 +12177,7 @@
    ],
    [
     "2026-11-09",
-    0
+    4
    ]
   ],
   "4331760": [
@@ -11463,7 +12191,7 @@
    ],
    [
     "2026-11-09",
-    656
+    383
    ]
   ],
   "4348910": [
@@ -11477,7 +12205,7 @@
    ],
    [
     "2026-11-09",
-    55514
+    102847
    ]
   ],
   "4353760": [
@@ -11487,7 +12215,7 @@
    ],
    [
     "2026-11-09",
-    39
+    66
    ]
   ],
   "4354480": [
@@ -11501,7 +12229,7 @@
    ],
    [
     "2026-11-09",
-    7
+    10
    ]
   ],
   "4391570": [
@@ -11521,7 +12249,7 @@
    ],
    [
     "2026-11-09",
-    345
+    158
    ]
   ],
   "4425280": [
@@ -11535,7 +12263,7 @@
    ],
    [
     "2026-11-09",
-    5
+    6
    ]
   ],
   "4425970": [
@@ -11549,7 +12277,7 @@
    ],
    [
     "2026-11-09",
-    709
+    578
    ]
   ],
   "4435490": [
@@ -11566,6 +12294,12 @@
     1
    ]
   ],
+  "4444310": [
+   [
+    "2026-11-09",
+    0
+   ]
+  ],
   "4453700": [
    [
     "2026-11-07",
@@ -11574,6 +12308,12 @@
    [
     "2026-11-08",
     0
+   ]
+  ],
+  "4459600": [
+   [
+    "2026-11-09",
+    3
    ]
   ],
   "4476380": [
@@ -11587,7 +12327,7 @@
    ],
    [
     "2026-11-09",
-    8
+    7
    ]
   ],
   "4499200": [
@@ -11601,7 +12341,7 @@
    ],
    [
     "2026-11-09",
-    354
+    238
    ]
   ],
   "4520130": [
@@ -11615,7 +12355,7 @@
    ],
    [
     "2026-11-09",
-    6
+    4
    ]
   ],
   "4541310": [
@@ -11639,7 +12379,13 @@
    ],
    [
     "2026-11-09",
-    57
+    44
+   ]
+  ],
+  "4561950": [
+   [
+    "2026-11-09",
+    0
    ]
   ],
   "4576510": [
@@ -11653,13 +12399,17 @@
    ],
    [
     "2026-11-09",
-    1020
+    558
    ]
   ],
   "4578780": [
    [
     "2026-11-07",
     15
+   ],
+   [
+    "2026-11-09",
+    19
    ]
   ],
   "4581100": [
@@ -11703,7 +12453,7 @@
    ],
    [
     "2026-11-09",
-    29
+    33
    ]
   ],
   "4621940": [
@@ -11743,7 +12493,7 @@
    ],
    [
     "2026-11-09",
-    118
+    106
    ]
   ],
   "4640760": [
@@ -11777,7 +12527,7 @@
    ],
    [
     "2026-11-09",
-    26
+    18
    ]
   ],
   "4659940": [
@@ -11791,7 +12541,7 @@
    ],
    [
     "2026-11-09",
-    148
+    135
    ]
   ],
   "4668060": [
@@ -11815,7 +12565,7 @@
    ],
    [
     "2026-11-09",
-    10
+    13
    ]
   ],
   "4684790": [
@@ -11849,7 +12599,7 @@
    ],
    [
     "2026-11-09",
-    110
+    129
    ]
   ],
   "4691750": [
@@ -11863,7 +12613,7 @@
    ],
    [
     "2026-11-09",
-    16
+    18
    ]
   ],
   "4708030": [
@@ -11873,7 +12623,7 @@
    ],
    [
     "2026-11-09",
-    27
+    9
    ]
   ],
   "4739820": [
@@ -11887,7 +12637,7 @@
    ],
    [
     "2026-11-09",
-    53
+    23
    ]
   ],
   "4746430": [
@@ -11897,7 +12647,7 @@
    ],
    [
     "2026-11-09",
-    1
+    0
    ]
   ],
   "4755250": [
@@ -11927,7 +12677,7 @@
    ],
    [
     "2026-11-09",
-    21
+    6
    ]
   ],
   "4777940": [
@@ -11937,7 +12687,7 @@
    ],
    [
     "2026-11-09",
-    1
+    0
    ]
   ],
   "4780430": [
@@ -11945,6 +12695,12 @@
     "2026-11-08",
     0
    ],
+   [
+    "2026-11-09",
+    0
+   ]
+  ],
+  "4786370": [
    [
     "2026-11-09",
     0
@@ -11961,7 +12717,7 @@
    ],
    [
     "2026-11-09",
-    1
+    0
    ]
   ],
   "4801990": [
@@ -11985,7 +12741,7 @@
    ],
    [
     "2026-11-09",
-    22
+    29
    ]
   ],
   "4861910": [
@@ -12015,7 +12771,7 @@
    ],
    [
     "2026-11-09",
-    467
+    471
    ]
   ],
   "4900110": [
@@ -12039,7 +12795,7 @@
    ],
    [
     "2026-11-09",
-    340
+    346
    ]
   ],
   "4907430": [
@@ -12055,7 +12811,13 @@
    ],
    [
     "2026-11-09",
-    3
+    6
+   ]
+  ],
+  "4920280": [
+   [
+    "2026-11-09",
+    4
    ]
   ],
   "4936570": [
@@ -12069,7 +12831,7 @@
    ],
    [
     "2026-11-09",
-    6
+    2
    ]
   ],
   "4947250": [
@@ -12091,7 +12853,7 @@
    ],
    [
     "2026-11-09",
-    0
+    1
    ]
   ],
   "4962300": [
@@ -12116,6 +12878,12 @@
     0
    ]
   ],
+  "4986330": [
+   [
+    "2026-11-09",
+    1
+   ]
+  ],
   "4992280": [
    [
     "2026-11-07",
@@ -12127,7 +12895,7 @@
    ],
    [
     "2026-11-09",
-    56
+    150
    ]
   ],
   "4993730": [
@@ -12153,7 +12921,7 @@
    ],
    [
     "2026-11-09",
-    44
+    41
    ]
   ],
   "5012760": [
@@ -12167,7 +12935,7 @@
    ],
    [
     "2026-11-09",
-    98
+    47
    ]
   ],
   "5056340": [
@@ -12181,7 +12949,7 @@
    ],
    [
     "2026-11-09",
-    94
+    67
    ]
   ],
   "5059970": [
@@ -12195,7 +12963,7 @@
    ],
    [
     "2026-11-09",
-    32
+    29
    ]
   ],
   "5066300": [
@@ -12209,7 +12977,7 @@
    ],
    [
     "2026-11-09",
-    83
+    38
    ]
   ],
   "5076430": [
@@ -12259,7 +13027,7 @@
    ],
    [
     "2026-11-09",
-    3
+    6
    ]
   ],
   "5112050": [
@@ -12287,7 +13055,7 @@
    ],
    [
     "2026-11-09",
-    4
+    7
    ]
   ],
   "5165160": [
@@ -12327,7 +13095,7 @@
    ],
    [
     "2026-11-09",
-    29
+    43
    ]
   ],
   "5193870": [
@@ -12341,7 +13109,7 @@
    ],
    [
     "2026-11-09",
-    17
+    14
    ]
   ],
   "5201710": [
@@ -12358,6 +13126,10 @@
    [
     "2026-11-08",
     0
+   ],
+   [
+    "2026-11-09",
+    0
    ]
   ],
   "5214670": [
@@ -12371,7 +13143,7 @@
    ],
    [
     "2026-11-09",
-    43
+    44
    ]
   ],
   "5218890": [
@@ -12409,7 +13181,7 @@
    ],
    [
     "2026-11-09",
-    22
+    12
    ]
   ],
   "5224010": [
@@ -12423,7 +13195,7 @@
    ],
    [
     "2026-11-09",
-    143
+    153
    ]
   ],
   "5230480": [
@@ -12437,7 +13209,7 @@
    ],
    [
     "2026-11-09",
-    579
+    512
    ]
   ],
   "5231690": [
@@ -12457,7 +13229,7 @@
    ],
    [
     "2026-11-09",
-    6
+    3
    ]
   ],
   "5259730": [
@@ -12481,7 +13253,7 @@
    ],
    [
     "2026-11-09",
-    25
+    24
    ]
   ],
   "5273050": [
@@ -12505,7 +13277,7 @@
    ],
    [
     "2026-11-09",
-    17
+    13
    ]
   ],
   "5279740": [
@@ -12553,7 +13325,7 @@
    ],
    [
     "2026-11-09",
-    2
+    0
    ]
   ],
   "5325220": [
@@ -12583,7 +13355,7 @@
    ],
    [
     "2026-11-09",
-    31364
+    17815
    ]
   ],
   "5338390": [
@@ -12597,7 +13369,7 @@
    ],
    [
     "2026-11-09",
-    38
+    27
    ]
   ],
   "5338620": [
@@ -12611,7 +13383,19 @@
    ],
    [
     "2026-11-09",
-    42
+    10
+   ]
+  ],
+  "5342780": [
+   [
+    "2026-11-09",
+    4
+   ]
+  ],
+  "5353720": [
+   [
+    "2026-11-09",
+    0
    ]
   ],
   "5355880": [
@@ -12625,7 +13409,7 @@
    ],
    [
     "2026-11-09",
-    57
+    37
    ]
   ],
   "5363350": [
@@ -12639,7 +13423,7 @@
    ],
    [
     "2026-11-09",
-    686
+    1267
    ]
   ],
   "5371190": [
@@ -12653,7 +13437,7 @@
    ],
    [
     "2026-11-09",
-    8
+    4
    ]
   ],
   "5371810": [
@@ -12673,7 +13457,7 @@
    ],
    [
     "2026-11-09",
-    6852
+    5760
    ]
   ],
   "5375770": [
@@ -12735,7 +13519,7 @@
    ],
    [
     "2026-11-09",
-    266
+    138
    ]
   ],
   "5403380": [
@@ -12775,7 +13559,7 @@
    ],
    [
     "2026-11-09",
-    173
+    118
    ]
   ],
   "5411310": [
@@ -12799,7 +13583,7 @@
    ],
    [
     "2026-11-09",
-    286
+    116
    ]
   ],
   "5435190": [
@@ -12870,6 +13654,12 @@
     0
    ]
   ],
+  "5476770": [
+   [
+    "2026-11-09",
+    0
+   ]
+  ],
   "5477320": [
    [
     "2026-11-07",
@@ -12897,7 +13687,7 @@
    ],
    [
     "2026-11-09",
-    131
+    94
    ]
   ],
   "892970": [
@@ -13628,7 +14418,7 @@
    ],
    [
     "2026-11-09",
-    75
+    76
    ]
   ],
   "2861080": [
@@ -13936,7 +14726,7 @@
    ],
    [
     "2026-11-09",
-    76
+    75
    ]
   ],
   "3710600": [
