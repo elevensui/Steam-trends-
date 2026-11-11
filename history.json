@@ -70,6 +70,94 @@
    "released": "2004-03-01",
    "type": "game"
   },
+  "10090": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Call of Duty is back, redefining war like you've never experienced before. Building on the Call of Duty 4®: Modern Warfare engine, Call of Duty: World at War immerses players into the most gritty and chaotic WWII combat ever experienced.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Call of Duty: World at War",
+   "price": "£19.99",
+   "released": "2008-11-18",
+   "type": "game"
+  },
+  "10180": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The most-anticipated game of the year and the sequel to the best-selling first-person action game of all time, Modern Warfare 2 continues the gripping and heart-racing action as players face off against a new threat dedicated to bringing the world to the brink of collapse.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Call of Duty®: Modern Warfare® 2 (2009)",
+   "price": "£19.99",
+   "released": "2009-11-11",
+   "type": "game"
+  },
+  "10500": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Stats",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "10620"
+   ],
+   "desc": "Command the seas, control the land, forge a new nation, and conquer the globe.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Total War: EMPIRE – Definitive Edition",
+   "price": "£15.99",
+   "released": "2009-03-04",
+   "type": "game"
+  },
   "105600": {
    "checked": "2026-11-07",
    "desc": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
@@ -98,6 +186,35 @@
    "name": "New World: Aeternum",
    "price": "",
    "released": "2021-09-28",
+   "type": "game"
+  },
+  "10680": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "34200"
+   ],
+   "desc": "Survive, hunt and prey in the deadly jungles and swamps in distinctly new and thrilling first person gameplay.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Aliens vs. Predator™",
+   "price": "£9.99",
+   "released": "2010-02-16",
    "type": "game"
   },
   "107410": {
@@ -341,6 +458,29 @@
    "released": "2019-12-05",
    "type": "game"
   },
+  "1200": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "Steam Achievements",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Fight in the theatre of war that changed the world forever. Battle alongside your compatriots on some of the most inhospitable environments of the Eastern Front in Red Orchestra: Ostfront 41-45. Red Orchestra places you in the most realistic WWII first-person multi-player combat to date on the PC, allowing the player to fight through...",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Red Orchestra: Ostfront 41-45",
+   "price": "£3.99",
+   "released": "2006-03-14",
+   "type": "game"
+  },
   "1202520": {
    "adult": false,
    "categories": [
@@ -424,6 +564,127 @@
    "tags_checked": "2026-11-07",
    "type": "game"
   },
+  "1211600": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Full controller support",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A great catastrophe has struck. While on a mission, your aircraft crashes and you are trapped in the Zed Zone. Zombies and monsters are everywhere. To escape, gather materials, upgrade your skills, build shelters, and defeat zombie hordes and mysterious mechs as you chase a glimmer of hope.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG",
+    "Simulation"
+   ],
+   "name": "ZED ZONE",
+   "price": "£5.99",
+   "released": "2026-11-05",
+   "type": "game"
+  },
+  "12140": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Max Payne is a man with nothing to lose in the violent, cold urban night. A fugitive undercover cop framed for murder, hunted by cops and the mob, Max is a man with his back against the wall, fighting a battle he cannot hope to win. Prepare for pain…",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Max Payne",
+   "price": "£5.99",
+   "released": "2008-01-04",
+   "type": "game"
+  },
+  "12150": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Max Payne 2: The Fall of Max Payne is a violent, film-noir love story. Dark, tragic and intense, the in-depth story is a thrill-ride of shocking twists and revelations. Love hurts.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Max Payne 2: The Fall of Max Payne",
+   "price": "£9.99",
+   "released": "2008-01-04",
+   "type": "game"
+  },
+  "12200": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Bully tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence. Beat the jocks at dodge ball, play pranks on the preppies, save the nerds, kiss the girl and navigate the social hierarchy in the worst school around.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Bully: Scholarship Edition",
+   "price": "£9.99",
+   "released": "2008-10-21",
+   "type": "game"
+  },
+  "12210": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Partial Controller Support",
+    "Remote Play on Phone",
+    "Remote Play on Tablet"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Niko Bellic, Johnny Klebitz and Luis Lopez all have one thing in common - they live in the worst city in America. Liberty City worships money and status, and is heaven for those who have them and a living nightmare for those who don't.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Grand Theft Auto IV: The Complete Edition",
+   "price": "£5.09",
+   "released": "2020-03-24",
+   "type": "game"
+  },
   "1222670": {
    "checked": "2026-11-07",
    "desc": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more.",
@@ -503,6 +764,36 @@
    "name": "ELDEN RING",
    "price": "£49.99",
    "released": "2022-02-24",
+   "type": "game"
+  },
+  "1250": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Valve Anti-Cheat enabled",
+    "Stats",
+    "Includes level editor",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "6-player co-op survival horror at its finest! Free updates, free special events and a ridiculous amount of fun!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Killing Floor",
+   "price": "£14.99",
+   "released": "2009-05-14",
    "type": "game"
   },
   "1257610": {
@@ -654,6 +945,57 @@
    "name": "EA Play",
    "price": "£5.99",
    "released": "2020-08-31",
+   "type": "game"
+  },
+  "12900": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "12910"
+   ],
+   "desc": "Ride your music. Audiosurf is a music-adapting puzzle racer where you use your own music to create your own experience. The shape, the speed, and the mood of each ride is determined by the song you choose.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie"
+   ],
+   "name": "AudioSurf",
+   "price": "£8.50",
+   "released": "2008-02-15",
+   "type": "game"
+  },
+  "130": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Made by Gearbox Software and originally released in 2001 as an add-on to Half-Life, Blue Shift is a return to the Black Mesa Research Facility in which you play as Barney Calhoun, the security guard sidekick who helped Gordon out of so many sticky situations.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Half-Life: Blue Shift",
+   "price": "£4.19",
+   "released": "2001-06-01",
    "type": "game"
   },
   "1304930": {
@@ -894,6 +1236,29 @@
    "released": "2025-03-04",
    "type": "game"
   },
+  "15100": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Assassin's Creed™ is the next-gen game developed by Ubisoft Montreal that redefines the action genre. While other games claim to be next-gen with impressive graphics and physics, Assassin's Creed merges technology, game design, theme and emotions into a world where you instigate chaos and become a vulnerable, yet powerful, agent of...",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Assassin's Creed™: Director's Cut Edition",
+   "price": "£8.59",
+   "released": "2008-04-09",
+   "type": "game"
+  },
   "1517290": {
    "checked": "2026-11-07",
    "desc": "Battlefield™ 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise.",
@@ -989,6 +1354,31 @@
    "name": "Epic Wings 2",
    "price": "",
    "released": "2026-11-09",
+   "type": "game"
+  },
+  "15620": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "All of Warhammer 40,000: Dawn of War II in one package. Play the award-winning real-time strategy game in all its glory, including three full campaigns, six multiplayer factions, and a full co-op Last Stand mode with eight unique heroes.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)",
+   "price": "£39.99",
+   "released": "2009-02-18",
    "type": "game"
   },
   "1579420": {
@@ -1158,6 +1548,40 @@
    "released": "2021-09-29",
    "type": "game"
   },
+  "1677110": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Surround Sound",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Experience a relaxing open-world farming game where your mech does the heavy lifting. Build your ideal farm and automate the upkeep. Tune your mech to clear entire forests and plow vast fields, or kick back and watch the sunset with up to three friends.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [],
+   "name": "Lightyear Frontier",
+   "price": "£18.79",
+   "released": "2026-11-04",
+   "type": "game"
+  },
   "1685960": {
    "adult": true,
    "categories": [
@@ -1212,6 +1636,29 @@
    "name": "Showa American Story",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "1700": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "1710"
+   ],
+   "desc": "This critically acclaimed first-person RPG from Arkane Studios takes the player on an amazing journey into the fantasy world of Arx. Arx is wrought with turmoil, brought to the brink of destruction by a violent war.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG"
+   ],
+   "name": "Arx Fatalis",
+   "price": "£3.99",
+   "released": "2007-04-03",
    "type": "game"
   },
   "1731290": {
@@ -1437,6 +1884,27 @@
    "released": null,
    "type": "game"
   },
+  "1840": {
+   "adult": false,
+   "categories": [
+    "Steam Workshop"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The Source Filmmaker (SFM) is the movie-making tool built and used by us here at Valve to make movies inside the Source game engine. Because the SFM uses the same assets as the game, anything that exists in the game can be used in the movie, and vice versa.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Animation & Modeling",
+    "Video Production"
+   ],
+   "name": "Source Filmmaker",
+   "price": "",
+   "released": "2012-07-10",
+   "type": "game"
+  },
   "1846700": {
    "adult": false,
    "categories": [
@@ -1511,6 +1979,31 @@
    "released": "2026-09-10",
    "type": "game"
   },
+  "1900": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Trading Cards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "After the destruction of the EARTH in 2150, the leaders of the Eurasian Dynasty escaped on board an evacuation fleet. Now they are fighting for the survival of the human species. Their base is one large building comprising of smaller variable parts.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Earth 2160",
+   "price": "£8.50",
+   "released": "2006-04-01",
+   "type": "game"
+  },
   "1905180": {
    "checked": "2026-11-07",
    "desc": "Free and open-source software for video recording and live streaming",
@@ -1522,6 +2015,35 @@
    "name": "OBS Studio",
    "price": "",
    "released": "2022-03-21",
+   "type": "game"
+  },
+  "1930": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "... 300 years after Aziraal has been banished, a brother and sister are drawn into the conflict which has flared up between the Orcs and the free world. Kyra, the hero's younger sister, suddenly disappears in mysterious circumstances.«...If my family really belongs to the chosen ones, why then have we always been as poor as church mice?",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG"
+   ],
+   "name": "Two Worlds Epic Edition",
+   "price": "£12.79",
+   "released": "2009-04-30",
    "type": "game"
   },
   "1938090": {
@@ -1651,6 +2173,118 @@
    "released": "2026-11-07",
    "type": "game"
   },
+  "20": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Stereo Sound",
+    "Valve Anti-Cheat enabled",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Team Fortress Classic",
+   "price": "£4.19",
+   "released": "1999-04-01",
+   "type": "game"
+  },
+  "201870": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Ezio Auditore walks in the footsteps of the legendary mentor Altair, on a dangerous journey of discovery and revelation.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Assassin's Creed® Revelations",
+   "price": "£12.49",
+   "released": "2011-11-30",
+   "type": "game"
+  },
+  "202970": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Valve Anti-Cheat enabled",
+    "Steam Leaderboards",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Pushing the boundaries of what fans have come to expect from the record-setting entertainment franchise, Call of Duty®: Black Ops II propels players into a near future Cold War",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Call of Duty®: Black Ops II",
+   "price": "£34.99",
+   "released": "2012-11-12",
+   "type": "game"
+  },
+  "203160": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Tomb Raider Game of the Year",
+   "price": "£16.49",
+   "released": "2013-03-04",
+   "type": "game"
+  },
   "2050420": {
    "adult": false,
    "categories": [
@@ -1744,6 +2378,117 @@
    "name": "Threads of Time",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "20920": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Surround Sound",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A time of untold chaos has come. Mighty forces clash behind the scenes in a struggle for power and influence. The Northern Kingdoms mobilize for war. But armies on the march are not enough to stop a bloody conspiracy...",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG"
+   ],
+   "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+   "price": "£14.99",
+   "released": "2012-04-16",
+   "type": "game"
+  },
+  "2100": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "2120"
+   ],
+   "desc": "Discover a new breed of Action-RPG game powered by an enhanced version of the Source™ Engine by Valve. Set in the Might &amp; Magic® universe, players will experience ferocious combat in a dark and immersive fantasy environment. Swords, Stealth, Sorcery. Choose your way to kill.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "name": "Dark Messiah of Might & Magic",
+   "price": "£4.29",
+   "released": "2006-10-25",
+   "type": "game"
+  },
+  "21000": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Shared/Split Screen",
+    "Full controller support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "When all the villains in Arkham Asylum team up and break loose, only the dynamic duo is bold enough to take them on to save Gotham City. The fun of LEGO, the drama of Batman and the uniqueness of the combination makes for a comical and exciting adventure in LEGO Batman: The Videogame.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "LEGO® Batman™: The Videogame",
+   "price": "£15.99",
+   "released": "2008-09-29",
+   "type": "game"
+  },
+  "21090": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Experience the original F.E.A.R. along with F.E.A.R. Extraction Point and F.E.A.R. Perseus Mandate.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "F.E.A.R.",
+   "price": "£8.99",
+   "released": "2010-05-21",
    "type": "game"
   },
   "2109770": {
@@ -1910,6 +2655,35 @@
    "name": "Streets of Rogue 2",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "21690": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "This game is a port of the Games for Windows - Live version that was released in 2009. If you buy the Untold Stories Bundle here on Steam, it will be the same as upgrading to Resident Evil 5 Gold Edition.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Resident Evil 5",
+   "price": "£15.98",
+   "released": "2009-09-15",
    "type": "game"
   },
   "2174510": {
@@ -2108,6 +2882,32 @@
    "released": "2004-11-16",
    "type": "game"
   },
+  "2200": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The greatest warriors of all time and space have been summoned to battle for the amusement of an ancient alien race. Wield a variety of guns and power-ups as you fight for glory against ruthless combatants in this fast-paced single-player and multiplayer FPS.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Quake III Arena",
+   "price": "£12.99",
+   "released": "2007-08-03",
+   "type": "game"
+  },
   "2208810": {
    "adult": false,
    "categories": [
@@ -2129,6 +2929,29 @@
    "name": "Jurassic Park: Survival",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "2210": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "As part of the elite Rhino Squad, you must spearhead Earth’s military invasion of a hostile alien homeworld. But, in this desperate war for humanity’s survival against an unrelenting enemy, you may discover that the only way to defeat them...is to become one of them.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Quake 4",
+   "price": "£12.99",
+   "released": "2011-08-04",
    "type": "game"
   },
   "221100": {
@@ -2183,6 +3006,27 @@
    "released": "2026-11-10",
    "type": "game"
   },
+  "22300": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Partial Controller Support"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Included is an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG"
+   ],
+   "name": "Fallout 3",
+   "price": "£8.99",
+   "released": "2008-10-28",
+   "type": "game"
+  },
   "2231020": {
    "adult": false,
    "categories": [
@@ -2211,6 +3055,28 @@
    "name": "Chronicles: Medieval",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "22320": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The Elder Scrolls III: Morrowind® Game of the Year Edition includes Morrowind plus all of the content from the Bloodmoon and Tribunal expansions. The original Mod Construction Set is not included in this package. An epic, open-ended single-player RPG, Morrowind allows you to create and play any kind of character imaginable.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG"
+   ],
+   "name": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
+   "price": "£12.99",
+   "released": "2009-06-16",
    "type": "game"
   },
   "2235430": {
@@ -2289,6 +3155,34 @@
    "released": "2025-02-27",
    "type": "game"
   },
+  "2270": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Keyboard Only Option",
+    "Save Anytime",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "World War II rages. The Nazis are planning to build an unstoppable, mutant army. On a mission to steal the secret plans, you were captured and imprisoned. Now, a lucky break gives you the chance to escape, but a maze of passages and trigger-happy Nazis stand in your way.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Wolfenstein 3D",
+   "price": "£2.99",
+   "released": "2007-08-03",
+   "type": "game"
+  },
   "2272360": {
    "adult": false,
    "categories": [
@@ -2342,6 +3236,46 @@
    "name": "Heroes & Generals",
    "price": "",
    "released": "2016-10-18",
+   "type": "game"
+  },
+  "2280": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Cross-Platform Multiplayer",
+    "Full controller support",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Keyboard Only Option",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Developed by id Software, and originally released in 1993 and 1994, the definitive, newly enhanced versions of DOOM + DOOM II are available as a combined product.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "DOOM + DOOM II",
+   "price": "£7.99",
+   "released": "2007-08-03",
    "type": "game"
   },
   "2280360": {
@@ -2442,6 +3376,39 @@
    "name": "Warframe",
    "price": "",
    "released": "2013-03-25",
+   "type": "game"
+  },
+  "2310": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Cross-Platform Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Developed by the award-winning id Software, Quake® is the ground-breaking, original dark fantasy first-person shooter that inspires today’s retro-style FPS games. With Quake (Enhanced), experience the authentic, updated, and visually enhanced version of the original.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Quake",
+   "price": "£7.99",
+   "released": "2007-08-03",
    "type": "game"
   },
   "2318330": {
@@ -2770,6 +3737,63 @@
    "released": "2004-11-01",
    "type": "game"
   },
+  "2400": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Steam Trading Cards",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The Ship is a murder mystery multiplayer.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+   ],
+   "name": "The Ship: Murder Party",
+   "price": "£6.99",
+   "released": "2006-07-11",
+   "type": "game"
+  },
+  "24010": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "In-App Purchases",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The ultimate railway hobby for more than 15 years! From historic steam locomotives to modern high-speed and heavy freight trains, and routes around the world, Train Simulator Classic is the simulation made by railfans for railfans.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Simulation"
+   ],
+   "name": "Train Simulator Classic",
+   "price": "£4.99",
+   "released": "2015-09-17",
+   "type": "game"
+  },
   "2406770": {
    "checked": "2026-11-07",
    "desc": "Bodycam is the first tactical multiplayer FPS with a true body-camera view in Unreal Engine 5. Close-quarters combats feel raw and loud. Every angle, callout, and bullet matters. Play Deathmatch, Team Deathmatch, and Wingman on photoreal maps where teamplay, tactics, and clutch skill are key.",
@@ -2783,6 +3807,69 @@
    "name": "Bodycam",
    "price": "£29.50",
    "released": "2024-06-07",
+   "type": "game"
+  },
+  "24200": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "MMO",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Partial Controller Support"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "DC Universe Online is a Free-to-Play, massive multiplayer online action game set in the popular DC Universe. Become one of a new breed of Heroes or Villains and wield incredible powers as you go to war with legendary characters such as Batman, Superman, Lex Luthor and The Joker.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer",
+    "RPG",
+    "Free To Play"
+   ],
+   "name": "DC Universe™ Online",
+   "price": "",
+   "released": "2011-11-02",
+   "type": "game"
+  },
+  "24240": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Stats",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Take on the role of a hardened career criminal executing intense, dynamic heists in constant pursuit of the next “big score”",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "PAYDAY™ The Heist",
+   "price": "£7.99",
+   "released": "2011-10-20",
    "type": "game"
   },
   "242760": {
@@ -2916,6 +4003,36 @@
    "name": "Forza Horizon 6",
    "price": "£59.99",
    "released": "2026-05-18",
+   "type": "game"
+  },
+  "2483700": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [
+    "2669070"
+   ],
+   "desc": "HARMA is a retro dark fantasy roguelike deckbuilding game featuring a story-driven campaign. Uncover the truth behind the fallen knights, the burning kingdom, and your missing father. Harness the power of mighty artifacts to defeat demons and save a world on the brink of destruction.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Strategy",
+    "Early Access"
+   ],
+   "name": "HARMA",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "2486910": {
@@ -3241,6 +4358,27 @@
    "released": "2026-08-20",
    "type": "game"
   },
+  "2590": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Somewhere in deep space, at an apparently abandoned mining base on the asteriod Alpha Prime, something has gone terribly wrong. Miners were warned that the hubbardium they were mining was too dangerous, but the lure of unimaginable wealth was too strong.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Alpha Prime",
+   "price": "£4.49",
+   "released": "2007-11-07",
+   "type": "game"
+  },
   "2590240": {
    "adult": false,
    "categories": [
@@ -3266,6 +4404,27 @@
    "name": "METRO 2039",
    "price": "£59.99",
    "released": null,
+   "type": "game"
+  },
+  "2600": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Vampire®: The Masquerade-Bloodlines™ delivers a new type of RPG experience-one that blends all the core elements of a traditional RPG with the graphical richness, immediacy and brutal combat of a first-person action game. The game plunges players into the dark and gritty vampire underworld of modern-day L.A. as a creature of the night.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Vampire: The Masquerade - Bloodlines",
+   "price": "£14.99",
+   "released": "2007-03-22",
    "type": "game"
   },
   "2610770": {
@@ -3305,6 +4464,28 @@
    "name": "Mount & Blade II: Bannerlord",
    "price": "£42.99",
    "released": "2022-10-25",
+   "type": "game"
+  },
+  "2630": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Call of Duty® 2 redefines the cinematic intensity and chaos of battle as seen through the eyes of ordinary soldiers fighting together in epic WWII conflicts. The sequel to 2003's Call of Duty, winner of over 80 Game of the Year awards, Call of Duty 2 offers more immense, more intense, more realistic battles than ever before, thanks to...",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Call of Duty® 2",
+   "price": "£14.99",
+   "released": "2006-10-13",
    "type": "game"
   },
   "2638080": {
@@ -3687,6 +4868,28 @@
    "released": null,
    "type": "game"
   },
+  "280": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Winner of over 50 Game of the Year awards, Half-Life set new standards for action games when it was released in 1998. Half-Life: Source is a digitally remastered version of the critically acclaimed and best selling PC game, enhanced via Source technology to include physics simulation, enhanced effects, and more.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Half-Life: Source",
+   "price": "£8.19",
+   "released": "2004-06-01",
+   "type": "game"
+  },
   "2800370": {
    "adult": false,
    "categories": [
@@ -3784,6 +4987,33 @@
    "name": "Vindictus: Defying Fate",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "2820": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Captions available",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "It is the year 2938. The long wished-for encounter of the X Universe and the Earth holds both joy and sorrow for the people. Despite flourishing trade, the clash of the diverse races, cultures and life forms creates new tensions, mistrust and open conflict that need to be overcome!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "X3: Terran Conflict",
+   "price": "£3.19",
+   "released": "2008-10-16",
    "type": "game"
   },
   "2822740": {
@@ -4433,6 +5663,39 @@
    "released": null,
    "type": "game"
   },
+  "2990": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Workshop",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Experience the drive of your life as you throw yourself around on and off the track causing fences to shatter, tyre walls explode, water tanks and barrels fly across the track into other cars.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Racing"
+   ],
+   "name": "FlatOut 2",
+   "price": "£8.50",
+   "released": "2006-12-21",
+   "type": "game"
+  },
   "2991650": {
    "adult": false,
    "categories": [
@@ -4456,6 +5719,65 @@
    "name": "DAWN AEROWAR",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "30": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Stereo Sound",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Enlist in an intense brand of Axis vs. Allied teamplay set in the WWII European Theatre of Operations. Players assume the role of light/assault/heavy infantry, sniper or machine-gunner class, each with a unique arsenal of historical weaponry at their disposal. Missions are based on key historical operations.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Day of Defeat",
+   "price": "£4.19",
+   "released": "2003-05-01",
+   "type": "game"
+  },
+  "300": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Stereo Sound",
+    "Surround Sound",
+    "Valve Anti-Cheat enabled",
+    "Stats",
+    "Includes Source SDK",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Valve's WWII Multiplayer Classic - Now available for Mac.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Day of Defeat: Source",
+   "price": "£8.19",
+   "released": "2010-07-12",
    "type": "game"
   },
   "3005700": {
@@ -4575,6 +5897,29 @@
    "name": "Alkahest",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "3020": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Trading Cards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Call of Juarez is an epic adventure western themed FPS game. The player alternately assumes the roles of two distinct, antagonistic characters: a sneaking fugitive Billy and his hunter the reverend Ray.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Call of Juarez",
+   "price": "£8.59",
+   "released": "2007-11-08",
    "type": "game"
   },
   "3030560": {
@@ -4754,6 +6099,32 @@
    "released": null,
    "type": "game"
   },
+  "3103620": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Full controller support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [
+    "4341200"
+   ],
+   "desc": "Witch the Showdown is a high-difficulty parry-action game where every battle is a boss fight. Build mana through precise parries, then unleash attacks in real time using your cards—this unique combat system defines the experience.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie",
+    "Early Access"
+   ],
+   "name": "Witch the Showdown",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "3111050": {
    "adult": false,
    "categories": [
@@ -4782,6 +6153,34 @@
    "name": "Secrets Of Suburbia",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "3130": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "LAN PvP",
+    "Co-op",
+    "LAN Co-op",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Red Tide blends deep RTS tactics with the raw intensity of third-person combat. Created in collaboration with author Alexander Zorich, this standalone expansion tells the story of the Black Coats – Soviet Naval Infantry famed for their ruthless precision in the Black Sea campaigns.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Men of War: Red Tide",
+   "price": "£4.29",
+   "released": "2009-11-01",
    "type": "game"
   },
   "3161310": {
@@ -4831,6 +6230,33 @@
    "name": "Schedule I",
    "price": "£16.75",
    "released": "2025-03-24",
+   "type": "game"
+  },
+  "3170": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "3190"
+   ],
+   "desc": "King’s Bounty: Armored Princess builds on the foundation of The Legend, expanding the classic formula with deeper turn-based tactics, a huge hand-crafted world, and new mechanics that change how you approach battles and progression.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "name": "King's Bounty: Armored Princess",
+   "price": "£8.49",
+   "released": "2009-11-19",
    "type": "game"
   },
   "3177710": {
@@ -5091,6 +6517,29 @@
    "released": null,
    "type": "game"
   },
+  "32370": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "It is four thousand years before the Galactic Empire and hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the awesome power of the Force on your quest to save the Republic? Or will you fall to the lure of the dark side?",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "name": "STAR WARS™ Knights of the Old Republic™",
+   "price": "£8.50",
+   "released": "2009-09-05",
+   "type": "game"
+  },
   "3240220": {
    "checked": "2026-11-07",
    "desc": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
@@ -5116,6 +6565,60 @@
    "name": "R.E.P.O.",
    "price": "£5.19",
    "released": "2025-02-26",
+   "type": "game"
+  },
+  "32440": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Shared/Split Screen",
+    "Full controller support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Kick Some Brick in I through VI! Play through all six Star Wars movies in one videogame! Adding new characters, new levels, new features and for the first time ever, the chance to build and battle your way through a fun Star Wars galaxy on your PC!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure"
+   ],
+   "name": "LEGO® Star Wars™ - The Complete Saga",
+   "price": "£16.75",
+   "released": "2009-11-12",
+   "type": "game"
+  },
+  "32470": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "STAR WARS™ Empire at War - Gold Pack",
+   "price": "£16.75",
+   "released": "2010-05-25",
    "type": "game"
   },
   "3255110": {
@@ -5301,6 +6804,29 @@
    "released": "2026-11-10",
    "type": "game"
   },
+  "3320": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "3322"
+   ],
+   "desc": "The craziest aquarium game ever! Tend to your fish, keep them happy and they'll reward you with coins and jewels. Buy tank upgrades or egg parts which hatch different in-tank pets. These pets can help you feed your fish, collect coins, or even protect against the aliens that will invade your tank.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual"
+   ],
+   "name": "Insaniquarium Deluxe",
+   "price": "£4.25",
+   "released": "2006-08-30",
+   "type": "game"
+  },
   "3321460": {
    "checked": "2026-11-07",
    "desc": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery.",
@@ -5312,6 +6838,50 @@
    "name": "Crimson Desert Enhanced",
    "price": "£54.99",
    "released": "2026-03-19",
+   "type": "game"
+  },
+  "33230": {
+   "adult": false,
+   "categories": [
+    "Single-player"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "An epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. New low price!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Assassin's Creed 2",
+   "price": "£8.59",
+   "released": "2010-03-04",
+   "type": "game"
+  },
+  "3330": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "3332"
+   ],
+   "desc": "Deep in the jungle lie hidden temples bursting with traps and trickery, and it's up to you to uncover their treasures. Fire magical balls from your stone frog idol to make matches of three or more and clear the deadly chain before it reaches the golden skull.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual"
+   ],
+   "name": "Zuma Deluxe",
+   "price": "£4.25",
+   "released": "2006-08-30",
    "type": "game"
   },
   "3337850": {
@@ -5396,6 +6966,38 @@
    "released": "2026-11-10",
    "type": "game"
   },
+  "33930": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Captions available",
+    "Partial Controller Support",
+    "Includes level editor"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "33970"
+   ],
+   "desc": "Three years after the conflict in Chernarus, portrayed in the original Arma 2, a new flashpoint explodes in the Green Sea Region. Coalition forces led by the US Army are deployed to Takistan to quickly restore peace and prevent further civilian casualties.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Arma 2: Operation Arrowhead",
+   "price": "£11.99",
+   "released": "2010-06-29",
+   "type": "game"
+  },
   "3393110": {
    "checked": "2026-11-07",
    "desc": "AION 2 is the only MMORPG built around a world where the sky is the battlefield. Choose your faction, ascend as a Daeva, and fight a faction war across a world 36 times larger than the original. PC only, on Unreal Engine 5.",
@@ -5421,6 +7023,85 @@
    "name": "Half-Life 2: Lost Coast",
    "price": "",
    "released": "2005-10-27",
+   "type": "game"
+  },
+  "34030": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Stats",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "34050"
+   ],
+   "desc": "Complete your Total War collection with this Definitive Edition of Total War: NAPOLEON, which includes all DLC and feature updates since the game’s release",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Total War: NAPOLEON – Definitive Edition",
+   "price": "£15.99",
+   "released": "2010-02-25",
+   "type": "game"
+  },
+  "3404030": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Workshop",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "#category_contrast_controls",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Steam Input API Support",
+    "Stereo Sound",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Includes level editor",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "4943040"
+   ],
+   "desc": "CLOGWORK is a factory automation game. Cut, glue and rotate pieces into the shapes you need. Build conveyor belts and logic circuits, prevent jams, and deliver finished shapes to the Hub. Build in 2D, or switch to 3D at any time.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Clogwork",
+   "price": "£7.37",
+   "released": "2026-11-10",
    "type": "game"
   },
   "3405690": {
@@ -5548,6 +7229,105 @@
    "name": "Shared RC",
    "price": "£4.59",
    "released": "2026-11-10",
+   "type": "game"
+  },
+  "3480": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Take your best shot with energizing arcade fun! Aim, shoot, clear the orange pegs, then sit back and cheer as 10 whimsical teachers guide you to Peggle greatness.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual"
+   ],
+   "name": "Peggle Deluxe",
+   "price": "£4.99",
+   "released": "2007-03-06",
+   "type": "game"
+  },
+  "3483": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Peggle Extreme delivers fast-paced puzzle action that combines elements of pinball and pachinko to create a truly unique game experience. Take your best shot with energizing arcade fun, now exclusively themed with art and sounds from Half-Life: Episode 2, Portal, and Team Fortress 2.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Free To Play"
+   ],
+   "name": "Peggle Extreme",
+   "price": "",
+   "released": "2007-09-11",
+   "type": "game"
+  },
+  "34870": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "34880"
+   ],
+   "desc": "Sniper: Ghost Warrior 2 takes the bulls-eye precision of its predecessor to new and exciting heights!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Sniper: Ghost Warrior 2",
+   "price": "£8.50",
+   "released": "2013-03-11",
+   "type": "game"
+  },
+  "34900": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "34910"
+   ],
+   "desc": "Bad Rats is a physics puzzle game where rats finally get their bloody revenge on their new prisoners: The cats. Come up with creative solutions for each puzzle using physics, functional objects, and your specially trained Rats. Try different ways of solving each puzzle to finish faster or earn higher scores.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie"
+   ],
+   "name": "Bad Rats: the Rats' Revenge",
+   "price": "£1.69",
+   "released": "2009-07-20",
    "type": "game"
   },
   "3499790": {
@@ -5805,6 +7585,32 @@
    "released": null,
    "type": "game"
   },
+  "3590": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "3592"
+   ],
+   "desc": "Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Plants vs. Zombies GOTY Edition",
+   "price": "£4.25",
+   "released": "2009-05-05",
+   "type": "game"
+  },
   "359550": {
    "checked": "2026-11-07",
    "desc": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
@@ -5816,6 +7622,33 @@
    "name": "Tom Clancy's Rainbow Six Siege",
    "price": "",
    "released": "2015-12-01",
+   "type": "game"
+  },
+  "360": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Surround Sound",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Half-Life Deathmatch: Source is a recreation of the first multiplayer game set in the Half-Life universe. Features all the classic weapons and most-played maps, now running on the Source engine.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Half-Life Deathmatch: Source",
+   "price": "£8.19",
+   "released": "2006-05-01",
    "type": "game"
   },
   "3610790": {
@@ -6601,6 +8434,33 @@
    "released": null,
    "type": "game"
   },
+  "3830": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A Psychic Odyssey Through the Minds of Misfits, Monsters, and Madmen. This classic action/adventure platformer from acclaimed developers Double Fine Productions follows the story of a young psychic named Razputin.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Psychonauts",
+   "price": "£6.99",
+   "released": "2006-10-11",
+   "type": "game"
+  },
   "3830080": {
    "adult": false,
    "categories": [
@@ -7242,6 +9102,36 @@
    "released": null,
    "type": "game"
   },
+  "40": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Stereo Sound",
+    "Valve Anti-Cheat enabled",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Enjoy fast-paced multiplayer gaming with Deathmatch Classic (a.k.a. DMC). Valve's tribute to the work of id software, DMC invites players to grab their rocket launchers and put their reflexes to the test in a collection of futuristic settings.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Deathmatch Classic",
+   "price": "£4.19",
+   "released": "2001-06-01",
+   "type": "game"
+  },
   "400": {
    "checked": "2026-11-07",
    "desc": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
@@ -7757,6 +9647,40 @@
    "name": "In-Security",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "4118000": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Adjustable Text Size",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "5450200"
+   ],
+   "desc": "Thousands of aliens are coming. Expand your territory and build an army on a turn-based world map, then hold the line in real-time battle when a raid hits. Survive until the Final Assault on day 50.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Pest Termina ~ Swarm Defense",
+   "price": "£6.74",
+   "released": "2026-11-10",
    "type": "game"
   },
   "4119020": {
@@ -9511,6 +11435,33 @@
    "released": null,
    "type": "game"
   },
+  "4500": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "S.T.A.L.K.E.R.: Shadow of Chernobyl tells a story about survival in the Zone – a very dangerous place, where you fear not only the radiation, anomalies and deadly creatures, but other S.T.A.L.K.E.R.s, who have their own goals and wishes.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+   "price": "£16.75",
+   "released": "2007-03-20",
+   "type": "game"
+  },
   "4509300": {
    "adult": false,
    "categories": [
@@ -9699,6 +11650,39 @@
    "name": "Cowgirl Milk Cafe",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "4530340": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Adjustable Text Size",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Subtitle Options",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "4532760"
+   ],
+   "desc": "A click-based incremental game themed around &quot;physics&quot;. You will start with the most fundamental classical mechanics and gradually unlock more concepts. Through the process of easy clicking and growth, with the familiar media - PHYSICS, experience the fun of resource exploration and growth.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Physics Clicker",
+   "price": "£2.24",
+   "released": "2026-11-10",
    "type": "game"
   },
   "4530370": {
@@ -9927,6 +11911,30 @@
    "name": "AMEN: The Quiet Exodus",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "4570": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "All of Warhammer 40,000: Dawn of War in one glorious package. Play the genre-defining classic real time strategy game in all its blood-soaked glory, including four complete campaigns and nine full-fledged factions.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Warhammer 40,000: Dawn of War - Anniversary Edition (Classic)",
+   "price": "£11.99",
+   "released": "2007-08-07",
    "type": "game"
   },
   "4574820": {
@@ -10577,6 +12585,38 @@
    "released": null,
    "type": "game"
   },
+  "4660470": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [
+    "4662480"
+   ],
+   "desc": "Create your own cards and combine them in a unique and everchanging deck. Explore and battle through hostile lands, encounter bizarre creatures and craft the perfect strategy in this roguelike deckbuilder.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Strategy",
+    "Early Access"
+   ],
+   "name": "Near Mint",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "4661070": {
    "adult": false,
    "categories": [
@@ -10820,6 +12860,31 @@
    "name": "Rock Band Simulator",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "4700": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Trading Cards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "4710"
+   ],
+   "desc": "Spanning the most turbulent era in Western history, your quest for territory and power takes you through Europe, Africa, the Middle East, and even onto the shores of the New World.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Total War: MEDIEVAL II – Definitive Edition",
+   "price": "£15.99",
+   "released": "2006-11-15",
    "type": "game"
   },
   "4708030": {
@@ -11954,6 +14019,39 @@
    "released": "2026-11-09",
    "type": "game"
   },
+  "4878710": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "5084710"
+   ],
+   "desc": "你将扮演一个被AI淘汰的程序员，回到那个停滞的小县城，与那个等了你十二年的女孩一起去寻找，从所有人记忆里消失的发小和尘封的往事，你们追查的不仅仅是真相，还是被AI一起困住的那个夏天、那座小城、那段永远不会结束的等待。",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "name": "知夏",
+   "price": "£1.36",
+   "released": "2026-11-10",
+   "type": "game"
+  },
   "4879470": {
    "adult": false,
    "categories": [
@@ -12173,6 +14271,29 @@
    "name": "The Big Suck",
    "price": "£4.31",
    "released": "2026-11-09",
+   "type": "game"
+  },
+  "4904730": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Click flies, unlock achievements, and complete your collection. A simple and satisfying clicker designed for achievement hunters.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Achievement Fly Clicker",
+   "price": "£0.57",
+   "released": "2026-11-10",
    "type": "game"
   },
   "4907430": {
@@ -12494,6 +14615,39 @@
    "released": null,
    "type": "game"
   },
+  "4951630": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Input API Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Ride your own music. Soundway transforms any song into a neon roller coaster racing through deep space, with every burst of speed, climb, drop, and turn shaped by the track itself. Catch the beat, build massive combos, dodge hazards, and chase the music across the stars.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Soundway",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "49520": {
    "checked": "2026-11-07",
    "desc": "The Ultimate Vault Hunter’s Upgrade lets you get the most out of the Borderlands 2 experience.",
@@ -12606,6 +14760,35 @@
    "name": "Capy of Gods",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "4960640": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Stats",
+    "Includes level editor",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "5235710"
+   ],
+   "desc": "KIT Three Kingdoms: Heroes at War is a logistics-driven strategy game. Govern cities, recruit officers and move armies across a grand map, then command formations, Battle Arts, Stratagems, sieges and duels in real time. Choose a faction in seven sandbox starts and unite the realm.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Strategy"
+   ],
+   "name": "KIT Three Kingdoms: Heroes at War",
+   "price": "£5.12",
+   "released": "2026-11-10",
    "type": "game"
   },
   "4961250": {
@@ -12998,6 +15181,76 @@
    "skip": true,
    "type": "music"
   },
+  "50": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Return to the Black Mesa Research Facility as one of the military specialists assigned to eliminate Gordon Freeman. Experience an entirely new episode of single player action. Meet fierce alien opponents, and experiment with new weaponry. Named 'Game of the Year' by the Academy of Interactive Arts and Sciences.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Half-Life: Opposing Force",
+   "price": "£4.19",
+   "released": "1999-11-01",
+   "type": "game"
+  },
+  "500": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Captions available",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Valve Anti-Cheat enabled",
+    "Stats",
+    "Steam Leaderboards",
+    "Includes Source SDK",
+    "Commentary available",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "From Valve (the creators of Counter-Strike, Half-Life and more) comes Left 4 Dead, a co-op action horror game for the PC and Xbox 360 that casts up to four players in an epic struggle for survival against swarming zombie hordes and terrifying mutant monsters.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Left 4 Dead",
+   "price": "£8.19",
+   "released": "2008-11-17",
+   "type": "game"
+  },
   "5001770": {
    "adult": false,
    "categories": [
@@ -13060,6 +15313,31 @@
     "Indie"
    ],
    "name": "Nova Protocol",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "5005700": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [
+    "5143280"
+   ],
+   "desc": "Muv-Luv Girls Garden Mellow Days is a productivity companion ADV where you work alongside Meru Momozono. Customize your Pomodoro timer, ToDo list, calendar, music, and ambient sounds. As you spend more time together, your story with Meru gradually unfolds.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Casual"
+   ],
+   "name": "MUV-LUV GIRLS GARDEN Mellow Days",
    "price": "",
    "released": null,
    "type": "game"
@@ -13346,6 +15624,32 @@
     "Sports"
    ],
    "name": "just volleyball",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "5039030": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [
+    "5316550"
+   ],
+   "desc": "The world has gone dark! and only your hamsters can fix it. Spin the wheel, collect strange little hamsters and upgrade until your room powers the city, the country and the whole planet. A cozy incremental clicker that keeps running while you're away.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Wheel Be Fine",
    "price": "",
    "released": null,
    "type": "game"
@@ -13936,6 +16240,31 @@
    "name": "SIGNOS: AI Robot Builder",
    "price": "£3.90",
    "released": "2026-11-09",
+   "type": "game"
+  },
+  "5100140": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Custom Volume Controls",
+    "Playable without Timed Input",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [
+    "5245660"
+   ],
+   "desc": "Use the adorable garden eels' stretchy movements as clues to identify the notes in a melody! Collect medals, fill your eel collection, and create custom melodies up to 32 bars to share with friends and stream viewers in this oddly addictive, laid-back music quiz game.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual"
+   ],
+   "name": "EEL KNOW:Perfect Pitch",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "5100640": {
@@ -15531,6 +17860,71 @@
    "released": null,
    "type": "demo"
   },
+  "5302870": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "One dragon sneeze. 6,000 mixed-up coins. Your holiday cancelled. Explore a fantasy museum, inspect coins and find their rightful places in this first-person sorting game. Unlock skills and magical powers to turn a glorious mess into a perfectly organised collection.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "The Coin Keeper : Tidy up !",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "5303130": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Downloadable Content",
+    "Steam Workshop",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Includes level editor",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Bring your glorious republics to the final frontier with a space program packed with dedicated technologies, buildings, vehicles, and mechanics that unlock the stars.",
+   "free": false,
+   "fullgame": "784150",
+   "fullgame_name": "Workers & Resources: Soviet Republic",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Workers & Resources: Soviet Republic - Space Program",
+   "price": "",
+   "released": null,
+   "skip": true,
+   "type": "dlc"
+  },
   "5307180": {
    "adult": true,
    "categories": [
@@ -15697,6 +18091,37 @@
    "released": "2026-11-08",
    "type": "game"
   },
+  "5318580": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "&quot;Jyoka&quot; is a 16th-century Japanese castle town builder. Develop your territory with 190+ facilities and grant rice fields to retainers to secure loyalty. Defend against bandits and daimyos. Once stable, launch epic sieges against 70+ real-inspired castles to unify Japan!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Jyoka -Castle town-",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "532210": {
    "checked": "2026-11-07",
    "desc": "After a tragic incident, brothers Sean and Daniel Diaz run away from home. Fearing the police, and dealing with Daniel's new telekinetic power, the boys head to Mexico. Each stop on their journey brings new friends and new challenges.",
@@ -15739,6 +18164,38 @@
    "name": "Starfall Defense",
    "price": "",
    "released": "2026-11-08",
+   "type": "game"
+  },
+  "5323500": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "DEEP SEAL is a 1–4 player co-op underwater horror game. Dive into dark, labyrinthine caves to recover bodies, find your way through the depths, and avoid the shark that's always hunting you. Grab what you can, find your teammates, and swim back alive.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie"
+   ],
+   "name": "DEEP SEAL",
+   "price": "£4.55",
+   "released": "2026-11-10",
    "type": "game"
   },
   "5324880": {
@@ -15860,6 +18317,41 @@
    "released": "2026-11-10",
    "skip": true,
    "type": "music"
+  },
+  "5333560": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Shared/Split Screen",
+    "Full controller support",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Ribbit Racing is a multiplayer racing game where you play as a frog on a bike. Race up to 4 players locally or 8 online. Use your tongue, your wits, and the track to win.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Racing"
+   ],
+   "name": "Ribbit Racing",
+   "price": "£4.19",
+   "released": "2026-11-10",
+   "type": "game"
   },
   "5335100": {
    "adult": false,
@@ -16727,6 +19219,33 @@
    "released": "2026-11-07",
    "type": "game"
   },
+  "5420690": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "MMO",
+    "Co-op",
+    "Online Co-op",
+    "In-App Purchases",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "This is an online RPG featuring a retro fantasy aesthetic. Starting from Talking Island, you can play as a Knight or a Wizard, exploring villages, wilderness areas, and underground dungeons. Engage in real-time combat to hunt monsters and gather loot as you gradually develop your character.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Massively Multiplayer",
+    "RPG",
+    "Early Access"
+   ],
+   "name": "天堂世族網路遊戲 (Royal Lineage Online)",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5423880": {
    "adult": false,
    "categories": [
@@ -16810,6 +19329,28 @@
    "name": "Backrooms: 1977",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "5425210": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Explore the maze. Collect the gems. Uncover its secrets. Dungeon Escape 3 is a 2D top-down maze escape game featuring over 30 levels to explore, hidden collectibles to discover, and puzzles to solve. Navigate through a maze of interconnected rooms, unlock new paths, and see how far you can go.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Dungeon Escape 3",
+   "price": "£6.49",
+   "released": "2026-11-10",
    "type": "game"
   },
   "5427130": {
@@ -17210,6 +19751,42 @@
    "name": "Debriefed : Frontline Command",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "5461870": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Playable without Timed Input",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A first-person sci-fi social deduction game for up to 8 players. Fix the ship, watch your crewmates, then accuse and vote out the infected. Or be Patient 0: lie, sabotage and vanish. A co-op mode swaps the traitor for a hunter and a ticking clock.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Synthetic Quorum",
+   "price": "£5.51",
+   "released": "2026-11-10",
    "type": "game"
   },
   "5463460": {
@@ -17762,6 +20339,30 @@
    "released": "2026-11-10",
    "type": "game"
   },
+  "5488250": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Playable without Timed Input",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Hunt zombies, collect powerful loot, and grow stronger in this third-person action RPG. Find pistols, assault rifles, shotguns, and equipment with randomized stats and effects, build your character, fight through five increasingly dangerous stages, and ultimately challenge the Zomking.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Zomking",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5490440": {
    "adult": false,
    "categories": [
@@ -17910,6 +20511,36 @@
    "name": "Left 4 Dead 2",
    "price": "£8.19",
    "released": "2009-11-19",
+   "type": "game"
+  },
+  "5502740": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Mastering your skills at Chess has never been easier or more fun. Earn gold by challenging yourself in both full games of chess against 20 different NPC opponents, each with their own personalities &amp; quirks, or in 150+ puzzles. Take your gold and wager it online or in an intense dungeon adventure!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Dungeons of Chesslore",
+   "price": "£8.23",
+   "released": "2026-11-10",
    "type": "game"
   },
   "550650": {
@@ -18186,6 +20817,29 @@
    "released": null,
    "type": "demo"
   },
+  "5594130": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Game demo"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "",
+   "free": true,
+   "fullgame": "5006790",
+   "fullgame_name": "PopFarm Slime",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "name": "팡팜슬라임 Demo",
+   "price": "",
+   "released": null,
+   "type": "demo"
+  },
   "5595870": {
    "adult": false,
    "categories": [
@@ -18264,6 +20918,145 @@
    "released": "2019-08-27",
    "type": "game"
   },
+  "60": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Stereo Sound",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A futuristic action game that challenges your agility as well as your aim, Ricochet features one-on-one and team matches played in a variety of futuristic battle arenas.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Ricochet",
+   "price": "£4.19",
+   "released": "2000-11-01",
+   "type": "game"
+  },
+  "6100": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Eets may have a cute outer-shell, but its Lemmings meets The Incredible Machine gameplay, crazy characters and over 100 increasingly tricky puzzles quickly sucks in even the most seasoned player.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Strategy",
+    "Free To Play"
+   ],
+   "name": "Eets",
+   "price": "",
+   "released": "2006-12-20",
+   "type": "game"
+  },
+  "620": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "Steam Workshop",
+    "Steam Workshop",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Steam Input API Support",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Stats",
+    "Includes level editor",
+    "Commentary available",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The &quot;Perpetual Testing Initiative&quot; has been expanded to allow you to design co-op puzzles for you and your friends!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Portal 2",
+   "price": "£8.19",
+   "released": "2011-04-18",
+   "type": "game"
+  },
+  "6220": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "LAN PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Workshop",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "6230"
+   ],
+   "desc": "Ram through pile-ups and smash through your windshield as you push racing to the edge! FlatOut™ delivers more heart-stopping thrills than any sane driver can handle!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Racing",
+    "Simulation"
+   ],
+   "name": "FlatOut",
+   "price": "£6.28",
+   "released": "2007-02-02",
+   "type": "game"
+  },
   "629520": {
    "checked": "2026-11-07",
    "desc": "Play sounds in voice chats in high digital quality. Add sounds or music to your microphone signal so others will hear it, too.",
@@ -18275,6 +21068,41 @@
    "name": "Soundpad",
    "price": "£4.29",
    "released": "2017-09-30",
+   "type": "game"
+  },
+  "630": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Captions available",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Stats",
+    "Includes level editor",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Co-operative multiplayer game and complete code base available for free.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "Alien Swarm",
+   "price": "",
+   "released": "2010-07-19",
    "type": "game"
   },
   "632360": {
@@ -18447,6 +21275,55 @@
    "released": null,
    "type": "game"
   },
+  "7940": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The new action-thriller from the award-winning team at Infinity Ward, the creators of the Call of Duty® series, delivers the most intense and cinematic action experience ever. Call of Duty 4: Modern Warfare arms gamers with an arsenal of advanced and powerful modern day firepower and transports them to the most treacherous hotspots...",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Call of Duty® 4: Modern Warfare® (2007)",
+   "price": "£19.99",
+   "released": "2007-11-12",
+   "type": "game"
+  },
+  "80": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Stereo Sound",
+    "Valve Anti-Cheat enabled",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "With its extensive Tour of Duty campaign, a near-limitless number of skirmish modes, updates and new content for Counter-Strike's award-winning multiplayer game play, plus over 12 bonus single player missions, Counter-Strike: Condition Zero is a tremendous offering of single and multiplayer content.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Counter-Strike: Condition Zero",
+   "price": "£8.19",
+   "released": "2004-03-01",
+   "type": "game"
+  },
   "813780": {
    "checked": "2026-11-07",
    "desc": "42 Civilizations, 229 Campaign Missions, Singleplayer, Co-Op, Multiplayer, In-Game Editor, Mods, Cross-play...It is good to be the king.",
@@ -18470,6 +21347,128 @@
    "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
    "price": "£49.90",
    "released": "2019-03-21",
+   "type": "game"
+  },
+  "8190": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [
+    "35110"
+   ],
+   "desc": "Dive into an adrenaline-fuelled free-roaming adventure with 400 square miles of rugged terrain and hundreds of weapons and vehicles.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "name": "Just Cause 2",
+   "price": "£9.99",
+   "released": "2010-03-23",
+   "type": "game"
+  },
+  "8500": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "MMO",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Trading Cards",
+    "Adjustable Text Size",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Stereo Sound",
+    "Surround Sound",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Over 20 years of legendary space battles! Explore a massive living universe of danger and opportunity in a challenging and highly rewarding space adventure. Fight, trade, build, and connect with a universe driven and shaped directly by players.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "RPG",
+    "Strategy",
+    "Free To Play"
+   ],
+   "name": "EVE Online",
+   "price": "",
+   "released": "2010-12-15",
+   "type": "game"
+  },
+  "8850": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Set approximately 10 years after the events of the original BioShock, the halls of Rapture once again echo with sins of the past. Along the Atlantic coastline, a monster has been snatching little girls and bringing them back to the undersea city of Rapture.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "BioShock® 2",
+   "price": "£13.99",
+   "released": "2010-02-09",
+   "type": "game"
+  },
+  "8870": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "BioShock Infinite",
+   "price": "£19.99",
+   "released": "2013-03-25",
    "type": "game"
   },
   "892970": {
@@ -18497,6 +21496,33 @@
    "name": "Sid Meier's Civilization® V",
    "price": "£4.99",
    "released": "2010-09-23",
+   "type": "game"
+  },
+  "8980": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Get ready for the mind blowing insanity! Play as one of four trigger-happy mercenaries and take out everything that stands in your way! With its addictive action, frantic first-person shooter combat, massive arsenal of weaponry, RPG elements and four-player co-op, Borderlands is a breakthrough experience that challenges all the...",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "name": "Borderlands Game of the Year",
+   "price": "£2.49",
+   "released": "2023-08-31",
    "type": "game"
   },
   "899770": {
@@ -18527,9 +21553,57 @@
    "released": null,
    "type": "game"
   },
+  "9200": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Powered by id’s revolutionary id Tech® 5 technology, RAGE is an intense first-person shooter with breakneck vehicle combat, an expansive world to explore, and jaw-dropping graphics!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "RAGE",
+   "price": "£7.99",
+   "released": "2011-10-03",
+   "type": "game"
+  },
   "92137": {
    "checked": "2026-11-10",
    "skip": true
+  },
+  "9420": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The last days of man are at hand.. Two years after the Infinite War the once great warring nations now lie in ruins, and humanity’s hope for a brighter future is nothing but a bitter memory. A new, seemingly unstoppable enemy, supported by the zealots of The Order, now seeks to eradicate mankind: UEF, Aeon Loyalist, and Cybran alike.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Strategy"
+   ],
+   "name": "Supreme Commander: Forged Alliance",
+   "price": "£8.99",
+   "released": "2011-09-28",
+   "type": "game"
   },
   "945360": {
    "checked": "2026-11-07",
@@ -18543,6 +21617,29 @@
    "released": "2018-11-16",
    "type": "game"
   },
+  "9480": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Saints Row 2 brings true freedom to open-world gaming. Players can play as who they want, how they want, and with whomever they want in this sequel to the much acclaimed and tremendously successful Saints Row.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Saints Row 2",
+   "price": "£8.79",
+   "released": "2009-01-07",
+   "type": "game"
+  },
   "960090": {
    "checked": "2026-11-07",
    "desc": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
@@ -18553,6 +21650,32 @@
    "name": "Bloons TD 6",
    "price": "£11.79",
    "released": "2018-12-17",
+   "type": "game"
+  },
+  "9900": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "MMO",
+    "Co-op",
+    "Full controller support",
+    "In-App Purchases"
+   ],
+   "checked": "2026-11-11",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "In Star Trek Online, the Star Trek universe appears for the first time on a truly massive scale. Players take the captain's chair as they command their own starship and crew. Explore strange new worlds, seek out new life and new civilizations, and boldly go where no one has gone before.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Massively Multiplayer",
+    "RPG",
+    "Free To Play"
+   ],
+   "name": "Star Trek Online",
+   "price": "",
+   "released": "2012-01-31",
    "type": "game"
   },
   "990080": {
@@ -18621,6 +21744,16 @@
    [
     "2026-11-10",
     40089
+   ],
+   [
+    "2026-11-11",
+    33220
+   ]
+  ],
+  "1211600": [
+   [
+    "2026-11-11",
+    2821
    ]
   ],
   "1457940": [
@@ -18651,6 +21784,16 @@
    [
     "2026-11-10",
     14
+   ],
+   [
+    "2026-11-11",
+    13
+   ]
+  ],
+  "1677110": [
+   [
+    "2026-11-11",
+    2743
    ]
   ],
   "1811180": [
@@ -18669,6 +21812,10 @@
    [
     "2026-11-10",
     20
+   ],
+   [
+    "2026-11-11",
+    17
    ]
   ],
   "1859550": [
@@ -18705,6 +21852,10 @@
    [
     "2026-11-10",
     0
+   ],
+   [
+    "2026-11-11",
+    4
    ]
   ],
   "2212400": [
@@ -18729,12 +21880,20 @@
    [
     "2026-11-10",
     5
+   ],
+   [
+    "2026-11-11",
+    4
    ]
   ],
   "2421490": [
    [
     "2026-11-10",
     5
+   ],
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "2443020": [
@@ -18752,6 +21911,10 @@
    ],
    [
     "2026-11-10",
+    2
+   ],
+   [
+    "2026-11-11",
     2
    ]
   ],
@@ -18795,6 +21958,12 @@
     8
    ]
   ],
+  "2669070": [
+   [
+    "2026-11-11",
+    18
+   ]
+  ],
   "2735560": [
    [
     "2026-11-10",
@@ -18831,6 +22000,10 @@
    [
     "2026-11-10",
     6
+   ],
+   [
+    "2026-11-11",
+    6
    ]
   ],
   "2842720": [
@@ -18843,6 +22016,10 @@
    [
     "2026-11-10",
     17
+   ],
+   [
+    "2026-11-11",
+    16
    ]
   ],
   "2967590": [
@@ -18925,6 +22102,10 @@
    [
     "2026-11-10",
     0
+   ],
+   [
+    "2026-11-11",
+    12
    ]
   ],
   "3376710": [
@@ -18949,6 +22130,16 @@
    [
     "2026-11-10",
     147999
+   ],
+   [
+    "2026-11-11",
+    127064
+   ]
+  ],
+  "3404030": [
+   [
+    "2026-11-11",
+    4
    ]
   ],
   "3435580": [
@@ -19003,6 +22194,10 @@
    [
     "2026-11-10",
     54
+   ],
+   [
+    "2026-11-11",
+    29
    ]
   ],
   "3640620": [
@@ -19021,6 +22216,10 @@
    [
     "2026-11-10",
     215
+   ],
+   [
+    "2026-11-11",
+    159
    ]
   ],
   "3681220": [
@@ -19127,6 +22326,10 @@
    [
     "2026-11-10",
     12
+   ],
+   [
+    "2026-11-11",
+    2
    ]
   ],
   "3975350": [
@@ -19163,6 +22366,10 @@
    [
     "2026-11-10",
     13245
+   ],
+   [
+    "2026-11-11",
+    14912
    ]
   ],
   "4035120": [
@@ -19173,6 +22380,10 @@
    [
     "2026-11-10",
     52
+   ],
+   [
+    "2026-11-11",
+    29
    ]
   ],
   "4080220": [
@@ -19191,6 +22402,10 @@
    [
     "2026-11-10",
     36588
+   ],
+   [
+    "2026-11-11",
+    21815
    ]
   ],
   "4099940": [
@@ -19227,6 +22442,16 @@
    [
     "2026-11-10",
     49081
+   ],
+   [
+    "2026-11-11",
+    82017
+   ]
+  ],
+  "4118000": [
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "4121720": [
@@ -19259,12 +22484,20 @@
    [
     "2026-11-10",
     27407
+   ],
+   [
+    "2026-11-11",
+    23944
    ]
   ],
   "4140210": [
    [
     "2026-11-10",
     2
+   ],
+   [
+    "2026-11-11",
+    5
    ]
   ],
   "4165740": [
@@ -19335,6 +22568,10 @@
    [
     "2026-11-10",
     189757
+   ],
+   [
+    "2026-11-11",
+    157664
    ]
   ],
   "4289350": [
@@ -19363,12 +22600,20 @@
    [
     "2026-11-10",
     29
+   ],
+   [
+    "2026-11-11",
+    27
    ]
   ],
   "4307310": [
    [
     "2026-11-10",
     4
+   ],
+   [
+    "2026-11-11",
+    8
    ]
   ],
   "4307740": [
@@ -19387,6 +22632,10 @@
    [
     "2026-11-10",
     301
+   ],
+   [
+    "2026-11-11",
+    245
    ]
   ],
   "4315500": [
@@ -19411,6 +22660,10 @@
    [
     "2026-11-10",
     139
+   ],
+   [
+    "2026-11-11",
+    95
    ]
   ],
   "4331760": [
@@ -19429,12 +22682,22 @@
    [
     "2026-11-10",
     503
+   ],
+   [
+    "2026-11-11",
+    473
    ]
   ],
   "4335460": [
    [
     "2026-11-10",
     45
+   ]
+  ],
+  "4341200": [
+   [
+    "2026-11-11",
+    4
    ]
   ],
   "4348910": [
@@ -19453,6 +22716,10 @@
    [
     "2026-11-10",
     39571
+   ],
+   [
+    "2026-11-11",
+    56780
    ]
   ],
   "4353760": [
@@ -19467,6 +22734,10 @@
    [
     "2026-11-10",
     33
+   ],
+   [
+    "2026-11-11",
+    54
    ]
   ],
   "4354480": [
@@ -19485,12 +22756,20 @@
    [
     "2026-11-10",
     9
+   ],
+   [
+    "2026-11-11",
+    9
    ]
   ],
   "4372380": [
    [
     "2026-11-10",
     11
+   ],
+   [
+    "2026-11-11",
+    2
    ]
   ],
   "4390380": [
@@ -19520,6 +22799,10 @@
    ],
    [
     "2026-11-10",
+    1
+   ],
+   [
+    "2026-11-11",
     1
    ]
   ],
@@ -19563,6 +22846,10 @@
    [
     "2026-11-10",
     922
+   ],
+   [
+    "2026-11-11",
+    919
    ]
   ],
   "4426750": [
@@ -19579,6 +22866,10 @@
    [
     "2026-11-10",
     55
+   ],
+   [
+    "2026-11-11",
+    52
    ]
   ],
   "4435490": [
@@ -19596,6 +22887,10 @@
    ],
    [
     "2026-11-10",
+    0
+   ],
+   [
+    "2026-11-11",
     0
    ]
   ],
@@ -19675,6 +22970,10 @@
    [
     "2026-11-10",
     363
+   ],
+   [
+    "2026-11-11",
+    283
    ]
   ],
   "4520130": [
@@ -19693,6 +22992,16 @@
    [
     "2026-11-10",
     3
+   ],
+   [
+    "2026-11-11",
+    2
+   ]
+  ],
+  "4530340": [
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "4541310": [
@@ -19726,6 +23035,10 @@
    ],
    [
     "2026-11-10",
+    0
+   ],
+   [
+    "2026-11-11",
     0
    ]
   ],
@@ -19827,6 +23140,10 @@
    [
     "2026-11-10",
     0
+   ],
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "4626180": [
@@ -19867,6 +23184,10 @@
    [
     "2026-11-10",
     167
+   ],
+   [
+    "2026-11-11",
+    105
    ]
   ],
   "4640760": [
@@ -19923,6 +23244,10 @@
    [
     "2026-11-10",
     0
+   ],
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "4659940": [
@@ -19943,6 +23268,12 @@
     424
    ]
   ],
+  "4662480": [
+   [
+    "2026-11-11",
+    3
+   ]
+  ],
   "4668060": [
    [
     "2026-11-07",
@@ -19959,6 +23290,10 @@
    [
     "2026-11-10",
     68
+   ],
+   [
+    "2026-11-11",
+    60
    ]
   ],
   "4675720": [
@@ -19979,6 +23314,10 @@
    [
     "2026-11-10",
     16
+   ],
+   [
+    "2026-11-11",
+    9
    ]
   ],
   "4684390": [
@@ -19988,6 +23327,10 @@
    ],
    [
     "2026-11-10",
+    12
+   ],
+   [
+    "2026-11-11",
     12
    ]
   ],
@@ -20027,6 +23370,10 @@
    [
     "2026-11-10",
     144
+   ],
+   [
+    "2026-11-11",
+    170
    ]
   ],
   "4691750": [
@@ -20045,12 +23392,20 @@
    [
     "2026-11-10",
     21
+   ],
+   [
+    "2026-11-11",
+    25
    ]
   ],
   "4694360": [
    [
     "2026-11-10",
     12
+   ],
+   [
+    "2026-11-11",
+    14
    ]
   ],
   "4708030": [
@@ -20067,6 +23422,10 @@
    [
     "2026-11-10",
     3
+   ],
+   [
+    "2026-11-11",
+    6
    ]
   ],
   "4729690": [
@@ -20077,6 +23436,10 @@
    [
     "2026-11-10",
     81
+   ],
+   [
+    "2026-11-11",
+    35
    ]
   ],
   "4739820": [
@@ -20095,6 +23458,10 @@
    [
     "2026-11-10",
     36
+   ],
+   [
+    "2026-11-11",
+    45
    ]
   ],
   "4743040": [
@@ -20137,6 +23504,10 @@
    [
     "2026-11-10",
     277
+   ],
+   [
+    "2026-11-11",
+    241
    ]
   ],
   "4763220": [
@@ -20170,6 +23541,10 @@
    ],
    [
     "2026-11-10",
+    0
+   ],
+   [
+    "2026-11-11",
     0
    ]
   ],
@@ -20215,6 +23590,10 @@
    [
     "2026-11-10",
     4
+   ],
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "4793010": [
@@ -20225,6 +23604,10 @@
    [
     "2026-11-10",
     6
+   ],
+   [
+    "2026-11-11",
+    2
    ]
   ],
   "4801990": [
@@ -20259,6 +23642,10 @@
    [
     "2026-11-10",
     21
+   ],
+   [
+    "2026-11-11",
+    34
    ]
   ],
   "4837000": [
@@ -20319,6 +23706,12 @@
     0
    ]
   ],
+  "4878710": [
+   [
+    "2026-11-11",
+    0
+   ]
+  ],
   "4879470": [
    [
     "2026-11-10",
@@ -20329,6 +23722,10 @@
    [
     "2026-11-10",
     1
+   ],
+   [
+    "2026-11-11",
+    2
    ]
   ],
   "4895870": [
@@ -20347,6 +23744,10 @@
    [
     "2026-11-10",
     312
+   ],
+   [
+    "2026-11-11",
+    343
    ]
   ],
   "4898190": [
@@ -20369,6 +23770,12 @@
    [
     "2026-11-09",
     37
+   ]
+  ],
+  "4904730": [
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "4906570": [
@@ -20423,17 +23830,29 @@
    [
     "2026-11-10",
     3
+   ],
+   [
+    "2026-11-11",
+    9
    ]
   ],
   "4946550": [
    [
     "2026-11-10",
     1
+   ],
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "4947060": [
    [
     "2026-11-10",
+    0
+   ],
+   [
+    "2026-11-11",
     0
    ]
   ],
@@ -20456,6 +23875,16 @@
    ],
    [
     "2026-11-10",
+    2
+   ],
+   [
+    "2026-11-11",
+    4
+   ]
+  ],
+  "4960640": [
+   [
+    "2026-11-11",
     2
    ]
   ],
@@ -20535,6 +23964,10 @@
    [
     "2026-11-10",
     38
+   ],
+   [
+    "2026-11-11",
+    51
    ]
   ],
   "4993270": [
@@ -20577,6 +24010,10 @@
    [
     "2026-11-10",
     8
+   ],
+   [
+    "2026-11-11",
+    14
    ]
   ],
   "5012760": [
@@ -20595,6 +24032,10 @@
    [
     "2026-11-10",
     98
+   ],
+   [
+    "2026-11-11",
+    86
    ]
   ],
   "5021660": [
@@ -20619,6 +24060,10 @@
    [
     "2026-11-10",
     19
+   ],
+   [
+    "2026-11-11",
+    17
    ]
   ],
   "5056320": [
@@ -20673,6 +24118,10 @@
    [
     "2026-11-10",
     46
+   ],
+   [
+    "2026-11-11",
+    36
    ]
   ],
   "5061060": [
@@ -20777,6 +24226,10 @@
    [
     "2026-11-10",
     10
+   ],
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "5112050": [
@@ -20813,6 +24266,16 @@
    [
     "2026-11-10",
     0
+   ],
+   [
+    "2026-11-11",
+    0
+   ]
+  ],
+  "5143280": [
+   [
+    "2026-11-11",
+    2
    ]
   ],
   "5150150": [
@@ -20825,6 +24288,10 @@
    [
     "2026-11-10",
     56
+   ],
+   [
+    "2026-11-11",
+    63
    ]
   ],
   "5156510": [
@@ -20901,12 +24368,20 @@
    [
     "2026-11-10",
     2
+   ],
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5173630": [
    [
     "2026-11-10",
     81
+   ],
+   [
+    "2026-11-11",
+    63
    ]
   ],
   "5174600": [
@@ -20935,12 +24410,20 @@
    [
     "2026-11-10",
     6
+   ],
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5183140": [
    [
     "2026-11-10",
     4
+   ],
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5184160": [
@@ -20989,12 +24472,20 @@
    [
     "2026-11-10",
     12
+   ],
+   [
+    "2026-11-11",
+    12
    ]
   ],
   "5203540": [
    [
     "2026-11-10",
     17
+   ],
+   [
+    "2026-11-11",
+    11
    ]
   ],
   "5204140": [
@@ -21039,12 +24530,20 @@
    [
     "2026-11-10",
     38
+   ],
+   [
+    "2026-11-11",
+    42
    ]
   ],
   "5217440": [
    [
     "2026-11-10",
     48
+   ],
+   [
+    "2026-11-11",
+    49
    ]
   ],
   "5218890": [
@@ -21087,6 +24586,10 @@
    [
     "2026-11-10",
     6
+   ],
+   [
+    "2026-11-11",
+    20
    ]
   ],
   "5224010": [
@@ -21105,6 +24608,10 @@
    [
     "2026-11-10",
     145
+   ],
+   [
+    "2026-11-11",
+    75
    ]
   ],
   "5230480": [
@@ -21123,6 +24630,10 @@
    [
     "2026-11-10",
     647
+   ],
+   [
+    "2026-11-11",
+    803
    ]
   ],
   "5231690": [
@@ -21147,6 +24658,16 @@
    [
     "2026-11-10",
     19
+   ],
+   [
+    "2026-11-11",
+    6
+   ]
+  ],
+  "5245660": [
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5249460": [
@@ -21217,6 +24738,10 @@
    [
     "2026-11-10",
     25
+   ],
+   [
+    "2026-11-11",
+    16
    ]
   ],
   "5279740": [
@@ -21229,6 +24754,10 @@
    [
     "2026-11-10",
     3
+   ],
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "5287500": [
@@ -21287,10 +24816,20 @@
     0
    ]
   ],
+  "5316550": [
+   [
+    "2026-11-11",
+    0
+   ]
+  ],
   "5322720": [
    [
     "2026-11-10",
     22
+   ],
+   [
+    "2026-11-11",
+    14
    ]
   ],
   "5323250": [
@@ -21303,6 +24842,12 @@
     0
    ]
   ],
+  "5323500": [
+   [
+    "2026-11-11",
+    0
+   ]
+  ],
   "5325220": [
    [
     "2026-11-07",
@@ -21311,6 +24856,12 @@
    [
     "2026-11-08",
     4
+   ]
+  ],
+  "5333560": [
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5335100": [
@@ -21335,6 +24886,10 @@
    [
     "2026-11-10",
     29303
+   ],
+   [
+    "2026-11-11",
+    23771
    ]
   ],
   "5338390": [
@@ -21367,12 +24922,20 @@
    [
     "2026-11-10",
     1
+   ],
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5342460": [
    [
     "2026-11-10",
     2
+   ],
+   [
+    "2026-11-11",
+    7
    ]
   ],
   "5342780": [
@@ -21395,6 +24958,10 @@
    [
     "2026-11-10",
     23
+   ],
+   [
+    "2026-11-11",
+    27
    ]
   ],
   "5351930": [
@@ -21431,6 +24998,10 @@
    [
     "2026-11-10",
     37
+   ],
+   [
+    "2026-11-11",
+    38
    ]
   ],
   "5363350": [
@@ -21455,6 +25026,10 @@
    [
     "2026-11-10",
     0
+   ],
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5371190": [
@@ -21473,6 +25048,10 @@
    [
     "2026-11-10",
     9
+   ],
+   [
+    "2026-11-11",
+    7
    ]
   ],
   "5371810": [
@@ -21485,6 +25064,10 @@
    [
     "2026-11-10",
     0
+   ],
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "5373510": [
@@ -21503,6 +25086,10 @@
    [
     "2026-11-10",
     6992
+   ],
+   [
+    "2026-11-11",
+    6572
    ]
   ],
   "5375770": [
@@ -21603,6 +25190,10 @@
    [
     "2026-11-10",
     223
+   ],
+   [
+    "2026-11-11",
+    203
    ]
   ],
   "5403380": [
@@ -21665,6 +25256,10 @@
    [
     "2026-11-10",
     167
+   ],
+   [
+    "2026-11-11",
+    157
    ]
   ],
   "5411310": [
@@ -21693,12 +25288,22 @@
    [
     "2026-11-10",
     480
+   ],
+   [
+    "2026-11-11",
+    543
    ]
   ],
   "5423880": [
    [
     "2026-11-10",
     2
+   ]
+  ],
+  "5425210": [
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5427130": [
@@ -21777,6 +25382,12 @@
     2
    ]
   ],
+  "5461870": [
+   [
+    "2026-11-11",
+    0
+   ]
+  ],
   "5465850": [
    [
     "2026-11-09",
@@ -21808,6 +25419,10 @@
   "5472430": [
    [
     "2026-11-10",
+    0
+   ],
+   [
+    "2026-11-11",
     0
    ]
   ],
@@ -21855,6 +25470,10 @@
    [
     "2026-11-10",
     0
+   ],
+   [
+    "2026-11-11",
+    0
    ]
   ],
   "5490440": [
@@ -21885,6 +25504,16 @@
    [
     "2026-11-10",
     112
+   ],
+   [
+    "2026-11-11",
+    92
+   ]
+  ],
+  "5502740": [
+   [
+    "2026-11-11",
+    1
    ]
   ],
   "696850": [
@@ -21914,7 +25543,8 @@
   "2026-11-07",
   "2026-11-08",
   "2026-11-09",
-  "2026-11-10"
+  "2026-11-10",
+  "2026-11-11"
  ],
  "ranks": {
   "1228610": [
@@ -21932,6 +25562,10 @@
    ],
    [
     "2026-11-10",
+    59
+   ],
+   [
+    "2026-11-11",
     59
    ]
   ],
@@ -21951,6 +25585,10 @@
    [
     "2026-11-10",
     85
+   ],
+   [
+    "2026-11-11",
+    85
    ]
   ],
   "1280190": [
@@ -21968,6 +25606,10 @@
    ],
    [
     "2026-11-10",
+    36
+   ],
+   [
+    "2026-11-11",
     36
    ]
   ],
@@ -21987,6 +25629,10 @@
    [
     "2026-11-10",
     40
+   ],
+   [
+    "2026-11-11",
+    40
    ]
   ],
   "1340720": [
@@ -22004,6 +25650,10 @@
    ],
    [
     "2026-11-10",
+    23
+   ],
+   [
+    "2026-11-11",
     23
    ]
   ],
@@ -22023,6 +25673,10 @@
    [
     "2026-11-10",
     65
+   ],
+   [
+    "2026-11-11",
+    65
    ]
   ],
   "1416070": [
@@ -22040,6 +25694,10 @@
    ],
    [
     "2026-11-10",
+    84
+   ],
+   [
+    "2026-11-11",
     84
    ]
   ],
@@ -22059,6 +25717,10 @@
    [
     "2026-11-10",
     95
+   ],
+   [
+    "2026-11-11",
+    95
    ]
   ],
   "1586260": [
@@ -22076,6 +25738,10 @@
    ],
    [
     "2026-11-10",
+    68
+   ],
+   [
+    "2026-11-11",
     68
    ]
   ],
@@ -22095,6 +25761,10 @@
    [
     "2026-11-10",
     86
+   ],
+   [
+    "2026-11-11",
+    86
    ]
   ],
   "1685960": [
@@ -22112,6 +25782,10 @@
    ],
    [
     "2026-11-10",
+    44
+   ],
+   [
+    "2026-11-11",
     44
    ]
   ],
@@ -22131,6 +25805,10 @@
    [
     "2026-11-10",
     35
+   ],
+   [
+    "2026-11-11",
+    35
    ]
   ],
   "1731290": [
@@ -22148,6 +25826,10 @@
    ],
    [
     "2026-11-10",
+    88
+   ],
+   [
+    "2026-11-11",
     88
    ]
   ],
@@ -22167,6 +25849,10 @@
    [
     "2026-11-10",
     47
+   ],
+   [
+    "2026-11-11",
+    47
    ]
   ],
   "1757350": [
@@ -22184,6 +25870,10 @@
    ],
    [
     "2026-11-10",
+    10
+   ],
+   [
+    "2026-11-11",
     10
    ]
   ],
@@ -22203,6 +25893,10 @@
    [
     "2026-11-10",
     5
+   ],
+   [
+    "2026-11-11",
+    5
    ]
   ],
   "1818140": [
@@ -22220,6 +25914,10 @@
    ],
    [
     "2026-11-10",
+    78
+   ],
+   [
+    "2026-11-11",
     78
    ]
   ],
@@ -22239,6 +25937,10 @@
    [
     "2026-11-10",
     9
+   ],
+   [
+    "2026-11-11",
+    9
    ]
   ],
   "1940080": [
@@ -22256,6 +25958,10 @@
    ],
    [
     "2026-11-10",
+    29
+   ],
+   [
+    "2026-11-11",
     29
    ]
   ],
@@ -22275,6 +25981,10 @@
    [
     "2026-11-10",
     61
+   ],
+   [
+    "2026-11-11",
+    61
    ]
   ],
   "2050420": [
@@ -22292,6 +26002,10 @@
    ],
    [
     "2026-11-10",
+    12
+   ],
+   [
+    "2026-11-11",
     12
    ]
   ],
@@ -22311,6 +26025,10 @@
    [
     "2026-11-10",
     69
+   ],
+   [
+    "2026-11-11",
+    69
    ]
   ],
   "2109770": [
@@ -22328,6 +26046,10 @@
    ],
    [
     "2026-11-10",
+    8
+   ],
+   [
+    "2026-11-11",
     8
    ]
   ],
@@ -22347,6 +26069,10 @@
    [
     "2026-11-10",
     97
+   ],
+   [
+    "2026-11-11",
+    97
    ]
   ],
   "2153760": [
@@ -22364,6 +26090,10 @@
    ],
    [
     "2026-11-10",
+    64
+   ],
+   [
+    "2026-11-11",
     64
    ]
   ],
@@ -22383,6 +26113,10 @@
    [
     "2026-11-10",
     42
+   ],
+   [
+    "2026-11-11",
+    42
    ]
   ],
   "2165810": [
@@ -22400,6 +26134,10 @@
    ],
    [
     "2026-11-10",
+    83
+   ],
+   [
+    "2026-11-11",
     83
    ]
   ],
@@ -22419,6 +26157,10 @@
    [
     "2026-11-10",
     37
+   ],
+   [
+    "2026-11-11",
+    37
    ]
   ],
   "2208810": [
@@ -22436,6 +26178,10 @@
    ],
    [
     "2026-11-10",
+    92
+   ],
+   [
+    "2026-11-11",
     92
    ]
   ],
@@ -22455,6 +26201,10 @@
    [
     "2026-11-10",
     26
+   ],
+   [
+    "2026-11-11",
+    26
    ]
   ],
   "2235430": [
@@ -22472,6 +26222,10 @@
    ],
    [
     "2026-11-10",
+    80
+   ],
+   [
+    "2026-11-11",
     80
    ]
   ],
@@ -22491,6 +26245,10 @@
    [
     "2026-11-10",
     66
+   ],
+   [
+    "2026-11-11",
+    66
    ]
   ],
   "2272360": [
@@ -22508,6 +26266,10 @@
    ],
    [
     "2026-11-10",
+    17
+   ],
+   [
+    "2026-11-11",
     17
    ]
   ],
@@ -22527,6 +26289,10 @@
    [
     "2026-11-10",
     33
+   ],
+   [
+    "2026-11-11",
+    33
    ]
   ],
   "2318330": [
@@ -22544,6 +26310,10 @@
    ],
    [
     "2026-11-10",
+    57
+   ],
+   [
+    "2026-11-11",
     57
    ]
   ],
@@ -22563,6 +26333,10 @@
    [
     "2026-11-10",
     27
+   ],
+   [
+    "2026-11-11",
+    27
    ]
   ],
   "2381520": [
@@ -22580,6 +26354,10 @@
    ],
    [
     "2026-11-10",
+    14
+   ],
+   [
+    "2026-11-11",
     14
    ]
   ],
@@ -22599,6 +26377,10 @@
    [
     "2026-11-10",
     96
+   ],
+   [
+    "2026-11-11",
+    96
    ]
   ],
   "2439280": [
@@ -22616,6 +26398,10 @@
    ],
    [
     "2026-11-10",
+    54
+   ],
+   [
+    "2026-11-11",
     54
    ]
   ],
@@ -22635,6 +26421,10 @@
    [
     "2026-11-10",
     71
+   ],
+   [
+    "2026-11-11",
+    71
    ]
   ],
   "2582960": [
@@ -22652,6 +26442,10 @@
    ],
    [
     "2026-11-10",
+    24
+   ],
+   [
+    "2026-11-11",
     24
    ]
   ],
@@ -22671,6 +26465,10 @@
    [
     "2026-11-10",
     13
+   ],
+   [
+    "2026-11-11",
+    13
    ]
   ],
   "2610770": [
@@ -22688,6 +26486,10 @@
    ],
    [
     "2026-11-10",
+    53
+   ],
+   [
+    "2026-11-11",
     53
    ]
   ],
@@ -22707,6 +26509,10 @@
    [
     "2026-11-10",
     32
+   ],
+   [
+    "2026-11-11",
+    32
    ]
   ],
   "2692660": [
@@ -22724,6 +26530,10 @@
    ],
    [
     "2026-11-10",
+    55
+   ],
+   [
+    "2026-11-11",
     55
    ]
   ],
@@ -22743,6 +26553,10 @@
    [
     "2026-11-10",
     3
+   ],
+   [
+    "2026-11-11",
+    3
    ]
   ],
   "2724650": [
@@ -22760,6 +26574,10 @@
    ],
    [
     "2026-11-10",
+    41
+   ],
+   [
+    "2026-11-11",
     41
    ]
   ],
@@ -22779,11 +26597,19 @@
    [
     "2026-11-10",
     4
+   ],
+   [
+    "2026-11-11",
+    4
    ]
   ],
   "2800370": [
    [
     "2026-11-10",
+    100
+   ],
+   [
+    "2026-11-11",
     100
    ]
   ],
@@ -22803,6 +26629,10 @@
    [
     "2026-11-10",
     25
+   ],
+   [
+    "2026-11-11",
+    25
    ]
   ],
   "2838950": [
@@ -22820,6 +26650,10 @@
    ],
    [
     "2026-11-10",
+    94
+   ],
+   [
+    "2026-11-11",
     94
    ]
   ],
@@ -22839,6 +26673,10 @@
    [
     "2026-11-10",
     74
+   ],
+   [
+    "2026-11-11",
+    74
    ]
   ],
   "2861080": [
@@ -22856,6 +26694,10 @@
    ],
    [
     "2026-11-10",
+    39
+   ],
+   [
+    "2026-11-11",
     39
    ]
   ],
@@ -22875,6 +26717,10 @@
    [
     "2026-11-10",
     21
+   ],
+   [
+    "2026-11-11",
+    21
    ]
   ],
   "2924520": [
@@ -22892,6 +26738,10 @@
    ],
    [
     "2026-11-10",
+    81
+   ],
+   [
+    "2026-11-11",
     81
    ]
   ],
@@ -22911,6 +26761,10 @@
    [
     "2026-11-10",
     43
+   ],
+   [
+    "2026-11-11",
+    43
    ]
   ],
   "2963950": [
@@ -22928,6 +26782,10 @@
    ],
    [
     "2026-11-10",
+    16
+   ],
+   [
+    "2026-11-11",
     16
    ]
   ],
@@ -22947,6 +26805,10 @@
    [
     "2026-11-10",
     30
+   ],
+   [
+    "2026-11-11",
+    30
    ]
   ],
   "3073940": [
@@ -22964,6 +26826,10 @@
    ],
    [
     "2026-11-10",
+    60
+   ],
+   [
+    "2026-11-11",
     60
    ]
   ],
@@ -22983,6 +26849,10 @@
    [
     "2026-11-10",
     93
+   ],
+   [
+    "2026-11-11",
+    93
    ]
   ],
   "3161310": [
@@ -23000,6 +26870,10 @@
    ],
    [
     "2026-11-10",
+    45
+   ],
+   [
+    "2026-11-11",
     45
    ]
   ],
@@ -23019,6 +26893,10 @@
    [
     "2026-11-10",
     52
+   ],
+   [
+    "2026-11-11",
+    52
    ]
   ],
   "3255110": [
@@ -23036,6 +26914,10 @@
    ],
    [
     "2026-11-10",
+    46
+   ],
+   [
+    "2026-11-11",
     46
    ]
   ],
@@ -23055,6 +26937,10 @@
    [
     "2026-11-10",
     73
+   ],
+   [
+    "2026-11-11",
+    73
    ]
   ],
   "3283240": [
@@ -23072,6 +26958,10 @@
    ],
    [
     "2026-11-10",
+    82
+   ],
+   [
+    "2026-11-11",
     82
    ]
   ],
@@ -23091,6 +26981,10 @@
    [
     "2026-11-10",
     20
+   ],
+   [
+    "2026-11-11",
+    20
    ]
   ],
   "3337850": [
@@ -23108,6 +27002,10 @@
    ],
    [
     "2026-11-10",
+    62
+   ],
+   [
+    "2026-11-11",
     62
    ]
   ],
@@ -23127,6 +27025,10 @@
    [
     "2026-11-10",
     72
+   ],
+   [
+    "2026-11-11",
+    72
    ]
   ],
   "3517740": [
@@ -23145,6 +27047,10 @@
    [
     "2026-11-10",
     58
+   ],
+   [
+    "2026-11-11",
+    58
    ]
   ],
   "3558670": [
@@ -23162,6 +27068,10 @@
    ],
    [
     "2026-11-10",
+    19
+   ],
+   [
+    "2026-11-11",
     19
    ]
   ],
@@ -23195,6 +27105,10 @@
    [
     "2026-11-10",
     63
+   ],
+   [
+    "2026-11-11",
+    63
    ]
   ],
   "3669200": [
@@ -23212,6 +27126,10 @@
    ],
    [
     "2026-11-10",
+    98
+   ],
+   [
+    "2026-11-11",
     98
    ]
   ],
@@ -23249,6 +27167,10 @@
    [
     "2026-11-10",
     22
+   ],
+   [
+    "2026-11-11",
+    22
    ]
   ],
   "3714800": [
@@ -23266,6 +27188,10 @@
    ],
    [
     "2026-11-10",
+    87
+   ],
+   [
+    "2026-11-11",
     87
    ]
   ],
@@ -23285,6 +27211,10 @@
    [
     "2026-11-10",
     18
+   ],
+   [
+    "2026-11-11",
+    18
    ]
   ],
   "3788800": [
@@ -23302,6 +27232,10 @@
    ],
    [
     "2026-11-10",
+    77
+   ],
+   [
+    "2026-11-11",
     77
    ]
   ],
@@ -23321,6 +27255,10 @@
    [
     "2026-11-10",
     50
+   ],
+   [
+    "2026-11-11",
+    50
    ]
   ],
   "3978820": [
@@ -23338,6 +27276,10 @@
    ],
    [
     "2026-11-10",
+    31
+   ],
+   [
+    "2026-11-11",
     31
    ]
   ],
@@ -23357,6 +27299,10 @@
    [
     "2026-11-10",
     76
+   ],
+   [
+    "2026-11-11",
+    76
    ]
   ],
   "4077740": [
@@ -23374,6 +27320,10 @@
    ],
    [
     "2026-11-10",
+    28
+   ],
+   [
+    "2026-11-11",
     28
    ]
   ],
@@ -23393,6 +27343,10 @@
    [
     "2026-11-10",
     11
+   ],
+   [
+    "2026-11-11",
+    11
    ]
   ],
   "4150720": [
@@ -23410,6 +27364,10 @@
    ],
    [
     "2026-11-10",
+    49
+   ],
+   [
+    "2026-11-11",
     49
    ]
   ],
@@ -23429,6 +27387,10 @@
    [
     "2026-11-10",
     6
+   ],
+   [
+    "2026-11-11",
+    6
    ]
   ],
   "4228810": [
@@ -23446,6 +27408,10 @@
    ],
    [
     "2026-11-10",
+    75
+   ],
+   [
+    "2026-11-11",
     75
    ]
   ],
@@ -23465,6 +27431,10 @@
    [
     "2026-11-10",
     90
+   ],
+   [
+    "2026-11-11",
+    90
    ]
   ],
   "4260840": [
@@ -23482,6 +27452,10 @@
    ],
    [
     "2026-11-10",
+    56
+   ],
+   [
+    "2026-11-11",
     56
    ]
   ],
@@ -23501,6 +27475,10 @@
    [
     "2026-11-10",
     51
+   ],
+   [
+    "2026-11-11",
+    51
    ]
   ],
   "4369620": [
@@ -23510,6 +27488,10 @@
    ],
    [
     "2026-11-10",
+    99
+   ],
+   [
+    "2026-11-11",
     99
    ]
   ],
@@ -23529,6 +27511,10 @@
    [
     "2026-11-10",
     2
+   ],
+   [
+    "2026-11-11",
+    2
    ]
   ],
   "4614080": [
@@ -23546,6 +27532,10 @@
    ],
    [
     "2026-11-10",
+    91
+   ],
+   [
+    "2026-11-11",
     91
    ]
   ],
@@ -23565,6 +27555,10 @@
    [
     "2026-11-10",
     38
+   ],
+   [
+    "2026-11-11",
+    38
    ]
   ],
   "4767480": [
@@ -23582,6 +27576,10 @@
    ],
    [
     "2026-11-10",
+    79
+   ],
+   [
+    "2026-11-11",
     79
    ]
   ],
@@ -23601,6 +27599,10 @@
    [
     "2026-11-10",
     89
+   ],
+   [
+    "2026-11-11",
+    89
    ]
   ],
   "4824610": [
@@ -23619,6 +27621,10 @@
    [
     "2026-11-10",
     7
+   ],
+   [
+    "2026-11-11",
+    7
    ]
   ],
   "5072600": [
@@ -23636,6 +27642,10 @@
    ],
    [
     "2026-11-10",
+    34
+   ],
+   [
+    "2026-11-11",
     34
    ]
   ]
