@@ -119,6 +119,44 @@
    "released": "2009-11-11",
    "type": "game"
   },
+  "1046930": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Cross-Platform Multiplayer",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Surround Sound",
+    "Touch Only Option",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Hire a crew and destroy your rivals in this new strategy battler set in the world of Dota. Introducing Season One: Explore White Spire and earn rewards on the Battle Pass. Pick from several different game modes, play on your own or with friends, and take advantage of crossplay on PC and mobile.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Strategy",
+    "Free To Play"
+   ],
+   "name": "Dota Underlords",
+   "price": "",
+   "released": "2019-06-20",
+   "type": "game"
+  },
   "10500": {
    "adult": false,
    "categories": [
@@ -1161,6 +1199,41 @@
    "name": "Anvil Empires",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "1407200": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "MMO",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Surround Sound",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "World of Tanks is a tactical action game with very different gameplay depending on the vehicle type and role. Aside from regular PvP, there are competitive and clan-based modes, special PvE and PvPvE events, and much more. Whether you play to dominate or just enjoy the ride, you'll fit right in.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "Simulation",
+    "Free To Play"
+   ],
+   "name": "World of Tanks",
+   "price": "",
+   "released": "2021-04-28",
    "type": "game"
   },
   "1416070": {
@@ -2348,6 +2421,59 @@
    "released": "2013-03-04",
    "type": "game"
   },
+  "204360": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Custom Volume Controls",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Input API Support",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [
+    "207100"
+   ],
+   "desc": "Hack, slash, and smash your way to victory in this award winning 2D arcade adventure from The Behemoth!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Castle Crashers®",
+   "price": "£9.99",
+   "released": "2012-09-26",
+   "type": "game"
+  },
   "2050420": {
    "adult": false,
    "categories": [
@@ -2846,6 +2972,33 @@
    "released": null,
    "type": "game"
   },
+  "218230": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "MMO",
+    "PvP",
+    "Online PvP",
+    "Steam Trading Cards",
+    "Steam Cloud"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "PlanetSide 2 is an all-out planetary war, where thousands of players battle as one across enormous continents. Utilize infantry, ground and air vehicles, and teamwork to destroy your enemies in this revolutionary first-person shooter on a massive scale.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "Free To Play"
+   ],
+   "name": "PlanetSide 2",
+   "price": "",
+   "released": "2012-11-20",
+   "type": "game"
+  },
   "2183900": {
    "checked": "2026-11-07",
    "desc": "Embody the superhuman skill and brutality of a Space Marine. Unleash deadly abilities and devastating weaponry to obliterate the relentless Tyranid swarms. Defend the Imperium in spectacular third-person action in solo or multiplayer modes.",
@@ -3236,6 +3389,40 @@
    "name": "Don't Starve Elsewhere",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "224260": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Captions available",
+    "VR Support",
+    "Steam Workshop",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Valve Anti-Cheat enabled",
+    "Includes level editor",
+    "Includes Source SDK",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The chances of you surviving this all out war of society and the undead are slim to none. Already, there are millions of the walking dead shambling about, searching for food to eat. There's no known cure. One bite can possibly end it all for you. However, you aren't alone in this nightmare.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie",
+    "Free To Play"
+   ],
+   "name": "No More Room in Hell",
+   "price": "",
+   "released": "2013-10-31",
    "type": "game"
   },
   "2246340": {
@@ -4635,6 +4822,45 @@
    "released": "2022-10-25",
    "type": "game"
   },
+  "2622380": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Gamepad Recommended",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Input API Support",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "ELDEN RING NIGHTREIGN is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "name": "ELDEN RING NIGHTREIGN",
+   "price": "£34.99",
+   "released": "2025-05-29",
+   "type": "game"
+  },
   "2624080": {
    "adult": false,
    "categories": [
@@ -4715,6 +4941,36 @@
    "name": "Annihilated",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "264710": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "VR Supported",
+    "Steam Trading Cards",
+    "VR Support",
+    "DualShock Controller Support",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Subnautica",
+   "price": "£25.99",
+   "released": "2018-01-23",
    "type": "game"
   },
   "2649560": {
@@ -5064,6 +5320,44 @@
    "name": "After the Wane",
    "price": "£10.79",
    "released": "2026-11-10",
+   "type": "game"
+  },
+  "275390": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Gamepad Recommended",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The definitive version of the smash-hit Metroidvania-style action-platformer, Guacamelee! STCE adds new levels, powers, challenges, and refinements to the sprawling, ridiculous, Mexican-inspired adventure of the original Guacamelee! Gold Edition.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Guacamelee! Super Turbo Championship Edition",
+   "price": "£13.75",
+   "released": "2014-08-21",
    "type": "game"
   },
   "2767030": {
@@ -8397,6 +8691,36 @@
    "released": null,
    "type": "game"
   },
+  "367520": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Hollow Knight",
+   "price": "£12.79",
+   "released": "2017-02-24",
+   "type": "game"
+  },
   "3677850": {
    "adult": false,
    "categories": [
@@ -8544,6 +8868,32 @@
     "Indie"
    ],
    "name": "Dice Hoarder",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "3692020": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [
+    "5282950"
+   ],
+   "desc": "Exodus Core is a hard turn-based tactical game with a dark sci-fi apocalyptic atmosphere. Take control of three massive mechs with the digitized personalities of soldiers and face a Swarm of thinking monsters from the dark. Can you win a hopeless battle?",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "RPG",
+    "Strategy",
+    "Early Access"
+   ],
+   "name": "Exodus Core",
    "price": "",
    "released": null,
    "type": "game"
@@ -8801,6 +9151,41 @@
     "RPG"
    ],
    "name": "The Expanse: Osiris Reborn",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "3751490": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Investigating his grandmother's mysterious death, a detective enters her home in search of the truth. But the house begins to toy with him. Space twists, fears take shape, and there's no way out. Every step, every room, every loop brings him closer to madness.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Sitter",
    "price": "",
    "released": null,
    "type": "game"
@@ -10373,6 +10758,40 @@
    "released": null,
    "type": "game"
   },
+  "4083130": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Touch Only Option",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [
+    "4812750",
+    "4812750"
+   ],
+   "desc": "A PvE roguelike deckbuilder where you can customise your deck with thousands of unique cards. Upgrade, draft, and buy new cards to field a respectable army on unique battlefields that favour tactical movement and card play. Master the five factions and stand Against the Horde.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Against the Horde",
+   "price": "£16.75",
+   "released": "2026-11-12",
+   "type": "game"
+  },
   "4088360": {
    "adult": false,
    "categories": [
@@ -11148,6 +11567,35 @@
    "released": null,
    "type": "game"
   },
+  "4207470": {
+   "adult": true,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "In-App Purchases",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [
+    "4668320"
+   ],
+   "desc": "A crew of SEXY SPACE PIRATE BABES blows up your prison ship and claims you in Void Sirens! Become captain — recruit hot heroines, build your squad, lead galactic raids and unlock their deepest NAUGHTY scenes! 💦 Ready to command the hottest crew? 🔥",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Void Sirens",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "4210250": {
    "adult": false,
    "categories": [
@@ -11644,6 +12092,37 @@
    "name": "Aurora Protocol",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "4303280": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Keyboard Only Option",
+    "Save Anytime",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [
+    "4481000"
+   ],
+   "desc": "A simple typing narrative game exploring the depths of the mind. Sometimes cozy and warm, sometimes intense and challenging, always interesting.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Some Type of Trip",
+   "price": "£4.29",
+   "released": "2026-11-12",
    "type": "game"
   },
   "4304060": {
@@ -13014,6 +13493,40 @@
    "released": "2026-11-09",
    "type": "game"
   },
+  "4545470": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [
+    "4662820"
+   ],
+   "desc": "Craft uncanny totems. Aid troubled townsfolk. Uncover the darkness below. The Totemist is a narrative-driven occult shop sim set in a quietly strange town, where you craft charms inspired by real witchcraft, aid troubled townspeople, and uncover the ancient force festering beneath them.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation"
+   ],
+   "name": "The Totemist",
+   "price": "£9.13",
+   "released": "2026-11-12",
+   "type": "game"
+  },
   "4551060": {
    "adult": false,
    "categories": [
@@ -13420,6 +13933,30 @@
    "released": null,
    "type": "game"
   },
+  "4594630": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Immerse yourself in the neon nostalgia of the 90s! Nightstoker is a cozy organization game where you task yourself with bringing order to a chaotic video and music rental store. Sort through thousands of tapes and listen to retro hits. The pure joy of a perfectly organized shelf.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Night Stocker",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "4596170": {
    "checked": "2026-11-07",
    "desc": "Immerse yourself in a world of magic, SEXY HEROINES, and epic battles in Raid of Lust: Match &amp; Magic! ✨ Assemble your team of hot anime babes and set off on a quest in a match-3 fantasy RPG! Then BATTLE OTHER ADVENTURERS in multiplayer with PvP and co-op! Will you be able to climb to the top?",
@@ -13515,6 +14052,34 @@
    "name": "The Last Zeppelin",
    "price": "£7.37",
    "released": "2026-11-09",
+   "type": "game"
+  },
+  "4602120": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [
+    "4973880"
+   ],
+   "desc": "500 STABS. 20 MINUTES TO ESCAPE. A horror roguelite about stabbing yourself in the hand 500 times to escape a deadly trap. Can you make it out with all your fingers? Or will you bleed out on the table?",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie"
+   ],
+   "name": "500 FINGER FILLET",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "4611240": {
@@ -14427,6 +14992,40 @@
    "released": null,
    "type": "game"
   },
+  "4734100": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Includes level editor",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Unleash a hurricane of war in the Latin American-themed WARNO - Tropic Storm expansion, featuring 6 new divisions, 4 new nations, 8 new maps, and 1 new Army General campaign. Unlock new units, from AC-130 Spectre gunships to X1 Pionerio tanks, LARS-160 MRLS, and Avispas Negras special forces.",
+   "free": false,
+   "fullgame": "1611600",
+   "fullgame_name": "WARNO",
+   "genres": [
+    "Action",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "WARNO - Tropic Storm",
+   "price": "£17.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
   "4739070": {
    "adult": false,
    "categories": [
@@ -14976,6 +15575,32 @@
    "released": "2026-11-08",
    "type": "game"
   },
+  "4793910": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Hurry!Hurry!I'm going to become a legendary card-stall master—right this second!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Speed Card Eatery",
+   "price": "£4.31",
+   "released": "2026-11-12",
+   "type": "game"
+  },
   "4795460": {
    "adult": false,
    "categories": [
@@ -15468,6 +16093,36 @@
    "released": null,
    "type": "game"
   },
+  "4839520": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [
+    "5395660"
+   ],
+   "desc": "In a world built for humans, you'll have to evade scientists, solve puzzles and use your sense of smell to find your way in this adventure about freedom, belonging and home. You play as Brie, a daring lab rat in search of the rodent paradise… Cheesty.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Cheesty",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "4841210": {
    "adult": false,
    "categories": [
@@ -15677,6 +16332,31 @@
    "released": "2026-11-09",
    "type": "game"
   },
+  "4859520": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "&quot;Smashboom&quot; is a high-speed 3D competitive shooter where you deflect incoming projectiles and use feints to exploit your opponent's openings. Engage in tense mind games, unleash a surprise smash to catch your rival off guard, and take them down!",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Free To Play"
+   ],
+   "name": "Smashboom",
+   "price": "",
+   "released": "2026-11-12",
+   "type": "game"
+  },
   "4859770": {
    "adult": false,
    "categories": [
@@ -15777,6 +16457,37 @@
    "name": "Mosaique Neko Waifus 6",
    "price": "£3.44",
    "released": "2026-11-07",
+   "type": "game"
+  },
+  "4876560": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "Save Anytime",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A fast-paced Western cowboy duel game. Load your revolver, steady your breathing, and fire in the split second between life and death. Face off against friends in gunfights and challenge legendary cowboys from around the world; Earn bounties and become an undefeated legend of the Wild West.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Cowboy!Duel!",
+   "price": "£1.91",
+   "released": "2026-11-12",
    "type": "game"
   },
   "4876650": {
@@ -16010,6 +16721,43 @@
    "name": "Gridiron Grit",
    "price": "£22.49",
    "released": "2026-11-10",
+   "type": "game"
+  },
+  "489520": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Steam Cloud",
+    "Remote Play on Tablet",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "An addictive fast-paced hybrid of Card games &amp; Tower-Defense. Play 1v1 - or bring a friend for 2v2 - and engage in epic online multiplayer battles full of innovative strategy and awesome plays! Collect 200+ cards with unique mechanics, all free!",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Strategy"
+   ],
+   "name": "Minion Masters",
+   "price": "",
+   "released": "2019-05-24",
    "type": "game"
   },
   "4898190": {
@@ -16435,6 +17183,39 @@
    "released": null,
    "type": "game"
   },
+  "4932820": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [
+    "4966120"
+   ],
+   "desc": "An incremental game about flipping bottles, unlocking and upgrading unique abilities, and turning simple bottle flips into increasingly satisfying moments.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Bottle Flip Inc",
+   "price": "£4.23",
+   "released": "2026-11-12",
+   "type": "game"
+  },
   "4934400": {
    "adult": false,
    "categories": [
@@ -16582,6 +17363,35 @@
    "released": null,
    "type": "game"
   },
+  "4943970": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Workshop",
+    "Adjustable Difficulty",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Franchise Hockey Manager returns for the 2026-27 season with plenty of additions to the deepest, most authentic hockey strategy gaming experience you can find. Choose from teams around the globe and select a team to guide to glory, including a chance at the ultimate prize, the Stanley Cup®.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Simulation",
+    "Sports",
+    "Strategy"
+   ],
+   "name": "Franchise Hockey Manager 13",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "4946550": {
    "adult": false,
    "categories": [
@@ -16637,6 +17447,44 @@
    "name": "Kebab Dynasty",
    "price": "£4.54",
    "released": "2026-11-08",
+   "type": "game"
+  },
+  "4948250": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Adjustable Text Size",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Touch Only Option",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A cozy pixel cat companion for your desktop: it lives on top of your windows while you work or study. Feed it, play with it, dress it up, and watch its character emerge: it remembers your care, sulks if woken, and hunts its toys.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Purrtopia",
+   "price": "£0.90",
+   "released": "2026-11-12",
    "type": "game"
   },
   "4948940": {
@@ -17573,6 +18421,29 @@
    "name": "Arachnid",
    "price": "£2.63",
    "released": "2026-11-08",
+   "type": "game"
+  },
+  "4993930": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Pixel Worker is a pixel-art work-life simulation where you take jobs, earn money, appraise gear, raise pets, mine, fish, cut jade, trade stocks, and play casino mini-games as you build your own path through a lively city.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Pixel Worker",
+   "price": "£2.38",
+   "released": "2026-11-12",
    "type": "game"
   },
   "4994750": {
@@ -20865,6 +21736,37 @@
    "released": "2026-11-07",
    "type": "game"
   },
+  "5264930": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "An ink-wash, single-player xianxia RPG. You spend years in seclusion seeking a clear Dao heart, while old friends break through or pass away. Pick your techniques, build your own style and fight hands-on from Qi Refining to Spirit Transformation. Join a sect, find a Dao companion, settle old debts.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG",
+    "Simulation",
+    "Early Access"
+   ],
+   "name": "Guixu Cultivation: Mortal Realm",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "526870": {
    "checked": "2026-11-07",
    "desc": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
@@ -22441,6 +23343,37 @@
    "released": null,
    "type": "game"
   },
+  "5377410": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Mouse Only Option",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Defend your throne against undead hordes in a pixel-art siege roguelite. Aim your attacks without leaving your seat, hunt legendary gear, and combine seven schools of power. Turn your spoils into permanent kingdom upgrades. The king will not survive the siege. His gold will.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+   ],
+   "name": "King Dies Rich",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5378030": {
    "adult": false,
    "categories": [
@@ -22812,6 +23745,38 @@
    "released": "2026-11-09",
    "type": "game"
   },
+  "5395030": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [
+    "5469560"
+   ],
+   "desc": "Every hero summoned to this world got an amazing skill. You got [Idle]: you only get stronger while doing absolutely nothing. Your party fights the Demon Lord's armies. You nap under a tree and collect all the EXP. An idle comedy that plays better when you're not playing it.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Early Access"
+   ],
+   "name": "I Was Reincarnated with the [Idle] Skill, and Now I Do Nothing",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5396440": {
    "adult": false,
    "categories": [
@@ -22842,6 +23807,546 @@
    "price": "",
    "released": "2026-11-11",
    "type": "game"
+  },
+  "5397370": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Great things grow stronger together! Backed by TRENTILA, Alliance wants to turn teamwork into triumph at The Grand Major 2026. Show your allegiance with their official team bundle!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Alliance TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397380": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Ape Squad is ready to go bananas at The Grand Major 2026! Show you support them with their official team collection. VAIIYA’s backing this monkey business!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Ape Squad TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397390": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Elevate is ready to raise the bar at The Grand Major 2026! And with ALFA ACTA backing them, you can bet they've got a contingency plan for every possible outcome. Show your support with their official collection!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Elevate TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397400": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "ENVY is heading to The Grand Major 2026, and they're planning to give the competition plenty to be jealous of! Show your support with their official team collection, backed by HYDRA-Q.",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - ENVY TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397410": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Five Fears is ready to spread some serious fright in The Grand Major 2026! Support the team with their official collection, powered by OSPUZE. The competition has been warned.",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Five Fears TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397420": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Where there's smoke, there's FYR! This squad's ready to turn up the heat at The Grand Major 2026, with VOLPE fueling the flames. Show your support with their official team collection!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - FYR TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397430": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The Kansas City Pioneers are blazing a trail to The Grand Major 2026! With ALFA ACTA behind them, you can bet they've come properly prepared. Show your support with their official team collection!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - KCP TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397440": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "KingZero isn't here to count the seconds in The Grand Major 2026. They're here to make every moment count! Rep them with their OSPUZE-powered collection.",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - KingZero TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397450": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Luminon is looking to light up The Grand Major 2026. They’re backed by HOLTOW, so at least someone's insured! Show your support with their official team collection.",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Luminon TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397460": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Moon Theory has an interesting theory about who should take the crown at The Grand Major 2026. Rep the team with their official collection, brought to you by VAIIYA!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Moon Theory TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397470": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "No limits. No looking back. Nfinite is heading to The Grand Major 2026 with HYDRA-Q in their corner and their sights set on the crown. Show your support with the team's official team collection!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Nfinite TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397480": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Many teams dream of winning The Grand Major 2026. NTMR is here to ruin those dreams! Get behind the squad with an official collection, brought to you by VOLPE!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - NTMR TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397490": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Things are about to get RAD at The Grand Major 2026! With DISSUN supplying the power, this squad is ready to turn up the heat. Show your support with their official team collection!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - RAD TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397500": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Fasten your seatbelts! Take Flyte is heading for The Grand Major 2026, and HOLTOW has them covered. Rep the team with their official collection!",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Take Flyte TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
+  },
+  "5397520": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Downloadable Content",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Vanguard Gaming is charging into Grand Major 2026 with their sights on the top of the bracket! Powered by DISSUN, this official team collection is ready to bring some serious competitive energy to your Arena loadout.",
+   "free": false,
+   "fullgame": "2073850",
+   "fullgame_name": "THE FINALS",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "THE FINALS - Vanguard TGM26",
+   "price": "£8.49",
+   "released": "2026-11-12",
+   "skip": true,
+   "type": "dlc"
   },
   "5398160": {
    "adult": false,
@@ -22967,6 +24472,34 @@
    "name": "One More Piece",
    "price": "£3.67",
    "released": "2026-11-08",
+   "type": "game"
+  },
+  "5403780": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "A first-person party brawler for up to 20 players! Punch rivals out of crumbling arenas or launch them into goals with wacky weapons. Play every mode solo against AI, or invite Steam friends. Multiplayer starts with 2 human players, with AI filling empty slots.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Punch Riot",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "5403800": {
@@ -24020,6 +25553,43 @@
    "released": null,
    "type": "demo"
   },
+  "5454720": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Combine weapon modules, collect relics and spread fire in this rogue-lite horde survivor. Choose your route, complete missions and take down giant bosses, then head back to your truck before the &quot;Seep&quot; engulfs you!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG",
+    "Early Access"
+   ],
+   "name": "Dreadmiles",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5455560": {
    "adult": false,
    "categories": [
@@ -24048,6 +25618,44 @@
    "name": "Command Base Assault",
    "price": "",
    "released": "2026-11-08",
+   "type": "game"
+  },
+  "5455960": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Camera Comfort",
+    "Color Alternatives",
+    "#category_contrast_controls",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [
+    "5520370"
+   ],
+   "desc": "A black-and-white incremental game about one revolving door. Turn it, let people in, and spend the earnings on a bigger door and better blades, until the corner shop's little door is a human pump swallowing the whole city. The goal: admit all of humanity.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Round and Round Inc.",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "5459270": {
@@ -24512,6 +26120,30 @@
    "released": null,
    "type": "game"
   },
+  "5472850": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Custom Volume Controls",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Incremental factory + automation clicker + vending machines + steampunk = Vendilooper. Build a snack empire you can get lost watching. Automate refills, stack machines into towers, and feed trains and rockets to Mars. How many snacks can you vend per minute?",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Vendilooper - original",
+   "price": "£7.29",
+   "released": "2026-11-12",
+   "type": "game"
+  },
   "5473910": {
    "adult": false,
    "categories": [
@@ -24865,6 +26497,44 @@
    "released": "2026-11-10",
    "type": "game"
   },
+  "548430": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Steam Cloud",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Deep Rock Galactic is a 1-4 player co-op FPS featuring dwarven space miners, procedurally-generated destructible environments, and endless hordes of alien monsters. Explore cave systems, mine for minerals, and work together to survive!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action"
+   ],
+   "name": "Deep Rock Galactic",
+   "price": "£24.99",
+   "released": "2020-05-13",
+   "type": "game"
+  },
   "5484400": {
    "adult": false,
    "categories": [
@@ -25156,6 +26826,28 @@
    "released": "2026-11-10",
    "skip": true,
    "type": "dlc"
+  },
+  "5494200": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Discover the joy of learning Chinese: connect characters into words across 30 ink-wash themes, planned to grow to 100. Every word includes pinyin, English meaning, and audio. The interface stays in Chinese for immersion - hover any button for an English tip. Zen Mode or 3-minute Challenge.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Hanzen: A Chinese Word Journey",
+   "price": "£5.35",
+   "released": "2026-11-12",
+   "type": "game"
   },
   "5494940": {
    "adult": false,
@@ -25480,6 +27172,31 @@
    "released": null,
    "type": "game"
   },
+  "5509790": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Destroy exactly one million blocks in this minimalist black-and-white idle clicker. Click or automate, upgrade six endless branches, prestige, evolve, and climb the tier system",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Million Blocks",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5510420": {
    "adult": false,
    "categories": [
@@ -25626,6 +27343,30 @@
    "released": null,
    "skip": true,
    "type": "dlc"
+  },
+  "5536630": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Game demo",
+    "Custom Volume Controls"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "",
+   "free": true,
+   "fullgame": "4026520",
+   "fullgame_name": "Dungeon Idler",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "name": "Dungeon Idler Demo",
+   "price": "",
+   "released": null,
+   "type": "demo"
   },
   "553850": {
    "checked": "2026-11-07",
@@ -26129,6 +27870,48 @@
    "released": "2022-06-20",
    "type": "game"
   },
+  "689540": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Color Alternatives",
+    "#category_contrast_controls",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Gamepad Recommended",
+    "Keyboard Only Option",
+    "Narrated Game Menus",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "HDR available",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Fly a smuggler's run into a swarm of thousands. Every orb you catch is XP and cargo. Stay and the heat brings turrets, then a boss. Call the jump, hold the zone while the drive charges, and bank it all. Die, and you keep a fraction. The music follows how well you fly.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "name": "Endless Reach",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "696850": {
    "adult": false,
    "categories": [
@@ -26197,6 +27980,32 @@
    "name": "Aimlabs",
    "price": "",
    "released": "2023-06-16",
+   "type": "game"
+  },
+  "72850": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "EPIC FANTASY REBORN The next chapter in the highly anticipated Elder Scrolls saga arrives from the makers of the 2006 and 2008 Games of the Year, Bethesda Game Studios. Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG"
+   ],
+   "name": "The Elder Scrolls V: Skyrim",
+   "price": "£9.99",
+   "released": "2011-11-10",
    "type": "game"
   },
   "730": {
@@ -26270,6 +28079,40 @@
    "name": "Tube2K",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "767560": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Full controller support",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Custom Volume Controls",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Surround Sound",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-12",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "War Robots is an online third-person 6v6 PvP shooter—we’re talking dozens of combat robots, hundreds of weapons combinations, and heated clan battles.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Free To Play"
+   ],
+   "name": "War Robots",
+   "price": "",
+   "released": "2018-04-04",
    "type": "game"
   },
   "7940": {
@@ -26748,7 +28591,7 @@
    ],
    [
     "2026-11-12",
-    25634
+    25220
    ]
   ],
   "1211600": [
@@ -26826,7 +28669,7 @@
    ],
    [
     "2026-11-12",
-    23
+    26
    ]
   ],
   "1859550": [
@@ -27000,7 +28843,7 @@
    ],
    [
     "2026-11-12",
-    16
+    28
    ]
   ],
   "2729450": [
@@ -27078,7 +28921,7 @@
    ],
    [
     "2026-11-12",
-    16
+    17
    ]
   ],
   "2944770": [
@@ -27196,7 +29039,7 @@
    ],
    [
     "2026-11-12",
-    13
+    6
    ]
   ],
   "3376710": [
@@ -27212,7 +29055,7 @@
    ],
    [
     "2026-11-12",
-    2
+    5
    ]
   ],
   "3393110": [
@@ -27238,7 +29081,7 @@
    ],
    [
     "2026-11-12",
-    116667
+    152323
    ]
   ],
   "3404030": [
@@ -27322,7 +29165,7 @@
    ],
    [
     "2026-11-12",
-    39
+    79
    ]
   ],
   "3640620": [
@@ -27348,7 +29191,7 @@
    ],
    [
     "2026-11-12",
-    163
+    260
    ]
   ],
   "3681220": [
@@ -27514,7 +29357,7 @@
    ],
    [
     "2026-11-12",
-    15
+    18
    ]
   ],
   "4019220": [
@@ -27540,7 +29383,7 @@
    ],
    [
     "2026-11-12",
-    12534
+    6716
    ]
   ],
   "4035120": [
@@ -27596,7 +29439,13 @@
    ],
    [
     "2026-11-12",
-    16046
+    27939
+   ]
+  ],
+  "4083130": [
+   [
+    "2026-11-12",
+    0
    ]
   ],
   "4099940": [
@@ -27640,7 +29489,7 @@
    ],
    [
     "2026-11-12",
-    108087
+    304812
    ]
   ],
   "4118000": [
@@ -27686,7 +29535,7 @@
    ],
    [
     "2026-11-12",
-    19324
+    30413
    ]
   ],
   "4140210": [
@@ -27780,7 +29629,7 @@
    ],
    [
     "2026-11-12",
-    162512
+    153889
    ]
   ],
   "4289350": [
@@ -27807,6 +29656,12 @@
     0
    ]
   ],
+  "4303280": [
+   [
+    "2026-11-12",
+    0
+   ]
+  ],
   "4307190": [
    [
     "2026-11-08",
@@ -27826,7 +29681,7 @@
    ],
    [
     "2026-11-12",
-    22
+    25
    ]
   ],
   "4307310": [
@@ -27840,7 +29695,7 @@
    ],
    [
     "2026-11-12",
-    19
+    42
    ]
   ],
   "4307740": [
@@ -27866,7 +29721,7 @@
    ],
    [
     "2026-11-12",
-    161
+    135
    ]
   ],
   "4315500": [
@@ -27898,7 +29753,7 @@
    ],
    [
     "2026-11-12",
-    79
+    108
    ]
   ],
   "4331760": [
@@ -27924,7 +29779,7 @@
    ],
    [
     "2026-11-12",
-    405
+    440
    ]
   ],
   "4335460": [
@@ -27946,7 +29801,7 @@
    ],
    [
     "2026-11-12",
-    4
+    3
    ]
   ],
   "4348910": [
@@ -27972,7 +29827,7 @@
    ],
    [
     "2026-11-12",
-    70040
+    128022
    ]
   ],
   "4353760": [
@@ -28016,7 +29871,7 @@
    ],
    [
     "2026-11-12",
-    7
+    11
    ]
   ],
   "4364650": [
@@ -28126,7 +29981,7 @@
    ],
    [
     "2026-11-12",
-    786
+    984
    ]
   ],
   "4426750": [
@@ -28258,7 +30113,7 @@
    ],
    [
     "2026-11-12",
-    219
+    229
    ]
   ],
   "4520130": [
@@ -28284,7 +30139,7 @@
    ],
    [
     "2026-11-12",
-    8
+    2
    ]
   ],
   "4530340": [
@@ -28306,6 +30161,12 @@
   "4541350": [
    [
     "2026-11-09",
+    3
+   ]
+  ],
+  "4545470": [
+   [
+    "2026-11-12",
     3
    ]
   ],
@@ -28444,7 +30305,7 @@
    ],
    [
     "2026-11-12",
-    170
+    488
    ]
   ],
   "4621940": [
@@ -28512,7 +30373,7 @@
    ],
    [
     "2026-11-12",
-    104
+    194
    ]
   ],
   "4637430": [
@@ -28634,7 +30495,13 @@
    ],
    [
     "2026-11-12",
-    58
+    81
+   ]
+  ],
+  "4668320": [
+   [
+    "2026-11-12",
+    8
    ]
   ],
   "4675720": [
@@ -28686,7 +30553,7 @@
    ],
    [
     "2026-11-12",
-    14
+    17
    ]
   ],
   "4684790": [
@@ -28764,7 +30631,7 @@
    ],
    [
     "2026-11-12",
-    8
+    7
    ]
   ],
   "4696920": [
@@ -28994,7 +30861,7 @@
    ],
    [
     "2026-11-12",
-    6
+    4
    ]
   ],
   "4793010": [
@@ -29011,10 +30878,16 @@
     6
    ]
   ],
+  "4793910": [
+   [
+    "2026-11-12",
+    2
+   ]
+  ],
   "4796810": [
    [
     "2026-11-12",
-    20
+    33
    ]
   ],
   "4801990": [
@@ -29068,7 +30941,7 @@
    ],
    [
     "2026-11-12",
-    38
+    39
    ]
   ],
   "4837000": [
@@ -29113,6 +30986,12 @@
     0
    ]
   ],
+  "4859520": [
+   [
+    "2026-11-12",
+    1
+   ]
+  ],
   "4859770": [
    [
     "2026-11-11",
@@ -29139,6 +31018,12 @@
    [
     "2026-11-08",
     42
+   ]
+  ],
+  "4876560": [
+   [
+    "2026-11-12",
+    0
    ]
   ],
   "4878180": [
@@ -29198,7 +31083,7 @@
    ],
    [
     "2026-11-12",
-    347
+    884
    ]
   ],
   "4898190": [
@@ -29277,6 +31162,12 @@
     4
    ]
   ],
+  "4932820": [
+   [
+    "2026-11-12",
+    93
+   ]
+  ],
   "4933320": [
    [
     "2026-11-11",
@@ -29284,7 +31175,7 @@
    ],
    [
     "2026-11-12",
-    10
+    12
    ]
   ],
   "4935280": [
@@ -29345,6 +31236,12 @@
    [
     "2026-11-09",
     0
+   ]
+  ],
+  "4948250": [
+   [
+    "2026-11-12",
+    5
    ]
   ],
   "4949400": [
@@ -29436,7 +31333,7 @@
    ],
    [
     "2026-11-12",
-    12
+    8
    ]
   ],
   "4970630": [
@@ -29449,6 +31346,12 @@
    [
     "2026-11-10",
     0
+   ]
+  ],
+  "4973880": [
+   [
+    "2026-11-12",
+    3
    ]
   ],
   "4976270": [
@@ -29522,7 +31425,7 @@
    ],
    [
     "2026-11-12",
-    29
+    300
    ]
   ],
   "4993270": [
@@ -29535,6 +31438,12 @@
    [
     "2026-11-09",
     0
+   ]
+  ],
+  "4993930": [
+   [
+    "2026-11-12",
+    1
    ]
   ],
   "5005110": [
@@ -29610,7 +31519,7 @@
    ],
    [
     "2026-11-12",
-    91
+    96
    ]
   ],
   "5020720": [
@@ -29670,7 +31579,7 @@
    ],
    [
     "2026-11-12",
-    12
+    34
    ]
   ],
   "5053940": [
@@ -29738,7 +31647,7 @@
    ],
    [
     "2026-11-12",
-    34
+    48
    ]
   ],
   "5061060": [
@@ -29944,7 +31853,7 @@
    ],
    [
     "2026-11-12",
-    3
+    4
    ]
   ],
   "5150150": [
@@ -29970,7 +31879,7 @@
    ],
    [
     "2026-11-12",
-    28
+    27
    ]
   ],
   "5156510": [
@@ -30036,7 +31945,7 @@
   "5172410": [
    [
     "2026-11-12",
-    0
+    2
    ]
   ],
   "5172730": [
@@ -30062,7 +31971,7 @@
    ],
    [
     "2026-11-12",
-    0
+    3
    ]
   ],
   "5173120": [
@@ -30092,7 +32001,7 @@
    ],
    [
     "2026-11-12",
-    44
+    50
    ]
   ],
   "5174600": [
@@ -30206,7 +32115,7 @@
    ],
    [
     "2026-11-12",
-    24
+    34
    ]
   ],
   "5201710": [
@@ -30284,7 +32193,7 @@
    ],
    [
     "2026-11-12",
-    74
+    148
    ]
   ],
   "5217440": [
@@ -30344,7 +32253,7 @@
    ],
    [
     "2026-11-12",
-    10
+    19
    ]
   ],
   "5224010": [
@@ -30370,7 +32279,7 @@
    ],
    [
     "2026-11-12",
-    72
+    397
    ]
   ],
   "5230480": [
@@ -30396,7 +32305,7 @@
    ],
    [
     "2026-11-12",
-    889
+    1167
    ]
   ],
   "5231690": [
@@ -30434,7 +32343,7 @@
    ],
    [
     "2026-11-12",
-    6
+    3
    ]
   ],
   "5245660": [
@@ -30524,7 +32433,7 @@
    ],
    [
     "2026-11-12",
-    19
+    32
    ]
   ],
   "5274910": [
@@ -30537,6 +32446,12 @@
    [
     "2026-11-09",
     0
+   ]
+  ],
+  "5282950": [
+   [
+    "2026-11-12",
+    5
    ]
   ],
   "5285140": [
@@ -30660,7 +32575,7 @@
    ],
    [
     "2026-11-12",
-    14
+    23
    ]
   ],
   "5323250": [
@@ -30736,7 +32651,7 @@
    ],
    [
     "2026-11-12",
-    18739
+    17918
    ]
   ],
   "5337170": [
@@ -30748,7 +32663,7 @@
   "5337870": [
    [
     "2026-11-12",
-    11
+    13
    ]
   ],
   "5338390": [
@@ -30852,7 +32767,7 @@
    ],
    [
     "2026-11-12",
-    8
+    10
    ]
   ],
   "5355880": [
@@ -30878,7 +32793,7 @@
    ],
    [
     "2026-11-12",
-    25
+    30
    ]
   ],
   "5356970": [
@@ -30888,7 +32803,7 @@
    ],
    [
     "2026-11-12",
-    3
+    1
    ]
   ],
   "5363350": [
@@ -30942,7 +32857,7 @@
    ],
    [
     "2026-11-12",
-    4
+    6
    ]
   ],
   "5371810": [
@@ -30990,7 +32905,7 @@
    ],
    [
     "2026-11-12",
-    5965
+    6217
    ]
   ],
   "5375770": [
@@ -31044,7 +32959,7 @@
    ],
    [
     "2026-11-12",
-    19
+    21
    ]
   ],
   "5389200": [
@@ -31072,6 +32987,12 @@
   "5392160": [
    [
     "2026-11-10",
+    0
+   ]
+  ],
+  "5395660": [
+   [
+    "2026-11-12",
     0
    ]
   ],
@@ -31126,7 +33047,7 @@
    ],
    [
     "2026-11-12",
-    181
+    289
    ]
   ],
   "5403380": [
@@ -31196,7 +33117,7 @@
    ],
    [
     "2026-11-12",
-    172
+    175
    ]
   ],
   "5411310": [
@@ -31248,7 +33169,7 @@
    ],
    [
     "2026-11-12",
-    721
+    435
    ]
   ],
   "5423880": [
@@ -31264,7 +33185,7 @@
    ],
    [
     "2026-11-12",
-    4
+    16
    ]
   ],
   "5425210": [
@@ -31463,6 +33384,12 @@
     1
    ]
   ],
+  "5469560": [
+   [
+    "2026-11-12",
+    0
+   ]
+  ],
   "5472000": [
    [
     "2026-11-08",
@@ -31476,7 +33403,7 @@
    ],
    [
     "2026-11-12",
-    214
+    437
    ]
   ],
   "5472270": [
@@ -31493,6 +33420,12 @@
    [
     "2026-11-11",
     0
+   ]
+  ],
+  "5472850": [
+   [
+    "2026-11-12",
+    1
    ]
   ],
   "5473910": [
@@ -31573,6 +33506,12 @@
     0
    ]
   ],
+  "5494200": [
+   [
+    "2026-11-12",
+    0
+   ]
+  ],
   "5496540": [
    [
     "2026-11-11",
@@ -31602,7 +33541,7 @@
    ],
    [
     "2026-11-12",
-    70
+    92
    ]
   ],
   "5498450": [
@@ -31633,6 +33572,12 @@
    [
     "2026-11-11",
     1
+   ]
+  ],
+  "5520370": [
+   [
+    "2026-11-12",
+    39
    ]
   ],
   "696850": [
@@ -32288,7 +34233,7 @@
    ],
    [
     "2026-11-12",
-    98
+    99
    ]
   ],
   "2153760": [
@@ -32340,7 +34285,7 @@
    ],
    [
     "2026-11-12",
-    42
+    41
    ]
   ],
   "2165810": [
@@ -32418,7 +34363,7 @@
    ],
    [
     "2026-11-12",
-    92
+    91
    ]
   ],
   "2231020": [
@@ -32886,7 +34831,7 @@
    ],
    [
     "2026-11-12",
-    41
+    42
    ]
   ],
   "2769570": [
@@ -33286,7 +35231,7 @@
    ],
    [
     "2026-11-12",
-    46
+    47
    ]
   ],
   "3281420": [
@@ -33534,7 +35479,7 @@
    ],
    [
     "2026-11-12",
-    97
+    98
    ]
   ],
   "3669620": [
@@ -34012,7 +35957,7 @@
    ],
    [
     "2026-11-12",
-    91
+    92
    ]
   ],
   "4743930": [
@@ -34126,7 +36071,7 @@
    ],
    [
     "2026-11-12",
-    99
+    97
    ]
   ],
   "5072600": [
