@@ -16578,6 +16578,47 @@
    "released": "2026-11-19",
    "type": "game"
   },
+  "3990350": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Captions available",
+    "Camera Comfort",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Leaderboards",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Arithmetic Arena is a competitive math-challenge game built on the ELO ranking system. Each challenge tests not only your speed and accuracy, but also your ability to stay calm and composed. Confidence and composure will let you truly enjoy the game and find fun in every challenge.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Massively Multiplayer",
+    "Racing",
+    "Strategy"
+   ],
+   "name": "Arithmetic Arena",
+   "price": "",
+   "released": "2026-11-21",
+   "type": "game"
+  },
   "3994800": {
    "adult": false,
    "categories": [
@@ -34335,6 +34376,26 @@
    "released": "2026-11-18",
    "type": "game"
   },
+  "4986680": {
+   "adult": false,
+   "categories": [],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A free financial and reference terminal for your Magic: The Gathering collection built around Secret Lair drops and preconstructed decks. See what you own, what it's worth, and whether it paid off. Local-first: no account, no cloud, your data stays on your PC.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Free To Play",
+    "Accounting",
+    "Utilities"
+   ],
+   "name": "Mana Ledger",
+   "price": "",
+   "released": "2026-11-21",
+   "type": "game"
+  },
   "4987490": {
    "adult": false,
    "categories": [
@@ -36691,6 +36752,38 @@
    "name": "Suspicious Minds: interrogation simulator",
    "price": "£7.27",
    "released": "2026-11-14",
+   "type": "game"
+  },
+  "5049210": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Ignite the spark of inspiration while writing tales in a cozy environment where readers become part of the creative process. Follow stories as they're being written, interact with other authors, shape worlds through your ideas, earn reputation, unlock unique abilities, and get rewarded for your aid.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Spark of Tales",
+   "price": "£4.76",
+   "released": "2026-11-21",
    "type": "game"
   },
   "5051090": {
@@ -45766,6 +45859,35 @@
    "released": "2026-11-11",
    "type": "game"
   },
+  "5305100": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Three tanks. One arriving fish. Read its request, inspect the habitats, and send it to the right home. Build clean placement chains across 50 handcrafted shifts in this colorful pixel art aquarium puzzle game.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual"
+   ],
+   "name": "Wrong Tank!",
+   "price": "£2.15",
+   "released": "2026-11-21",
+   "type": "game"
+  },
   "5305400": {
    "adult": false,
    "categories": [
@@ -48493,6 +48615,31 @@
    "released": null,
    "type": "game"
   },
+  "5371390": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Keyboard Only Option",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Find and Survive the Footage of Lost VHS Tapes that have been uncovered in this adventure. Discover new Puppets and secrets in this Horror/Point and Click Game. The Puppets are up to lots of tricks so make sure you use all the tech given to you to make sure you stay... safe.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "name": "Finnigan's Magical Puppets",
+   "price": "£4.29",
+   "released": "2026-11-21",
+   "type": "game"
+  },
   "5371810": {
    "adult": false,
    "categories": [
@@ -48742,6 +48889,38 @@
    "released": null,
    "skip": true,
    "type": "dlc"
+  },
+  "5374580": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A cozy anime picture puzzle. Piece together 32 hand-finished illustrations with gentle sliding and jigsaw puzzles, collect the whole alphabet from A to Z, and keep every artwork as a wallpaper. Warm music, no timers, no pressure.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual"
+   ],
+   "name": "A to Zen: Cozy Anime Puzzle",
+   "price": "£2.69",
+   "released": "2026-11-21",
+   "type": "game"
   },
   "5374820": {
    "adult": false,
@@ -53761,6 +53940,43 @@
    "released": null,
    "type": "game"
   },
+  "5442160": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Adjustable Text Size",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Touch Only Option",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Sil-More is a tactical turn-based rogue-like role-playing game, fork of Angband and Sil. You're one of the greatest heroes of the First Age and your task is to descend into Angband, the citadel of the Greatest Enemy, and bring back the Great Jewels from the Enemy's crown.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "RPG"
+   ],
+   "name": "Sil-Morë — Shining Darkness",
+   "price": "£4.07",
+   "released": "2026-11-21",
+   "type": "game"
+  },
   "5443080": {
    "adult": false,
    "categories": [
@@ -56402,6 +56618,38 @@
    "name": "The Horror",
    "price": "£4.79",
    "released": "2026-11-09",
+   "type": "game"
+  },
+  "5474720": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Gym Tidy: Re-rack Your Weights is a gym-themed organizing game supporting up to 4 players online. Clean up the fitness space and get some exercise along the way. Some heavy dumbbells cannot be lifted right from the start.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Gym Tidy: Re-rack Your Weights",
+   "price": "£2.15",
+   "released": "2026-11-21",
    "type": "game"
   },
   "5474760": {
@@ -60776,6 +61024,31 @@
    "released": null,
    "type": "game"
   },
+  "5533720": {
+   "adult": true,
+   "categories": [
+    "Single-player",
+    "Downloadable Content",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-21",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Give your desktop a bold new look with this exclusive wallpaper pack for Fuck Everything 👉👌💦. Explore a collection of high-quality artworks inspired by the game’s characters, cheeky atmosphere, and unforgettable moments.",
+   "free": false,
+   "fullgame": "5307180",
+   "fullgame_name": "Fuck Everything 👉👌💦",
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Simulation"
+   ],
+   "name": "Fuck Everything 👉👌💦 - WALLPAPERS🔞",
+   "price": "£1.79",
+   "released": "2026-11-21",
+   "skip": true,
+   "type": "dlc"
+  },
   "5533800": {
    "adult": false,
    "categories": [
@@ -63599,7 +63872,7 @@
    ],
    [
     "2026-11-21",
-    43543
+    37056
    ]
   ],
   "1211600": [
@@ -63737,7 +64010,7 @@
    ],
    [
     "2026-11-21",
-    46
+    30
    ]
   ],
   "1859550": [
@@ -63769,7 +64042,7 @@
   "1871580": [
    [
     "2026-11-21",
-    46
+    60
    ]
   ],
   "1916210": [
@@ -63995,7 +64268,7 @@
    ],
    [
     "2026-11-21",
-    6
+    5
    ]
   ],
   "2474130": [
@@ -64375,7 +64648,7 @@
    ],
    [
     "2026-11-21",
-    60
+    47
    ]
   ],
   "3015660": [
@@ -64585,7 +64858,7 @@
    ],
    [
     "2026-11-21",
-    33
+    38
    ]
   ],
   "3319680": [
@@ -64687,7 +64960,7 @@
    ],
    [
     "2026-11-21",
-    139338
+    115846
    ]
   ],
   "3404030": [
@@ -65259,7 +65532,13 @@
    ],
    [
     "2026-11-21",
-    15
+    28
+   ]
+  ],
+  "3990350": [
+   [
+    "2026-11-21",
+    1
    ]
   ],
   "3994800": [
@@ -65435,7 +65714,7 @@
    ],
    [
     "2026-11-21",
-    55443
+    39918
    ]
   ],
   "4083130": [
@@ -65517,7 +65796,7 @@
    ],
    [
     "2026-11-21",
-    75654
+    30584
    ]
   ],
   "4118000": [
@@ -65615,7 +65894,7 @@
    ],
    [
     "2026-11-21",
-    25
+    29
    ]
   ],
   "4144580": [
@@ -65721,7 +66000,7 @@
    ],
    [
     "2026-11-21",
-    25
+    26
    ]
   ],
   "4230530": [
@@ -65809,7 +66088,7 @@
    ],
    [
     "2026-11-21",
-    490228
+    443553
    ]
   ],
   "4268090": [
@@ -65821,7 +66100,7 @@
   "4288310": [
    [
     "2026-11-21",
-    1
+    0
    ]
   ],
   "4288390": [
@@ -65989,7 +66268,7 @@
    ],
    [
     "2026-11-21",
-    276
+    193
    ]
   ],
   "4314350": [
@@ -66015,7 +66294,7 @@
   "4315700": [
    [
     "2026-11-21",
-    2
+    3
    ]
   ],
   "4325750": [
@@ -66093,7 +66372,7 @@
    ],
    [
     "2026-11-21",
-    9
+    6
    ]
   ],
   "4335460": [
@@ -66207,7 +66486,7 @@
    ],
    [
     "2026-11-21",
-    50211
+    25552
    ]
   ],
   "4352680": [
@@ -66527,7 +66806,7 @@
    ],
    [
     "2026-11-21",
-    861
+    753
    ]
   ],
   "4426410": [
@@ -66653,7 +66932,7 @@
    ],
    [
     "2026-11-21",
-    213
+    170
    ]
   ],
   "4449800": [
@@ -66713,7 +66992,7 @@
    ],
    [
     "2026-11-21",
-    13230
+    6614
    ]
   ],
   "4459600": [
@@ -66731,7 +67010,7 @@
   "4474700": [
    [
     "2026-11-21",
-    2
+    0
    ]
   ],
   "4475300": [
@@ -66919,7 +67198,7 @@
    ],
    [
     "2026-11-21",
-    8
+    2
    ]
   ],
   "4525890": [
@@ -66971,7 +67250,7 @@
    ],
    [
     "2026-11-21",
-    56767
+    44035
    ]
   ],
   "4530570": [
@@ -66981,7 +67260,7 @@
    ],
    [
     "2026-11-21",
-    15
+    20
    ]
   ],
   "4535880": [
@@ -67345,7 +67624,7 @@
    ],
    [
     "2026-11-21",
-    598
+    338
    ]
   ],
   "4601850": [
@@ -67391,7 +67670,7 @@
    ],
    [
     "2026-11-21",
-    0
+    1
    ]
   ],
   "4612760": [
@@ -67573,7 +67852,7 @@
    ],
    [
     "2026-11-21",
-    215
+    159
    ]
   ],
   "4637430": [
@@ -67697,7 +67976,7 @@
    ],
    [
     "2026-11-21",
-    9
+    4
    ]
   ],
   "4654340": [
@@ -67805,7 +68084,7 @@
    ],
    [
     "2026-11-21",
-    80
+    90
    ]
   ],
   "4668320": [
@@ -67885,7 +68164,7 @@
   "4682120": [
    [
     "2026-11-21",
-    1
+    0
    ]
   ],
   "4682230": [
@@ -68021,7 +68300,7 @@
    ],
    [
     "2026-11-21",
-    46
+    24
    ]
   ],
   "4694360": [
@@ -68155,7 +68434,7 @@
    ],
    [
     "2026-11-21",
-    0
+    2
    ]
   ],
   "4726470": [
@@ -68223,7 +68502,7 @@
    ],
    [
     "2026-11-21",
-    17
+    3
    ]
   ],
   "4732110": [
@@ -68573,7 +68852,7 @@
    ],
    [
     "2026-11-21",
-    3
+    5
    ]
   ],
   "4788140": [
@@ -69043,7 +69322,7 @@
    ],
    [
     "2026-11-21",
-    32
+    30
    ]
   ],
   "4883850": [
@@ -69173,7 +69452,7 @@
    ],
    [
     "2026-11-21",
-    804
+    567
    ]
   ],
   "4898190": [
@@ -69261,7 +69540,7 @@
    ],
    [
     "2026-11-21",
-    4
+    1
    ]
   ],
   "4907430": [
@@ -69685,7 +69964,7 @@
    ],
    [
     "2026-11-21",
-    15
+    18
    ]
   ],
   "4965130": [
@@ -69805,7 +70084,7 @@
    ],
    [
     "2026-11-21",
-    4
+    0
    ]
   ],
   "4981930": [
@@ -69857,6 +70136,12 @@
   "4986360": [
    [
     "2026-11-19",
+    0
+   ]
+  ],
+  "4986680": [
+   [
+    "2026-11-21",
     0
    ]
   ],
@@ -70003,7 +70288,7 @@
    ],
    [
     "2026-11-21",
-    116
+    58
    ]
   ],
   "4992410": [
@@ -70454,6 +70739,12 @@
    [
     "2026-11-14",
     0
+   ]
+  ],
+  "5049210": [
+   [
+    "2026-11-21",
+    1
    ]
   ],
   "5049280": [
@@ -71189,7 +71480,7 @@
    ],
    [
     "2026-11-21",
-    52
+    24
    ]
   ],
   "5151320": [
@@ -71561,7 +71852,7 @@
    ],
    [
     "2026-11-21",
-    6277
+    1227
    ]
   ],
   "5175420": [
@@ -71859,7 +72150,7 @@
    ],
    [
     "2026-11-21",
-    27
+    23
    ]
   ],
   "5198250": [
@@ -71989,7 +72280,7 @@
    ],
    [
     "2026-11-21",
-    1922
+    877
    ]
   ],
   "5208740": [
@@ -72193,7 +72484,7 @@
    ],
    [
     "2026-11-21",
-    15
+    13
    ]
   ],
   "5221180": [
@@ -72507,13 +72798,13 @@
    ],
    [
     "2026-11-21",
-    0
+    1
    ]
   ],
   "5256600": [
    [
     "2026-11-21",
-    8
+    7
    ]
   ],
   "5256810": [
@@ -72591,7 +72882,7 @@
    ],
    [
     "2026-11-21",
-    33
+    36
    ]
   ],
   "5267840": [
@@ -72983,7 +73274,7 @@
   "5295160": [
    [
     "2026-11-21",
-    14
+    12
    ]
   ],
   "5296870": [
@@ -73047,6 +73338,12 @@
    ],
    [
     "2026-11-12",
+    0
+   ]
+  ],
+  "5305100": [
+   [
+    "2026-11-21",
     0
    ]
   ],
@@ -73381,7 +73678,7 @@
    ],
    [
     "2026-11-21",
-    0
+    4
    ]
   ],
   "5333130": [
@@ -73479,7 +73776,7 @@
    ],
    [
     "2026-11-21",
-    22304
+    21712
    ]
   ],
   "5336540": [
@@ -73601,7 +73898,7 @@
    ],
    [
     "2026-11-21",
-    14
+    7
    ]
   ],
   "5339970": [
@@ -73643,7 +73940,7 @@
    ],
    [
     "2026-11-21",
-    106
+    86
    ]
   ],
   "5345780": [
@@ -73801,7 +74098,7 @@
    ],
    [
     "2026-11-21",
-    28
+    17
    ]
   ],
   "5355990": [
@@ -73875,7 +74172,7 @@
    ],
    [
     "2026-11-21",
-    120
+    143
    ]
   ],
   "5358610": [
@@ -73887,7 +74184,7 @@
   "5359980": [
    [
     "2026-11-21",
-    5
+    4
    ]
   ],
   "5360670": [
@@ -73899,7 +74196,7 @@
   "5361390": [
    [
     "2026-11-21",
-    3
+    7
    ]
   ],
   "5362590": [
@@ -74060,6 +74357,12 @@
     0
    ]
   ],
+  "5371390": [
+   [
+    "2026-11-21",
+    0
+   ]
+  ],
   "5371810": [
    [
     "2026-11-08",
@@ -74093,7 +74396,7 @@
    ],
    [
     "2026-11-21",
-    14
+    10
    ]
   ],
   "5373260": [
@@ -74168,6 +74471,12 @@
     0
    ]
   ],
+  "5374580": [
+   [
+    "2026-11-21",
+    0
+   ]
+  ],
   "5375310": [
    [
     "2026-11-16",
@@ -74207,7 +74516,7 @@
    ],
    [
     "2026-11-21",
-    12
+    18
    ]
   ],
   "5379520": [
@@ -74671,7 +74980,7 @@
    ],
    [
     "2026-11-21",
-    4
+    1
    ]
   ],
   "5404940": [
@@ -74761,7 +75070,7 @@
    ],
    [
     "2026-11-21",
-    37
+    42
    ]
   ],
   "5408770": [
@@ -74801,7 +75110,7 @@
    ],
    [
     "2026-11-21",
-    261
+    283
    ]
   ],
   "5412000": [
@@ -74929,7 +75238,7 @@
    ],
    [
     "2026-11-21",
-    30
+    24
    ]
   ],
   "5422560": [
@@ -75184,6 +75493,12 @@
     0
    ]
   ],
+  "5442160": [
+   [
+    "2026-11-21",
+    2
+   ]
+  ],
   "5443080": [
    [
     "2026-11-15",
@@ -75219,7 +75534,7 @@
   "5445330": [
    [
     "2026-11-21",
-    0
+    1
    ]
   ],
   "5445850": [
@@ -75635,7 +75950,7 @@
    ],
    [
     "2026-11-21",
-    2265
+    1567
    ]
   ],
   "5471970": [
@@ -75693,7 +76008,7 @@
    ],
    [
     "2026-11-21",
-    568
+    425
    ]
   ],
   "5472130": [
@@ -75760,6 +76075,12 @@
     1
    ]
   ],
+  "5474720": [
+   [
+    "2026-11-21",
+    1
+   ]
+  ],
   "5474760": [
    [
     "2026-11-18",
@@ -75805,7 +76126,7 @@
    ],
    [
     "2026-11-21",
-    4
+    3
    ]
   ],
   "5480320": [
@@ -76459,7 +76780,7 @@
    ],
    [
     "2026-11-21",
-    459
+    285
    ]
   ],
   "5533990": [
@@ -76547,7 +76868,7 @@
    ],
    [
     "2026-11-21",
-    822
+    744
    ]
   ],
   "5541800": [
@@ -79233,7 +79554,7 @@
    ],
    [
     "2026-11-21",
-    30
+    31
    ]
   ],
   "2692660": [
@@ -82267,7 +82588,7 @@
    ],
    [
     "2026-11-21",
-    31
+    30
    ]
   ]
  }
