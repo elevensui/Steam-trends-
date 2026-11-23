@@ -1127,6 +1127,34 @@
    "released": "2020-10-22",
    "type": "game"
   },
+  "1238840": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "HDR available"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Battlefield™ 1 takes you back to The Great War, WW1, where new technology and worldwide conflict changed the face of warfare forever.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Massively Multiplayer"
+   ],
+   "name": "Battlefield™ 1",
+   "price": "£1.74",
+   "released": "2020-06-11",
+   "type": "game"
+  },
   "1240440": {
    "checked": "2026-11-07",
    "desc": "From one of gaming's most iconic sagas, Halo is bigger than ever. Featuring an expansive open-world campaign and a dynamic free to play multiplayer experience. ",
@@ -1688,9 +1716,11 @@
     "Steam Cloud",
     "Family Sharing"
    ],
-   "checked": "2026-11-13",
-   "coming_soon": true,
-   "demo_ids": [],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [
+    "5563410"
+   ],
    "desc": "A turn-based, tile-by-tile tactical RPG in pixel art. Randomized loot in five rarities, gear that shows on your hero, generated dungeons, spreading fire. And a living village where the children sing at vespers. Several endings.",
    "free": false,
    "fullgame": "",
@@ -1702,8 +1732,8 @@
     "RPG"
    ],
    "name": "ZULMARASH: Echoes of Zaltar",
-   "price": "",
-   "released": null,
+   "price": "£7.94",
+   "released": "2026-11-22",
    "type": "game"
   },
   "1422450": {
@@ -18405,7 +18435,7 @@
     "Steam Cloud",
     "Family Sharing"
    ],
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "coming_soon": true,
    "demo_ids": [
     "4882390"
@@ -20182,9 +20212,11 @@
     "Single-player",
     "Family Sharing"
    ],
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "coming_soon": true,
-   "demo_ids": [],
+   "demo_ids": [
+    "4791300"
+   ],
    "desc": "You are a lone space customs officer. Every day, spaceships from different galaxies fly past your tiny asteroid. Tourists, truckers, travelers... Bad news: There are terrorists among them. If you miss even one, your home planet will explode. Good news: You carry a shotgun!",
    "free": false,
    "fullgame": "",
@@ -21048,7 +21080,7 @@
     "Online Co-op",
     "Family Sharing"
    ],
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "coming_soon": true,
    "demo_ids": [],
    "desc": "Zombie Apocalypse On A Boat. You’re stranded on a boat during a zombie outbreak in the beautiful San Juan islands of Washington State. How will you survive an open-world archipelago, where the living are just as much of a threat as the dead?",
@@ -22425,6 +22457,43 @@
    "name": "PICK A BOO",
    "price": "£5.83",
    "released": "2026-11-08",
+   "type": "game"
+  },
+  "4463480": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Steam Cloud",
+    "Stats",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [
+    "4764740"
+   ],
+   "desc": "ArcaneBound is a pixel-art bullet heaven action RPG. Collect familiars, defeat hordes of monsters, gather rare cards, level up, and create increasingly devastating builds.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+   ],
+   "name": "ArcaneBound",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "4463520": {
@@ -25693,7 +25762,7 @@
     "Stereo Sound",
     "Family Sharing"
    ],
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "coming_soon": true,
    "demo_ids": [],
    "desc": "Manage and supervise the Good Mourning™ Funeral Home in 2-4 player co-op. Grieving families need your attention: prepare bodies for their final viewing, deliver a passionate eulogy, and steal a couple limbs along the way. Dinner has to come from somewhere.",
@@ -28911,6 +28980,37 @@
    "released": "2026-11-12",
    "type": "game"
   },
+  "4790660": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Dig sand with a shovel and process into iron, silicon and more. Craft and merge better tools and machines to build solar panels to power them. Research new machines to automate everything in multi-story factories. Play alone or with friends to survive in the desert and turn it into a solar farm.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Adventure",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "Moose Builders",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "4790930": {
    "adult": true,
    "categories": [
@@ -30066,6 +30166,36 @@
    "name": "Ravenhill: Initiation",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "4845700": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Adjustable Text Size",
+    "Adjustable Difficulty",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The definitive, first-of-its-kind American football league management sim. Take control of the newest spring football league by customizing the structure, teams, ticket prices, salaries, and more. Sim games week by week to grow your league from a startup into a thriving sports empire.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Simulation",
+    "Sports",
+    "Strategy"
+   ],
+   "name": "Football Commissioner",
+   "price": "£8.49",
+   "released": "2026-11-22",
    "type": "game"
   },
   "4847660": {
@@ -32125,6 +32255,34 @@
    "released": "2026-11-08",
    "type": "game"
   },
+  "4920640": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Full controller support",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A group of young adventurers set out to dispel the darkness lurking within people’s hearts. A nostalgic 3D fantasy RPG inspired by the atmosphere of early‑2000s games.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "RPG",
+    "Free To Play"
+   ],
+   "name": "プレア・チェスト",
+   "price": "",
+   "released": "2026-11-22",
+   "type": "game"
+  },
   "4921660": {
    "adult": false,
    "categories": [
@@ -32802,6 +32960,33 @@
     "Early Access"
    ],
    "name": "Kachow Kart Racing",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
+  "4940860": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [
+    "5056350"
+   ],
+   "desc": "Throw dices. That's just it. You click, and throw dices, a bunch of them in fact. Score as much as you can doing suites, pairs and more, earn golds, buy dices, throw more. ",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Early Access"
+   ],
+   "name": "Dice",
    "price": "",
    "released": null,
    "type": "game"
@@ -33556,14 +33741,14 @@
     "Online PvP",
     "Co-op",
     "Online Co-op",
-    "Full controller support",
     "DualShock Controller Support",
     "DualShock Controller Support",
     "DualSense Controller Support",
     "DualSense Controller Support",
+    "Partial Controller Support",
     "Family Sharing"
    ],
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "coming_soon": true,
    "demo_ids": [],
    "desc": "One of you is the cop. The rest are panicked suspects. Hide the body, clean up the evidence, don’t rat each other out, and get rid of everything before your cop friend knocks on the door. There is only one rule: if the body is found, you’re all done for.",
@@ -36493,6 +36678,36 @@
    "released": null,
    "skip": true,
    "type": "dlc"
+  },
+  "5026590": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [
+    "5307450"
+   ],
+   "desc": "You left your job for a relaxed farm life, but you can’t stop scrolling. Plant, water and harvest crops, chase rare mutations and hire goblin companions. Resist the urge to check your phone, grow your focus, and turn a humble plot into a goblin farming empire.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Goblin Island",
+   "price": "",
+   "released": null,
+   "type": "game"
   },
   "5027500": {
    "adult": false,
@@ -44239,6 +44454,35 @@
    "released": "2026-11-12",
    "type": "game"
   },
+  "5239830": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Fight zombies, scavenge cities, explore the wild, hunt, craft and build a base in a world that is new every game. Start with nothing and survive with up to 3 friends. Every seventh night, the Blood Moon brings the horde to your walls.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Early Access"
+   ],
+   "name": "Zombie Apocalypse Together",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5240500": {
    "adult": false,
    "categories": [
@@ -46805,6 +47049,32 @@
    "name": "Little Supermarket",
    "price": "£3.83",
    "released": "2026-11-07",
+   "type": "game"
+  },
+  "5308970": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Steam Leaderboards",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "The MSX classic evolves into LotLotLotLot! Race the clock, trigger Fever Mode, double your score with diamonds, and rotate the entire field! Music by Yuriko Keino (Xevious, Dig Dug). Includes the original and a lightly remixed version. Celebrating 30 years of VIDEO GAME CLASSIC!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Lot Lot Lot Lot",
+   "price": "£6.56",
+   "released": "2026-11-22",
    "type": "game"
   },
   "5309380": {
@@ -50719,6 +50989,35 @@
    "released": "2026-11-20",
    "type": "game"
   },
+  "5388370": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Gamepad Recommended",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Partial Controller Support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A fast-paced action game with a taste for lowbrow sexuality. No puzzles. No complicated progression. Just you, your enemies, and a little bit of strategy. Use your surroundings, outsmart your enemies, and find your own way to take them down. Simple, shameless, and unapologetically trashy.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Femme Fury(Pure Classic Simple Action Game)",
+   "price": "£8.90",
+   "released": "2026-11-22",
+   "type": "game"
+  },
   "5389200": {
    "adult": false,
    "categories": [
@@ -50877,6 +51176,28 @@
    "name": "Can You Candle it?",
    "price": "£4.19",
    "released": "2026-11-16",
+   "type": "game"
+  },
+  "5390670": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "&quot;Deeper...&quot; is a short game about an obsessed diver. Diving accumulates DEEP, which you can spend to enhance your next dive. Your wife will faithfully wait and assist you but how long will you keep her worrying?",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Indie",
+    "Free To Play"
+   ],
+   "name": "Deeper...",
+   "price": "",
+   "released": "2026-11-22",
    "type": "game"
   },
   "5391250": {
@@ -54131,6 +54452,32 @@
    "name": "Dungeon Escape 3",
    "price": "£6.49",
    "released": "2026-11-10",
+   "type": "game"
+  },
+  "5425700": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Potted plants that live on your Windows desktop. They grow over days and weeks, droop when you forget them, and flower if you keep watering. Double-click a plant to water it.",
+   "free": true,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Free To Play"
+   ],
+   "name": "Bouture",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "5426350": {
@@ -57905,6 +58252,38 @@
    "released": "2026-11-18",
    "type": "game"
   },
+  "5475700": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Recess at a 2000s Korean elementary school, five gonggi stones on your desk. Scatter, toss, pick up and catch with the hand you move with the mouse. Play your seatmate or a Steam friend for wrist flicks, or climb Grades 1 to 6. Between rounds, touch 140+ things around school and play with friends.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Early Access"
+   ],
+   "name": "Gonggi: Recess",
+   "price": "",
+   "released": null,
+   "type": "game"
+  },
   "5476120": {
    "adult": false,
    "categories": [
@@ -59894,6 +60273,32 @@
    "released": "2026-11-11",
    "type": "game"
   },
+  "5498600": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [
+    "5664640"
+   ],
+   "desc": "Kill birds, get paid, then buy stuff to kill more birds, get paid more, then buy even more stuff to kill even more birds... you get the idea. Clicker / idler / incremental entertainment for the whole family (or just you, we don't judge).",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "2 birds 1 stone",
+   "price": "£2.28",
+   "released": "2026-11-22",
+   "type": "game"
+  },
   "5499270": {
    "adult": false,
    "categories": [
@@ -60712,6 +61117,52 @@
    "name": "Slots of Chaos: Melee Arena",
    "price": "£5.69",
    "released": "2026-11-21",
+   "type": "game"
+  },
+  "5507320": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Color Alternatives",
+    "#category_contrast_controls",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Input API Support",
+    "Touch Only Option",
+    "Stats",
+    "Remote Play Together",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Command the siege or lead a royal escape in Ancient Moves: Hnefatafl, a Viking strategy board game. Capture the king with 24 attackers or break through with 12 defenders and their king. Play solo against four AI difficulty levels or challenge a friend on the same device or online.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "name": "Ancient Moves: Hnefatafl (Viking Chess)",
+   "price": "£3.77",
+   "released": "2026-11-22",
    "type": "game"
   },
   "5507480": {
@@ -61558,6 +62009,31 @@
    "released": "2026-11-16",
    "type": "game"
   },
+  "5519340": {
+   "adult": false,
+   "categories": [
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "A cooperative puzzle platformer for 1 to 4 players who share the controls of a single cow. Split the keys, time synced jumps, clear wacky obstacles, and find meme dances hidden behind secret NPCs!",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "name": "Jumping Cow",
+   "price": "£3.89",
+   "released": "2026-11-22",
+   "type": "game"
+  },
   "5519390": {
    "adult": false,
    "categories": [
@@ -61718,6 +62194,41 @@
    "name": "バロック商人 ～ バッハの残響",
    "price": "",
    "released": null,
+   "type": "game"
+  },
+  "5521500": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Shared/Split Screen PvP",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Touch Only Option",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "9 classic board games in one collection: Chess, Backgammon, Connect titles, Checkers, Dominoes, sink the fleet, Monopolization, Parchis and Snakes and Ladders. Play against the machine, hot-seat locally or online with friends over Steam.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual"
+   ],
+   "name": "Board Game Collection: Family Classics",
+   "price": "£1.69",
+   "released": "2026-11-22",
    "type": "game"
   },
   "5523300": {
@@ -63293,6 +63804,31 @@
    "released": null,
    "type": "demo"
   },
+  "5546670": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": false,
+   "demo_ids": [],
+   "desc": "Drop one card onto another and watch a 13th-century kingdom grow. Gather, build and raise your people, survive the seasons and hostile neighbors, then win by conquering their capitals or completing a grand cathedral.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "name": "StackProsper",
+   "price": "£8.19",
+   "released": "2026-11-22",
+   "type": "game"
+  },
   "5547250": {
    "adult": false,
    "categories": [
@@ -63385,6 +63921,36 @@
    "name": "RETROPULSE Christmas",
    "price": "£1.43",
    "released": "2026-11-18",
+   "type": "game"
+  },
+  "5548320": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [],
+   "desc": "Clean up after the party in this cozy first-person co-op game! Put every item back where it belongs, scrub away the stains, toss the trash and play satisfying mini-games – solo or with a friend, online or split-screen – before Mom gets home.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "name": "Party Home: Tidy Up Together",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "5549470": {
@@ -63737,6 +64303,33 @@
    "name": "Midnight Shift 2: Last Rental",
    "price": "£2.39",
    "released": "2026-11-22",
+   "type": "game"
+  },
+  "5561120": {
+   "adult": false,
+   "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+   ],
+   "checked": "2026-11-23",
+   "coming_soon": true,
+   "demo_ids": [
+    "5581970"
+   ],
+   "desc": "A pixel-art auto-battler. You get one save file. If your party wipes, it's deleted and you start over. Not quite from zero though cause the Scrolls you earned stay, and they make every new file stronger. Grow a party of six. Use their abilities. Fight against 36 bosses.",
+   "free": false,
+   "fullgame": "",
+   "fullgame_name": "",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie"
+   ],
+   "name": "Single File",
+   "price": "",
+   "released": null,
    "type": "game"
   },
   "5564710": {
@@ -65433,10 +66026,6 @@
   ],
   "1203620": [
    [
-    "2026-11-09",
-    52161
-   ],
-   [
     "2026-11-10",
     40089
    ],
@@ -65487,6 +66076,10 @@
    [
     "2026-11-22",
     31312
+   ],
+   [
+    "2026-11-23",
+    16746
    ]
   ],
   "1211600": [
@@ -65498,6 +66091,12 @@
   "1331880": [
    [
     "2026-11-17",
+    0
+   ]
+  ],
+  "1419970": [
+   [
+    "2026-11-23",
     0
    ]
   ],
@@ -65571,10 +66170,6 @@
   ],
   "1811180": [
    [
-    "2026-11-09",
-    26
-   ],
-   [
     "2026-11-10",
     20
    ],
@@ -65625,6 +66220,10 @@
    [
     "2026-11-22",
     27
+   ],
+   [
+    "2026-11-23",
+    35
    ]
   ],
   "1859550": [
@@ -65661,6 +66260,10 @@
    [
     "2026-11-22",
     71
+   ],
+   [
+    "2026-11-23",
+    52
    ]
   ],
   "1916210": [
@@ -65823,10 +66426,6 @@
   ],
   "2443020": [
    [
-    "2026-11-09",
-    3
-   ],
-   [
     "2026-11-10",
     2
    ],
@@ -65877,6 +66476,10 @@
    [
     "2026-11-22",
     4
+   ],
+   [
+    "2026-11-23",
+    3
    ]
   ],
   "2472580": [
@@ -65891,6 +66494,10 @@
    [
     "2026-11-22",
     7
+   ],
+   [
+    "2026-11-23",
+    3
    ]
   ],
   "2474130": [
@@ -66281,6 +66888,10 @@
    [
     "2026-11-22",
     43
+   ],
+   [
+    "2026-11-23",
+    33
    ]
   ],
   "3015660": [
@@ -66495,6 +67106,10 @@
    [
     "2026-11-22",
     47
+   ],
+   [
+    "2026-11-23",
+    24
    ]
   ],
   "3319680": [
@@ -66549,10 +67164,6 @@
   ],
   "3393110": [
    [
-    "2026-11-09",
-    176074
-   ],
-   [
     "2026-11-10",
     147999
    ],
@@ -66603,6 +67214,10 @@
    [
     "2026-11-22",
     102322
+   ],
+   [
+    "2026-11-23",
+    87847
    ]
   ],
   "3404030": [
@@ -67185,6 +67800,10 @@
    [
     "2026-11-22",
     37
+   ],
+   [
+    "2026-11-23",
+    25
    ]
   ],
   "3990350": [
@@ -67317,10 +67936,6 @@
   ],
   "4080220": [
    [
-    "2026-11-09",
-    50270
-   ],
-   [
     "2026-11-10",
     36588
    ],
@@ -67371,6 +67986,10 @@
    [
     "2026-11-22",
     30908
+   ],
+   [
+    "2026-11-23",
+    16751
    ]
   ],
   "4083130": [
@@ -67398,10 +68017,6 @@
    ]
   ],
   "4115450": [
-   [
-    "2026-11-09",
-    87653
-   ],
    [
     "2026-11-10",
     49081
@@ -67453,6 +68068,10 @@
    [
     "2026-11-22",
     24460
+   ],
+   [
+    "2026-11-23",
+    62977
    ]
   ],
   "4118000": [
@@ -67555,6 +68174,10 @@
    [
     "2026-11-22",
     72
+   ],
+   [
+    "2026-11-23",
+    55
    ]
   ],
   "4144580": [
@@ -67665,6 +68288,10 @@
    [
     "2026-11-22",
     38
+   ],
+   [
+    "2026-11-23",
+    60
    ]
   ],
   "4230530": [
@@ -67698,10 +68325,6 @@
    ]
   ],
   "4262460": [
-   [
-    "2026-11-09",
-    147225
-   ],
    [
     "2026-11-10",
     189757
@@ -67753,6 +68376,10 @@
    [
     "2026-11-22",
     353397
+   ],
+   [
+    "2026-11-23",
+    194447
    ]
   ],
   "4268090": [
@@ -67889,10 +68516,6 @@
   ],
   "4307740": [
    [
-    "2026-11-09",
-    385
-   ],
-   [
     "2026-11-10",
     301
    ],
@@ -67943,6 +68566,10 @@
    [
     "2026-11-22",
     176
+   ],
+   [
+    "2026-11-23",
+    76
    ]
   ],
   "4314350": [
@@ -68055,6 +68682,10 @@
    [
     "2026-11-22",
     9
+   ],
+   [
+    "2026-11-23",
+    6
    ]
   ],
   "4335460": [
@@ -68115,10 +68746,6 @@
   ],
   "4348910": [
    [
-    "2026-11-09",
-    59398
-   ],
-   [
     "2026-11-10",
     39571
    ],
@@ -68169,6 +68796,10 @@
    [
     "2026-11-22",
     21433
+   ],
+   [
+    "2026-11-23",
+    46143
    ]
   ],
   "4352680": [
@@ -68441,10 +69072,6 @@
   ],
   "4425970": [
    [
-    "2026-11-09",
-    965
-   ],
-   [
     "2026-11-10",
     922
    ],
@@ -68495,6 +69122,10 @@
    [
     "2026-11-22",
     643
+   ],
+   [
+    "2026-11-23",
+    610
    ]
   ],
   "4426410": [
@@ -68625,6 +69256,10 @@
    [
     "2026-11-22",
     161
+   ],
+   [
+    "2026-11-23",
+    426
    ]
   ],
   "4449800": [
@@ -68689,6 +69324,10 @@
    [
     "2026-11-22",
     5839
+   ],
+   [
+    "2026-11-23",
+    16164
    ]
   ],
   "4459600": [
@@ -68711,6 +69350,10 @@
    [
     "2026-11-22",
     0
+   ],
+   [
+    "2026-11-23",
+    2
    ]
   ],
   "4475300": [
@@ -68845,10 +69488,6 @@
   ],
   "4520130": [
    [
-    "2026-11-09",
-    10
-   ],
-   [
     "2026-11-10",
     3
    ],
@@ -68899,6 +69538,10 @@
    [
     "2026-11-22",
     5
+   ],
+   [
+    "2026-11-23",
+    1
    ]
   ],
   "4525890": [
@@ -68955,6 +69598,10 @@
    [
     "2026-11-22",
     33453
+   ],
+   [
+    "2026-11-23",
+    20464
    ]
   ],
   "4530570": [
@@ -68969,6 +69616,10 @@
    [
     "2026-11-22",
     14
+   ],
+   [
+    "2026-11-23",
+    7
    ]
   ],
   "4535880": [
@@ -69337,6 +69988,10 @@
    [
     "2026-11-22",
     378
+   ],
+   [
+    "2026-11-23",
+    308
    ]
   ],
   "4601850": [
@@ -69519,10 +70174,6 @@
   ],
   "4635640": [
    [
-    "2026-11-09",
-    258
-   ],
-   [
     "2026-11-10",
     167
    ],
@@ -69573,6 +70224,10 @@
    [
     "2026-11-22",
     101
+   ],
+   [
+    "2026-11-23",
+    77
    ]
   ],
   "4637430": [
@@ -69701,6 +70356,10 @@
    [
     "2026-11-22",
     6
+   ],
+   [
+    "2026-11-23",
+    1
    ]
   ],
   "4654340": [
@@ -69761,10 +70420,6 @@
   ],
   "4668060": [
    [
-    "2026-11-09",
-    86
-   ],
-   [
     "2026-11-10",
     68
    ],
@@ -69815,6 +70470,10 @@
    [
     "2026-11-22",
     117
+   ],
+   [
+    "2026-11-23",
+    73
    ]
   ],
   "4668320": [
@@ -69867,11 +70526,19 @@
    [
     "2026-11-22",
     16
+   ],
+   [
+    "2026-11-23",
+    9
    ]
   ],
   "4674470": [
    [
     "2026-11-22",
+    0
+   ],
+   [
+    "2026-11-23",
     0
    ]
   ],
@@ -70055,6 +70722,10 @@
    [
     "2026-11-22",
     24
+   ],
+   [
+    "2026-11-23",
+    10
    ]
   ],
   "4694360": [
@@ -70197,6 +70868,10 @@
    [
     "2026-11-22",
     7
+   ],
+   [
+    "2026-11-23",
+    9
    ]
   ],
   "4726470": [
@@ -70269,6 +70944,10 @@
    [
     "2026-11-22",
     7
+   ],
+   [
+    "2026-11-23",
+    10
    ]
   ],
   "4732110": [
@@ -70423,6 +71102,10 @@
    [
     "2026-11-22",
     3
+   ],
+   [
+    "2026-11-23",
+    4
    ]
   ],
   "4762480": [
@@ -70445,6 +71128,12 @@
    [
     "2026-11-18",
     1
+   ]
+  ],
+  "4764740": [
+   [
+    "2026-11-23",
+    7
    ]
   ],
   "4768630": [
@@ -70523,6 +71212,10 @@
    [
     "2026-11-22",
     0
+   ],
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "4777940": [
@@ -70577,10 +71270,6 @@
   ],
   "4787870": [
    [
-    "2026-11-09",
-    7
-   ],
-   [
     "2026-11-10",
     4
    ],
@@ -70631,6 +71320,10 @@
    [
     "2026-11-22",
     0
+   ],
+   [
+    "2026-11-23",
+    2
    ]
   ],
   "4788140": [
@@ -70667,6 +71360,12 @@
    [
     "2026-11-13",
     0
+   ]
+  ],
+  "4791300": [
+   [
+    "2026-11-23",
+    31
    ]
   ],
   "4792690": [
@@ -70772,6 +71471,10 @@
    ],
    [
     "2026-11-22",
+    1
+   ],
+   [
+    "2026-11-23",
     1
    ]
   ],
@@ -70905,6 +71608,12 @@
    [
     "2026-11-15",
     2
+   ]
+  ],
+  "4845700": [
+   [
+    "2026-11-23",
+    1
    ]
   ],
   "4846720": [
@@ -71115,6 +71824,10 @@
    [
     "2026-11-22",
     70
+   ],
+   [
+    "2026-11-23",
+    29
    ]
   ],
   "4883850": [
@@ -71191,10 +71904,6 @@
   ],
   "4895870": [
    [
-    "2026-11-09",
-    444
-   ],
-   [
     "2026-11-10",
     312
    ],
@@ -71245,6 +71954,10 @@
    [
     "2026-11-22",
     439
+   ],
+   [
+    "2026-11-23",
+    479
    ]
   ],
   "4898190": [
@@ -71337,6 +72050,10 @@
    [
     "2026-11-22",
     4
+   ],
+   [
+    "2026-11-23",
+    4
    ]
   ],
   "4907430": [
@@ -71399,11 +72116,21 @@
    [
     "2026-11-22",
     33
+   ],
+   [
+    "2026-11-23",
+    28
    ]
   ],
   "4920280": [
    [
     "2026-11-09",
+    4
+   ]
+  ],
+  "4920640": [
+   [
+    "2026-11-23",
     4
    ]
   ],
@@ -71777,6 +72504,10 @@
    [
     "2026-11-22",
     37
+   ],
+   [
+    "2026-11-23",
+    17
    ]
   ],
   "4965130": [
@@ -71901,6 +72632,10 @@
    [
     "2026-11-22",
     7
+   ],
+   [
+    "2026-11-23",
+    6
    ]
   ],
   "4981930": [
@@ -72055,10 +72790,6 @@
   ],
   "4992280": [
    [
-    "2026-11-09",
-    68
-   ],
-   [
     "2026-11-10",
     38
    ],
@@ -72109,6 +72840,10 @@
    [
     "2026-11-22",
     64
+   ],
+   [
+    "2026-11-23",
+    69
    ]
   ],
   "4992410": [
@@ -72653,6 +73388,12 @@
     137
    ]
   ],
+  "5056350": [
+   [
+    "2026-11-23",
+    0
+   ]
+  ],
   "5056840": [
    [
     "2026-11-12",
@@ -72897,6 +73638,10 @@
    [
     "2026-11-22",
     8
+   ],
+   [
+    "2026-11-23",
+    7
    ]
   ],
   "5089460": [
@@ -72988,6 +73733,10 @@
   "5099100": [
    [
     "2026-11-22",
+    0
+   ],
+   [
+    "2026-11-23",
     0
    ]
   ],
@@ -73132,6 +73881,10 @@
   "5116830": [
    [
     "2026-11-22",
+    0
+   ],
+   [
+    "2026-11-23",
     0
    ]
   ],
@@ -73357,6 +74110,10 @@
    [
     "2026-11-22",
     49
+   ],
+   [
+    "2026-11-23",
+    25
    ]
   ],
   "5151320": [
@@ -73733,6 +74490,10 @@
    [
     "2026-11-22",
     749
+   ],
+   [
+    "2026-11-23",
+    3530
    ]
   ],
   "5175420": [
@@ -74051,6 +74812,10 @@
    [
     "2026-11-22",
     13
+   ],
+   [
+    "2026-11-23",
+    47
    ]
   ],
   "5198250": [
@@ -74185,6 +74950,10 @@
    [
     "2026-11-22",
     496
+   ],
+   [
+    "2026-11-23",
+    430
    ]
   ],
   "5208650": [
@@ -74343,13 +75112,13 @@
    [
     "2026-11-22",
     0
+   ],
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "5220900": [
-   [
-    "2026-11-09",
-    29
-   ],
    [
     "2026-11-10",
     6
@@ -74401,6 +75170,10 @@
    [
     "2026-11-22",
     8
+   ],
+   [
+    "2026-11-23",
+    6
    ]
   ],
   "5221180": [
@@ -74811,6 +75584,10 @@
    [
     "2026-11-22",
     32
+   ],
+   [
+    "2026-11-23",
+    15
    ]
   ],
   "5267840": [
@@ -75213,6 +75990,10 @@
    [
     "2026-11-22",
     14
+   ],
+   [
+    "2026-11-23",
+    10
    ]
   ],
   "5296870": [
@@ -75309,6 +76090,10 @@
    [
     "2026-11-22",
     7
+   ],
+   [
+    "2026-11-23",
+    2
    ]
   ],
   "5306210": [
@@ -75321,6 +76106,12 @@
    [
     "2026-11-21",
     2
+   ]
+  ],
+  "5307450": [
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "5307630": [
@@ -75351,6 +76142,12 @@
    [
     "2026-11-08",
     0
+   ]
+  ],
+  "5308970": [
+   [
+    "2026-11-23",
+    2
    ]
   ],
   "5311120": [
@@ -75587,6 +76384,10 @@
    [
     "2026-11-22",
     0
+   ],
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "5329860": [
@@ -75637,6 +76438,10 @@
    [
     "2026-11-22",
     0
+   ],
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "5333130": [
@@ -75680,10 +76485,6 @@
    ]
   ],
   "5335510": [
-   [
-    "2026-11-09",
-    37854
-   ],
    [
     "2026-11-10",
     29303
@@ -75735,6 +76536,10 @@
    [
     "2026-11-22",
     18732
+   ],
+   [
+    "2026-11-23",
+    12734
    ]
   ],
   "5336540": [
@@ -75758,6 +76563,10 @@
   "5337610": [
    [
     "2026-11-22",
+    0
+   ],
+   [
+    "2026-11-23",
     0
    ]
   ],
@@ -75867,6 +76676,10 @@
    [
     "2026-11-22",
     32
+   ],
+   [
+    "2026-11-23",
+    22
    ]
   ],
   "5339970": [
@@ -75913,6 +76726,10 @@
    [
     "2026-11-22",
     87
+   ],
+   [
+    "2026-11-23",
+    92
    ]
   ],
   "5345780": [
@@ -75991,6 +76808,10 @@
    [
     "2026-11-22",
     0
+   ],
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "5353400": [
@@ -76028,10 +76849,6 @@
    ]
   ],
   "5355880": [
-   [
-    "2026-11-09",
-    38
-   ],
    [
     "2026-11-10",
     37
@@ -76083,6 +76900,10 @@
    [
     "2026-11-22",
     17
+   ],
+   [
+    "2026-11-23",
+    16
    ]
   ],
   "5355990": [
@@ -76161,6 +76982,10 @@
    [
     "2026-11-22",
     198
+   ],
+   [
+    "2026-11-23",
+    135
    ]
   ],
   "5358610": [
@@ -76193,6 +77018,10 @@
    [
     "2026-11-22",
     15
+   ],
+   [
+    "2026-11-23",
+    7
    ]
   ],
   "5362590": [
@@ -76401,6 +77230,10 @@
    [
     "2026-11-22",
     10
+   ],
+   [
+    "2026-11-23",
+    17
    ]
   ],
   "5373260": [
@@ -76539,6 +77372,10 @@
    [
     "2026-11-22",
     26
+   ],
+   [
+    "2026-11-23",
+    23
    ]
   ],
   "5379430": [
@@ -76663,6 +77500,12 @@
     1
    ]
   ],
+  "5388370": [
+   [
+    "2026-11-23",
+    0
+   ]
+  ],
   "5389200": [
    [
     "2026-11-11",
@@ -76709,6 +77552,12 @@
    [
     "2026-11-16",
     0
+   ]
+  ],
+  "5390670": [
+   [
+    "2026-11-23",
+    2
    ]
   ],
   "5391250": [
@@ -76777,6 +77626,10 @@
    [
     "2026-11-22",
     3
+   ],
+   [
+    "2026-11-23",
+    2
    ]
   ],
   "5395660": [
@@ -77025,6 +77878,10 @@
    [
     "2026-11-22",
     0
+   ],
+   [
+    "2026-11-23",
+    2
    ]
   ],
   "5404940": [
@@ -77119,6 +77976,10 @@
    [
     "2026-11-22",
     80
+   ],
+   [
+    "2026-11-23",
+    63
    ]
   ],
   "5408770": [
@@ -77163,6 +78024,10 @@
    [
     "2026-11-22",
     536
+   ],
+   [
+    "2026-11-23",
+    292
    ]
   ],
   "5412000": [
@@ -77295,6 +78160,10 @@
    [
     "2026-11-22",
     22
+   ],
+   [
+    "2026-11-23",
+    18
    ]
   ],
   "5422560": [
@@ -77402,6 +78271,10 @@
   "5426410": [
    [
     "2026-11-22",
+    0
+   ],
+   [
+    "2026-11-23",
     0
    ]
   ],
@@ -78037,6 +78910,10 @@
    [
     "2026-11-22",
     1229
+   ],
+   [
+    "2026-11-23",
+    579
    ]
   ],
   "5471970": [
@@ -78099,6 +78976,10 @@
    [
     "2026-11-22",
     459
+   ],
+   [
+    "2026-11-23",
+    323
    ]
   ],
   "5472130": [
@@ -78225,6 +79106,10 @@
    [
     "2026-11-22",
     2
+   ],
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "5480320": [
@@ -78505,6 +79390,12 @@
     0
    ]
   ],
+  "5498600": [
+   [
+    "2026-11-23",
+    4
+   ]
+  ],
   "5499270": [
    [
     "2026-11-16",
@@ -78626,6 +79517,12 @@
   "5506620": [
    [
     "2026-11-22",
+    0
+   ]
+  ],
+  "5507320": [
+   [
+    "2026-11-23",
     0
    ]
   ],
@@ -78781,6 +79678,12 @@
     0
    ]
   ],
+  "5519340": [
+   [
+    "2026-11-23",
+    0
+   ]
+  ],
   "5519390": [
    [
     "2026-11-20",
@@ -78797,6 +79700,12 @@
    [
     "2026-11-12",
     25
+   ]
+  ],
+  "5521500": [
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "5523300": [
@@ -78921,6 +79830,10 @@
    [
     "2026-11-22",
     232
+   ],
+   [
+    "2026-11-23",
+    159
    ]
   ],
   "5533990": [
@@ -78951,6 +79864,10 @@
    [
     "2026-11-22",
     26
+   ],
+   [
+    "2026-11-23",
+    8
    ]
   ],
   "5537900": [
@@ -79025,6 +79942,10 @@
    [
     "2026-11-22",
     701
+   ],
+   [
+    "2026-11-23",
+    456
    ]
   ],
   "5541800": [
@@ -79049,6 +79970,12 @@
    [
     "2026-11-20",
     1
+   ]
+  ],
+  "5546670": [
+   [
+    "2026-11-23",
+    0
    ]
   ],
   "5547250": [
@@ -79105,6 +80032,16 @@
    [
     "2026-11-22",
     1
+   ],
+   [
+    "2026-11-23",
+    1
+   ]
+  ],
+  "5581970": [
+   [
+    "2026-11-23",
+    1
    ]
   ],
   "5619710": [
@@ -79141,7 +80078,6 @@
   ]
  },
  "rank_days": [
-  "2026-11-09",
   "2026-11-10",
   "2026-11-11",
   "2026-11-12",
@@ -79154,14 +80090,11 @@
   "2026-11-19",
   "2026-11-20",
   "2026-11-21",
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-23"
  ],
  "ranks": {
   "1228610": [
-   [
-    "2026-11-09",
-    58
-   ],
    [
     "2026-11-10",
     59
@@ -79212,15 +80145,15 @@
    ],
    [
     "2026-11-22",
+    59
+   ],
+   [
+    "2026-11-23",
     59
    ]
   ],
   "1257610": [
    [
-    "2026-11-09",
-    86
-   ],
-   [
     "2026-11-10",
     85
    ],
@@ -79270,15 +80203,15 @@
    ],
    [
     "2026-11-22",
+    84
+   ],
+   [
+    "2026-11-23",
     84
    ]
   ],
   "1280190": [
    [
-    "2026-11-09",
-    36
-   ],
-   [
     "2026-11-10",
     36
    ],
@@ -79328,15 +80261,15 @@
    ],
    [
     "2026-11-22",
+    36
+   ],
+   [
+    "2026-11-23",
     36
    ]
   ],
   "1313230": [
    [
-    "2026-11-09",
-    40
-   ],
-   [
     "2026-11-10",
     40
    ],
@@ -79386,15 +80319,15 @@
    ],
    [
     "2026-11-22",
+    40
+   ],
+   [
+    "2026-11-23",
     40
    ]
   ],
   "1340720": [
    [
-    "2026-11-09",
-    23
-   ],
-   [
     "2026-11-10",
     23
    ],
@@ -79444,15 +80377,15 @@
    ],
    [
     "2026-11-22",
+    23
+   ],
+   [
+    "2026-11-23",
     23
    ]
   ],
   "1373910": [
    [
-    "2026-11-09",
-    65
-   ],
-   [
     "2026-11-10",
     65
    ],
@@ -79502,15 +80435,15 @@
    ],
    [
     "2026-11-22",
+    64
+   ],
+   [
+    "2026-11-23",
     64
    ]
   ],
   "1416070": [
    [
-    "2026-11-09",
-    85
-   ],
-   [
     "2026-11-10",
     84
    ],
@@ -79560,6 +80493,10 @@
    ],
    [
     "2026-11-22",
+    83
+   ],
+   [
+    "2026-11-23",
     83
    ]
   ],
@@ -79599,13 +80536,13 @@
    [
     "2026-11-22",
     1
+   ],
+   [
+    "2026-11-23",
+    1
    ]
   ],
   "1579420": [
-   [
-    "2026-11-09",
-    95
-   ],
    [
     "2026-11-10",
     95
@@ -79657,13 +80594,13 @@
    [
     "2026-11-22",
     97
+   ],
+   [
+    "2026-11-23",
+    97
    ]
   ],
   "1586260": [
-   [
-    "2026-11-09",
-    67
-   ],
    [
     "2026-11-10",
     68
@@ -79715,13 +80652,13 @@
    [
     "2026-11-22",
     67
+   ],
+   [
+    "2026-11-23",
+    67
    ]
   ],
   "1614330": [
-   [
-    "2026-11-09",
-    87
-   ],
    [
     "2026-11-10",
     86
@@ -79773,13 +80710,13 @@
    [
     "2026-11-22",
     85
+   ],
+   [
+    "2026-11-23",
+    85
    ]
   ],
   "1685960": [
-   [
-    "2026-11-09",
-    44
-   ],
    [
     "2026-11-10",
     44
@@ -79831,13 +80768,13 @@
    [
     "2026-11-22",
     46
+   ],
+   [
+    "2026-11-23",
+    46
    ]
   ],
   "1687540": [
-   [
-    "2026-11-09",
-    35
-   ],
    [
     "2026-11-10",
     35
@@ -79888,15 +80825,15 @@
    ],
    [
     "2026-11-22",
+    34
+   ],
+   [
+    "2026-11-23",
     34
    ]
   ],
   "1731290": [
    [
-    "2026-11-09",
-    89
-   ],
-   [
     "2026-11-10",
     88
    ],
@@ -79947,13 +80884,13 @@
    [
     "2026-11-22",
     88
+   ],
+   [
+    "2026-11-23",
+    88
    ]
   ],
   "1752080": [
-   [
-    "2026-11-09",
-    47
-   ],
    [
     "2026-11-10",
     47
@@ -80005,13 +80942,13 @@
    [
     "2026-11-22",
     44
+   ],
+   [
+    "2026-11-23",
+    44
    ]
   ],
   "1757350": [
-   [
-    "2026-11-09",
-    10
-   ],
    [
     "2026-11-10",
     10
@@ -80062,15 +80999,15 @@
    ],
    [
     "2026-11-22",
+    10
+   ],
+   [
+    "2026-11-23",
     10
    ]
   ],
   "1774880": [
    [
-    "2026-11-09",
-    5
-   ],
-   [
     "2026-11-10",
     5
    ],
@@ -80120,15 +81057,15 @@
    ],
    [
     "2026-11-22",
+    5
+   ],
+   [
+    "2026-11-23",
     5
    ]
   ],
   "1818140": [
    [
-    "2026-11-09",
-    79
-   ],
-   [
     "2026-11-10",
     78
    ],
@@ -80178,15 +81115,15 @@
    ],
    [
     "2026-11-22",
+    78
+   ],
+   [
+    "2026-11-23",
     78
    ]
   ],
   "1846700": [
    [
-    "2026-11-09",
-    9
-   ],
-   [
     "2026-11-10",
     9
    ],
@@ -80236,15 +81173,15 @@
    ],
    [
     "2026-11-22",
+    9
+   ],
+   [
+    "2026-11-23",
     9
    ]
   ],
   "1940080": [
    [
-    "2026-11-09",
-    29
-   ],
-   [
     "2026-11-10",
     29
    ],
@@ -80295,13 +81232,13 @@
    [
     "2026-11-22",
     28
+   ],
+   [
+    "2026-11-23",
+    29
    ]
   ],
   "1952620": [
-   [
-    "2026-11-09",
-    61
-   ],
    [
     "2026-11-10",
     61
@@ -80353,13 +81290,13 @@
    [
     "2026-11-22",
     58
+   ],
+   [
+    "2026-11-23",
+    58
    ]
   ],
   "2050420": [
-   [
-    "2026-11-09",
-    12
-   ],
    [
     "2026-11-10",
     12
@@ -80410,15 +81347,15 @@
    ],
    [
     "2026-11-22",
+    12
+   ],
+   [
+    "2026-11-23",
     12
    ]
   ],
   "2090210": [
    [
-    "2026-11-09",
-    69
-   ],
-   [
     "2026-11-10",
     69
    ],
@@ -80468,15 +81405,15 @@
    ],
    [
     "2026-11-22",
+    68
+   ],
+   [
+    "2026-11-23",
     68
    ]
   ],
   "2109770": [
    [
-    "2026-11-09",
-    8
-   ],
-   [
     "2026-11-10",
     8
    ],
@@ -80527,13 +81464,13 @@
    [
     "2026-11-22",
     8
+   ],
+   [
+    "2026-11-23",
+    8
    ]
   ],
   "2141130": [
-   [
-    "2026-11-09",
-    98
-   ],
    [
     "2026-11-10",
     97
@@ -80585,13 +81522,13 @@
    [
     "2026-11-22",
     98
+   ],
+   [
+    "2026-11-23",
+    98
    ]
   ],
   "2153760": [
-   [
-    "2026-11-09",
-    64
-   ],
    [
     "2026-11-10",
     64
@@ -80642,15 +81579,15 @@
    ],
    [
     "2026-11-22",
+    62
+   ],
+   [
+    "2026-11-23",
     62
    ]
   ],
   "2161710": [
    [
-    "2026-11-09",
-    42
-   ],
-   [
     "2026-11-10",
     42
    ],
@@ -80700,15 +81637,15 @@
    ],
    [
     "2026-11-22",
+    42
+   ],
+   [
+    "2026-11-23",
     42
    ]
   ],
   "2165810": [
    [
-    "2026-11-09",
-    84
-   ],
-   [
     "2026-11-10",
     83
    ],
@@ -80759,13 +81696,13 @@
    [
     "2026-11-22",
     82
+   ],
+   [
+    "2026-11-23",
+    82
    ]
   ],
   "2179480": [
-   [
-    "2026-11-09",
-    37
-   ],
    [
     "2026-11-10",
     37
@@ -80817,13 +81754,13 @@
    [
     "2026-11-22",
     35
+   ],
+   [
+    "2026-11-23",
+    35
    ]
   ],
   "2208810": [
-   [
-    "2026-11-09",
-    93
-   ],
    [
     "2026-11-10",
     92
@@ -80874,15 +81811,15 @@
    ],
    [
     "2026-11-22",
+    90
+   ],
+   [
+    "2026-11-23",
     90
    ]
   ],
   "2231020": [
    [
-    "2026-11-09",
-    26
-   ],
-   [
     "2026-11-10",
     26
    ],
@@ -80932,15 +81869,15 @@
    ],
    [
     "2026-11-22",
+    26
+   ],
+   [
+    "2026-11-23",
     26
    ]
   ],
   "2235430": [
    [
-    "2026-11-09",
-    81
-   ],
-   [
     "2026-11-10",
     80
    ],
@@ -80990,15 +81927,15 @@
    ],
    [
     "2026-11-22",
+    79
+   ],
+   [
+    "2026-11-23",
     79
    ]
   ],
   "2239770": [
    [
-    "2026-11-09",
-    66
-   ],
-   [
     "2026-11-10",
     66
    ],
@@ -81048,15 +81985,15 @@
    ],
    [
     "2026-11-22",
+    65
+   ],
+   [
+    "2026-11-23",
     65
    ]
   ],
   "2272360": [
    [
-    "2026-11-09",
-    17
-   ],
-   [
     "2026-11-10",
     17
    ],
@@ -81106,15 +82043,15 @@
    ],
    [
     "2026-11-22",
+    16
+   ],
+   [
+    "2026-11-23",
     16
    ]
   ],
   "2295170": [
    [
-    "2026-11-09",
-    33
-   ],
-   [
     "2026-11-10",
     33
    ],
@@ -81164,15 +82101,15 @@
    ],
    [
     "2026-11-22",
+    33
+   ],
+   [
+    "2026-11-23",
     33
    ]
   ],
   "2318330": [
    [
-    "2026-11-09",
-    57
-   ],
-   [
     "2026-11-10",
     57
    ],
@@ -81222,15 +82159,15 @@
    ],
    [
     "2026-11-22",
+    55
+   ],
+   [
+    "2026-11-23",
     55
    ]
   ],
   "2340970": [
    [
-    "2026-11-09",
-    27
-   ],
-   [
     "2026-11-10",
     27
    ],
@@ -81280,15 +82217,15 @@
    ],
    [
     "2026-11-22",
+    27
+   ],
+   [
+    "2026-11-23",
     27
    ]
   ],
   "2381520": [
    [
-    "2026-11-09",
-    14
-   ],
-   [
     "2026-11-10",
     14
    ],
@@ -81339,13 +82276,13 @@
    [
     "2026-11-22",
     14
+   ],
+   [
+    "2026-11-23",
+    14
    ]
   ],
   "2437390": [
-   [
-    "2026-11-09",
-    97
-   ],
    [
     "2026-11-10",
     96
@@ -81397,13 +82334,13 @@
    [
     "2026-11-22",
     96
+   ],
+   [
+    "2026-11-23",
+    96
    ]
   ],
   "2439280": [
-   [
-    "2026-11-09",
-    53
-   ],
    [
     "2026-11-10",
     54
@@ -81454,15 +82391,15 @@
    ],
    [
     "2026-11-22",
+    54
+   ],
+   [
+    "2026-11-23",
     54
    ]
   ],
   "2454980": [
    [
-    "2026-11-09",
-    70
-   ],
-   [
     "2026-11-10",
     71
    ],
@@ -81512,15 +82449,15 @@
    ],
    [
     "2026-11-22",
+    70
+   ],
+   [
+    "2026-11-23",
     70
    ]
   ],
   "2582960": [
    [
-    "2026-11-09",
-    24
-   ],
-   [
     "2026-11-10",
     24
    ],
@@ -81570,15 +82507,15 @@
    ],
    [
     "2026-11-22",
+    25
+   ],
+   [
+    "2026-11-23",
     25
    ]
   ],
   "2590240": [
    [
-    "2026-11-09",
-    13
-   ],
-   [
     "2026-11-10",
     13
    ],
@@ -81628,15 +82565,15 @@
    ],
    [
     "2026-11-22",
+    13
+   ],
+   [
+    "2026-11-23",
     13
    ]
   ],
   "2610770": [
    [
-    "2026-11-09",
-    54
-   ],
-   [
     "2026-11-10",
     53
    ],
@@ -81687,13 +82624,13 @@
    [
     "2026-11-22",
     52
+   ],
+   [
+    "2026-11-23",
+    52
    ]
   ],
   "2649560": [
-   [
-    "2026-11-09",
-    32
-   ],
    [
     "2026-11-10",
     32
@@ -81745,13 +82682,13 @@
    [
     "2026-11-22",
     31
+   ],
+   [
+    "2026-11-23",
+    31
    ]
   ],
   "2692660": [
-   [
-    "2026-11-09",
-    55
-   ],
    [
     "2026-11-10",
     55
@@ -81803,13 +82740,13 @@
    [
     "2026-11-22",
     51
+   ],
+   [
+    "2026-11-23",
+    51
    ]
   ],
   "2719590": [
-   [
-    "2026-11-09",
-    3
-   ],
    [
     "2026-11-10",
     3
@@ -81860,15 +82797,15 @@
    ],
    [
     "2026-11-22",
+    3
+   ],
+   [
+    "2026-11-23",
     3
    ]
   ],
   "2724650": [
    [
-    "2026-11-09",
-    41
-   ],
-   [
     "2026-11-10",
     41
    ],
@@ -81918,15 +82855,15 @@
    ],
    [
     "2026-11-22",
+    43
+   ],
+   [
+    "2026-11-23",
     43
    ]
   ],
   "2769570": [
    [
-    "2026-11-09",
-    4
-   ],
-   [
     "2026-11-10",
     4
    ],
@@ -81976,6 +82913,10 @@
    ],
    [
     "2026-11-22",
+    4
+   ],
+   [
+    "2026-11-23",
     4
    ]
   ],
@@ -82019,13 +82960,13 @@
    [
     "2026-11-22",
     100
+   ],
+   [
+    "2026-11-23",
+    100
    ]
   ],
   "2814860": [
-   [
-    "2026-11-09",
-    25
-   ],
    [
     "2026-11-10",
     25
@@ -82076,15 +83017,15 @@
    ],
    [
     "2026-11-22",
+    24
+   ],
+   [
+    "2026-11-23",
     24
    ]
   ],
   "2838950": [
    [
-    "2026-11-09",
-    96
-   ],
-   [
     "2026-11-10",
     94
    ],
@@ -82135,13 +83076,13 @@
    [
     "2026-11-22",
     92
+   ],
+   [
+    "2026-11-23",
+    92
    ]
   ],
   "2849490": [
-   [
-    "2026-11-09",
-    75
-   ],
    [
     "2026-11-10",
     74
@@ -82193,13 +83134,13 @@
    [
     "2026-11-22",
     73
+   ],
+   [
+    "2026-11-23",
+    73
    ]
   ],
   "2861080": [
-   [
-    "2026-11-09",
-    39
-   ],
    [
     "2026-11-10",
     39
@@ -82250,15 +83191,15 @@
    ],
    [
     "2026-11-22",
+    39
+   ],
+   [
+    "2026-11-23",
     39
    ]
   ],
   "2873440": [
    [
-    "2026-11-09",
-    21
-   ],
-   [
     "2026-11-10",
     21
    ],
@@ -82308,15 +83249,15 @@
    ],
    [
     "2026-11-22",
+    21
+   ],
+   [
+    "2026-11-23",
     21
    ]
   ],
   "2924520": [
    [
-    "2026-11-09",
-    82
-   ],
-   [
     "2026-11-10",
     81
    ],
@@ -82367,13 +83308,13 @@
    [
     "2026-11-22",
     80
+   ],
+   [
+    "2026-11-23",
+    80
    ]
   ],
   "2956040": [
-   [
-    "2026-11-09",
-    43
-   ],
    [
     "2026-11-10",
     43
@@ -82425,13 +83366,13 @@
    [
     "2026-11-22",
     45
+   ],
+   [
+    "2026-11-23",
+    45
    ]
   ],
   "2963950": [
-   [
-    "2026-11-09",
-    16
-   ],
    [
     "2026-11-10",
     16
@@ -82482,15 +83423,15 @@
    ],
    [
     "2026-11-22",
+    17
+   ],
+   [
+    "2026-11-23",
     17
    ]
   ],
   "3016620": [
    [
-    "2026-11-09",
-    30
-   ],
-   [
     "2026-11-10",
     30
    ],
@@ -82540,15 +83481,15 @@
    ],
    [
     "2026-11-22",
+    30
+   ],
+   [
+    "2026-11-23",
     30
    ]
   ],
   "3073940": [
    [
-    "2026-11-09",
-    60
-   ],
-   [
     "2026-11-10",
     60
    ],
@@ -82599,13 +83540,13 @@
    [
     "2026-11-22",
     56
+   ],
+   [
+    "2026-11-23",
+    56
    ]
   ],
   "3078150": [
-   [
-    "2026-11-09",
-    94
-   ],
    [
     "2026-11-10",
     93
@@ -82657,13 +83598,13 @@
    [
     "2026-11-22",
     94
+   ],
+   [
+    "2026-11-23",
+    94
    ]
   ],
   "3161310": [
-   [
-    "2026-11-09",
-    45
-   ],
    [
     "2026-11-10",
     45
@@ -82715,13 +83656,13 @@
    [
     "2026-11-22",
     41
+   ],
+   [
+    "2026-11-23",
+    41
    ]
   ],
   "3230960": [
-   [
-    "2026-11-09",
-    52
-   ],
    [
     "2026-11-10",
     52
@@ -82772,15 +83713,15 @@
    ],
    [
     "2026-11-22",
+    49
+   ],
+   [
+    "2026-11-23",
     49
    ]
   ],
   "3255110": [
    [
-    "2026-11-09",
-    46
-   ],
-   [
     "2026-11-10",
     46
    ],
@@ -82830,15 +83771,15 @@
    ],
    [
     "2026-11-22",
+    48
+   ],
+   [
+    "2026-11-23",
     48
    ]
   ],
   "3281420": [
    [
-    "2026-11-09",
-    73
-   ],
-   [
     "2026-11-10",
     73
    ],
@@ -82888,15 +83829,15 @@
    ],
    [
     "2026-11-22",
+    72
+   ],
+   [
+    "2026-11-23",
     72
    ]
   ],
   "3283240": [
    [
-    "2026-11-09",
-    83
-   ],
-   [
     "2026-11-10",
     82
    ],
@@ -82946,15 +83887,15 @@
    ],
    [
     "2026-11-22",
+    81
+   ],
+   [
+    "2026-11-23",
     81
    ]
   ],
   "3292470": [
    [
-    "2026-11-09",
-    20
-   ],
-   [
     "2026-11-10",
     20
    ],
@@ -83004,15 +83945,15 @@
    ],
    [
     "2026-11-22",
+    20
+   ],
+   [
+    "2026-11-23",
     20
    ]
   ],
   "3337850": [
    [
-    "2026-11-09",
-    62
-   ],
-   [
     "2026-11-10",
     62
    ],
@@ -83063,13 +84004,13 @@
    [
     "2026-11-22",
     61
+   ],
+   [
+    "2026-11-23",
+    61
    ]
   ],
   "3371050": [
-   [
-    "2026-11-09",
-    72
-   ],
    [
     "2026-11-10",
     72
@@ -83121,13 +84062,13 @@
    [
     "2026-11-22",
     66
+   ],
+   [
+    "2026-11-23",
+    66
    ]
   ],
   "3517740": [
-   [
-    "2026-11-09",
-    59
-   ],
    [
     "2026-11-10",
     58
@@ -83178,15 +84119,15 @@
    ],
    [
     "2026-11-22",
+    57
+   ],
+   [
+    "2026-11-23",
     57
    ]
   ],
   "3558670": [
    [
-    "2026-11-09",
-    19
-   ],
-   [
     "2026-11-10",
     19
    ],
@@ -83236,6 +84177,10 @@
    ],
    [
     "2026-11-22",
+    19
+   ],
+   [
+    "2026-11-23",
     19
    ]
   ],
@@ -83254,10 +84199,6 @@
    ]
   ],
   "3642910": [
-   [
-    "2026-11-09",
-    63
-   ],
    [
     "2026-11-10",
     63
@@ -83309,13 +84250,13 @@
    [
     "2026-11-22",
     60
+   ],
+   [
+    "2026-11-23",
+    60
    ]
   ],
   "3669200": [
-   [
-    "2026-11-09",
-    99
-   ],
    [
     "2026-11-10",
     98
@@ -83367,6 +84308,10 @@
    [
     "2026-11-22",
     93
+   ],
+   [
+    "2026-11-23",
+    93
    ]
   ],
   "3669620": [
@@ -83389,10 +84334,6 @@
   ],
   "3710600": [
    [
-    "2026-11-09",
-    22
-   ],
-   [
     "2026-11-10",
     22
    ],
@@ -83442,15 +84383,15 @@
    ],
    [
     "2026-11-22",
+    22
+   ],
+   [
+    "2026-11-23",
     22
    ]
   ],
   "3714800": [
    [
-    "2026-11-09",
-    88
-   ],
-   [
     "2026-11-10",
     87
    ],
@@ -83500,15 +84441,15 @@
    ],
    [
     "2026-11-22",
+    87
+   ],
+   [
+    "2026-11-23",
     87
    ]
   ],
   "3727390": [
    [
-    "2026-11-09",
-    18
-   ],
-   [
     "2026-11-10",
     18
    ],
@@ -83558,15 +84499,15 @@
    ],
    [
     "2026-11-22",
+    18
+   ],
+   [
+    "2026-11-23",
     18
    ]
   ],
   "3788800": [
    [
-    "2026-11-09",
-    78
-   ],
-   [
     "2026-11-10",
     77
    ],
@@ -83616,15 +84557,15 @@
    ],
    [
     "2026-11-22",
+    77
+   ],
+   [
+    "2026-11-23",
     77
    ]
   ],
   "3864580": [
    [
-    "2026-11-09",
-    49
-   ],
-   [
     "2026-11-10",
     50
    ],
@@ -83674,15 +84615,15 @@
    ],
    [
     "2026-11-22",
+    50
+   ],
+   [
+    "2026-11-23",
     50
    ]
   ],
   "3978820": [
    [
-    "2026-11-09",
-    31
-   ],
-   [
     "2026-11-10",
     31
    ],
@@ -83732,15 +84673,15 @@
    ],
    [
     "2026-11-22",
+    32
+   ],
+   [
+    "2026-11-23",
     32
    ]
   ],
   "4031890": [
    [
-    "2026-11-09",
-    77
-   ],
-   [
     "2026-11-10",
     76
    ],
@@ -83790,6 +84731,10 @@
    ],
    [
     "2026-11-22",
+    76
+   ],
+   [
+    "2026-11-23",
     76
    ]
   ],
@@ -83849,10 +84794,6 @@
   ],
   "4095380": [
    [
-    "2026-11-09",
-    11
-   ],
-   [
     "2026-11-10",
     11
    ],
@@ -83903,13 +84844,13 @@
    [
     "2026-11-22",
     11
+   ],
+   [
+    "2026-11-23",
+    11
    ]
   ],
   "4150720": [
-   [
-    "2026-11-09",
-    48
-   ],
    [
     "2026-11-10",
     49
@@ -83961,13 +84902,13 @@
    [
     "2026-11-22",
     38
+   ],
+   [
+    "2026-11-23",
+    38
    ]
   ],
   "4199910": [
-   [
-    "2026-11-09",
-    6
-   ],
    [
     "2026-11-10",
     6
@@ -84018,15 +84959,15 @@
    ],
    [
     "2026-11-22",
+    7
+   ],
+   [
+    "2026-11-23",
     7
    ]
   ],
   "4228810": [
    [
-    "2026-11-09",
-    76
-   ],
-   [
     "2026-11-10",
     75
    ],
@@ -84076,15 +85017,15 @@
    ],
    [
     "2026-11-22",
+    74
+   ],
+   [
+    "2026-11-23",
     74
    ]
   ],
   "4258290": [
    [
-    "2026-11-09",
-    91
-   ],
-   [
     "2026-11-10",
     90
    ],
@@ -84135,13 +85076,13 @@
    [
     "2026-11-22",
     89
+   ],
+   [
+    "2026-11-23",
+    89
    ]
   ],
   "4260840": [
-   [
-    "2026-11-09",
-    56
-   ],
    [
     "2026-11-10",
     56
@@ -84193,6 +85134,10 @@
    [
     "2026-11-22",
     53
+   ],
+   [
+    "2026-11-23",
+    53
    ]
   ],
   "4293910": [
@@ -84223,13 +85168,13 @@
    [
     "2026-11-22",
     99
+   ],
+   [
+    "2026-11-23",
+    99
    ]
   ],
   "4354570": [
-   [
-    "2026-11-09",
-    51
-   ],
    [
     "2026-11-10",
     51
@@ -84281,13 +85226,13 @@
    [
     "2026-11-22",
     47
+   ],
+   [
+    "2026-11-23",
+    47
    ]
   ],
   "4369620": [
-   [
-    "2026-11-09",
-    100
-   ],
    [
     "2026-11-10",
     99
@@ -84339,13 +85284,13 @@
    [
     "2026-11-22",
     95
+   ],
+   [
+    "2026-11-23",
+    95
    ]
   ],
   "4534960": [
-   [
-    "2026-11-09",
-    2
-   ],
    [
     "2026-11-10",
     2
@@ -84396,15 +85341,15 @@
    ],
    [
     "2026-11-22",
+    2
+   ],
+   [
+    "2026-11-23",
     2
    ]
   ],
   "4614080": [
    [
-    "2026-11-09",
-    92
-   ],
-   [
     "2026-11-10",
     91
    ],
@@ -84454,15 +85399,15 @@
    ],
    [
     "2026-11-22",
+    91
+   ],
+   [
+    "2026-11-23",
     91
    ]
   ],
   "4743930": [
    [
-    "2026-11-09",
-    38
-   ],
-   [
     "2026-11-10",
     38
    ],
@@ -84513,13 +85458,13 @@
    [
     "2026-11-22",
     37
+   ],
+   [
+    "2026-11-23",
+    37
    ]
   ],
   "4767480": [
-   [
-    "2026-11-09",
-    80
-   ],
    [
     "2026-11-10",
     79
@@ -84571,13 +85516,13 @@
    [
     "2026-11-22",
     75
+   ],
+   [
+    "2026-11-23",
+    75
    ]
   ],
   "4814120": [
-   [
-    "2026-11-09",
-    90
-   ],
    [
     "2026-11-10",
     89
@@ -84629,13 +85574,13 @@
    [
     "2026-11-22",
     86
+   ],
+   [
+    "2026-11-23",
+    86
    ]
   ],
   "4824610": [
-   [
-    "2026-11-09",
-    7
-   ],
    [
     "2026-11-10",
     7
@@ -84686,6 +85631,10 @@
    ],
    [
     "2026-11-22",
+    6
+   ],
+   [
+    "2026-11-23",
     6
    ]
   ],
@@ -84737,13 +85686,13 @@
    [
     "2026-11-22",
     71
+   ],
+   [
+    "2026-11-23",
+    71
    ]
   ],
   "5072600": [
-   [
-    "2026-11-09",
-    34
-   ],
    [
     "2026-11-10",
     34
@@ -84795,6 +85744,10 @@
    [
     "2026-11-22",
     29
+   ],
+   [
+    "2026-11-23",
+    28
    ]
   ]
  }
